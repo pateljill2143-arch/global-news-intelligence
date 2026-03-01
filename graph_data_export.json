@@ -1,0 +1,3462 @@
+{
+  "exported_at": "2026-03-01T23:21:02.051387",
+  "entities": [
+    {
+      "name": "Trump",
+      "mentions": 136
+    },
+    {
+      "name": "China",
+      "mentions": 103
+    },
+    {
+      "name": "Iran",
+      "mentions": 93
+    },
+    {
+      "name": "US",
+      "mentions": 89
+    },
+    {
+      "name": "Putin",
+      "mentions": 75
+    },
+    {
+      "name": "Russia",
+      "mentions": 68
+    },
+    {
+      "name": "Taiwan",
+      "mentions": 62
+    },
+    {
+      "name": "Mo",
+      "mentions": 59
+    },
+    {
+      "name": "di",
+      "mentions": 52
+    },
+    {
+      "name": "India",
+      "mentions": 52
+    },
+    {
+      "name": "Ukraine",
+      "mentions": 39
+    },
+    {
+      "name": "AI",
+      "mentions": 38
+    },
+    {
+      "name": "Israel",
+      "mentions": 37
+    },
+    {
+      "name": "Xi Jinping",
+      "mentions": 31
+    },
+    {
+      "name": "UK",
+      "mentions": 26
+    },
+    {
+      "name": "Xi",
+      "mentions": 24
+    },
+    {
+      "name": "Gaza",
+      "mentions": 22
+    },
+    {
+      "name": "Dubai",
+      "mentions": 18
+    },
+    {
+      "name": "Japan",
+      "mentions": 17
+    },
+    {
+      "name": "Europe",
+      "mentions": 15
+    },
+    {
+      "name": "iden",
+      "mentions": 14
+    },
+    {
+      "name": "Middle East",
+      "mentions": 11
+    },
+    {
+      "name": "Donald Trump",
+      "mentions": 11
+    },
+    {
+      "name": "Net",
+      "mentions": 10
+    },
+    {
+      "name": "Congress",
+      "mentions": 10
+    },
+    {
+      "name": "Cha",
+      "mentions": 10
+    },
+    {
+      "name": "Son",
+      "mentions": 10
+    },
+    {
+      "name": "al Chauh",
+      "mentions": 10
+    },
+    {
+      "name": "FBI",
+      "mentions": 10
+    },
+    {
+      "name": "ps",
+      "mentions": 10
+    },
+    {
+      "name": "Pakistan",
+      "mentions": 10
+    },
+    {
+      "name": "al Chauhan",
+      "mentions": 8
+    },
+    {
+      "name": "Australia",
+      "mentions": 8
+    },
+    {
+      "name": "UN",
+      "mentions": 8
+    },
+    {
+      "name": "anyahu",
+      "mentions": 8
+    },
+    {
+      "name": "Venezuela",
+      "mentions": 8
+    },
+    {
+      "name": "Pentagon",
+      "mentions": 8
+    },
+    {
+      "name": "mer",
+      "mentions": 8
+    },
+    {
+      "name": "ir Starmer",
+      "mentions": 8
+    },
+    {
+      "name": "Starmer",
+      "mentions": 7
+    },
+    {
+      "name": "Guardian",
+      "mentions": 7
+    },
+    {
+      "name": "ya",
+      "mentions": 7
+    },
+    {
+      "name": "Khamenei",
+      "mentions": 7
+    },
+    {
+      "name": "Chinese",
+      "mentions": 7
+    },
+    {
+      "name": "Isaac Herzog",
+      "mentions": 6
+    },
+    {
+      "name": "European",
+      "mentions": 6
+    },
+    {
+      "name": "Hong Kong",
+      "mentions": 6
+    },
+    {
+      "name": "Beijing",
+      "mentions": 6
+    },
+    {
+      "name": "Micron",
+      "mentions": 6
+    },
+    {
+      "name": "OpenAI",
+      "mentions": 6
+    },
+    {
+      "name": "llah Ali Khamenei",
+      "mentions": 6
+    },
+    {
+      "name": "sk",
+      "mentions": 6
+    },
+    {
+      "name": "Georgia",
+      "mentions": 5
+    },
+    {
+      "name": "Mu",
+      "mentions": 5
+    },
+    {
+      "name": "Canada",
+      "mentions": 5
+    },
+    {
+      "name": "tein",
+      "mentions": 5
+    },
+    {
+      "name": "Iranian",
+      "mentions": 5
+    },
+    {
+      "name": "South Korea",
+      "mentions": 5
+    },
+    {
+      "name": "Tehran",
+      "mentions": 5
+    },
+    {
+      "name": "Indian",
+      "mentions": 5
+    },
+    {
+      "name": "Kyiv",
+      "mentions": 5
+    },
+    {
+      "name": "nsky",
+      "mentions": 5
+    },
+    {
+      "name": "English",
+      "mentions": 4
+    },
+    {
+      "name": "Car",
+      "mentions": 4
+    },
+    {
+      "name": "ney",
+      "mentions": 4
+    },
+    {
+      "name": "Russian",
+      "mentions": 4
+    },
+    {
+      "name": "Chi",
+      "mentions": 4
+    },
+    {
+      "name": "Delhi",
+      "mentions": 4
+    },
+    {
+      "name": "HP",
+      "mentions": 4
+    },
+    {
+      "name": "Zele",
+      "mentions": 4
+    },
+    {
+      "name": "Anthrop",
+      "mentions": 4
+    },
+    {
+      "name": "Or",
+      "mentions": 4
+    },
+    {
+      "name": "U. S.",
+      "mentions": 4
+    },
+    {
+      "name": "Ha",
+      "mentions": 4
+    },
+    {
+      "name": "pro",
+      "mentions": 4
+    },
+    {
+      "name": "Philippines",
+      "mentions": 4
+    },
+    {
+      "name": "North Korea",
+      "mentions": 4
+    },
+    {
+      "name": "Stalled Ahead",
+      "mentions": 4
+    },
+    {
+      "name": "Star",
+      "mentions": 4
+    },
+    {
+      "name": "to",
+      "mentions": 4
+    },
+    {
+      "name": "za Pahlavi",
+      "mentions": 4
+    },
+    {
+      "name": "Biden",
+      "mentions": 4
+    },
+    {
+      "name": "ls",
+      "mentions": 4
+    },
+    {
+      "name": "i Gabbard",
+      "mentions": 4
+    },
+    {
+      "name": "Bill Clinton",
+      "mentions": 4
+    },
+    {
+      "name": "Ke",
+      "mentions": 4
+    },
+    {
+      "name": "Kim",
+      "mentions": 4
+    },
+    {
+      "name": "Ki",
+      "mentions": 4
+    },
+    {
+      "name": "ic",
+      "mentions": 4
+    },
+    {
+      "name": "Obama",
+      "mentions": 3
+    },
+    {
+      "name": "Jesse Jackson",
+      "mentions": 3
+    },
+    {
+      "name": "Grok AI",
+      "mentions": 3
+    },
+    {
+      "name": "Tu",
+      "mentions": 3
+    },
+    {
+      "name": "British",
+      "mentions": 3
+    },
+    {
+      "name": "throp",
+      "mentions": 3
+    },
+    {
+      "name": "Australian",
+      "mentions": 3
+    },
+    {
+      "name": "Israeli",
+      "mentions": 3
+    },
+    {
+      "name": "Korean Air",
+      "mentions": 3
+    },
+    {
+      "name": "State of the Union",
+      "mentions": 3
+    },
+    {
+      "name": "Macron",
+      "mentions": 3
+    },
+    {
+      "name": "Modi",
+      "mentions": 3
+    },
+    {
+      "name": "Kremlin",
+      "mentions": 3
+    },
+    {
+      "name": "ele",
+      "mentions": 3
+    },
+    {
+      "name": "Claude",
+      "mentions": 3
+    },
+    {
+      "name": "Grok",
+      "mentions": 2
+    },
+    {
+      "name": "gs",
+      "mentions": 2
+    },
+    {
+      "name": "Vietnam",
+      "mentions": 2
+    },
+    {
+      "name": "Laws",
+      "mentions": 2
+    },
+    {
+      "name": "gia Meloni",
+      "mentions": 2
+    },
+    {
+      "name": "hara",
+      "mentions": 2
+    },
+    {
+      "name": "da P",
+      "mentions": 2
+    },
+    {
+      "name": "Anthropic",
+      "mentions": 2
+    },
+    {
+      "name": "Block",
+      "mentions": 2
+    },
+    {
+      "name": "GP",
+      "mentions": 2
+    },
+    {
+      "name": "Albanese",
+      "mentions": 2
+    },
+    {
+      "name": "Hamas",
+      "mentions": 2
+    },
+    {
+      "name": "D Vance",
+      "mentions": 2
+    },
+    {
+      "name": "Gaza City",
+      "mentions": 2
+    },
+    {
+      "name": "Palestine Action",
+      "mentions": 2
+    },
+    {
+      "name": "Kness",
+      "mentions": 2
+    },
+    {
+      "name": "et",
+      "mentions": 2
+    },
+    {
+      "name": "Israeli Court",
+      "mentions": 2
+    },
+    {
+      "name": "Palestine",
+      "mentions": 2
+    },
+    {
+      "name": "Gail '",
+      "mentions": 2
+    },
+    {
+      "name": "Free",
+      "mentions": 2
+    },
+    {
+      "name": "Board of Peace",
+      "mentions": 2
+    },
+    {
+      "name": "Washington",
+      "mentions": 2
+    },
+    {
+      "name": "Simon Tisdal",
+      "mentions": 2
+    },
+    {
+      "name": "Honduras",
+      "mentions": 2
+    },
+    {
+      "name": "Latin American",
+      "mentions": 2
+    },
+    {
+      "name": "Ragas",
+      "mentions": 2
+    },
+    {
+      "name": "Takaichi",
+      "mentions": 2
+    },
+    {
+      "name": "Ragasa",
+      "mentions": 2
+    },
+    {
+      "name": "du",
+      "mentions": 2
+    },
+    {
+      "name": "Steven Greenhouse",
+      "mentions": 2
+    },
+    {
+      "name": "Germany",
+      "mentions": 2
+    },
+    {
+      "name": "Senkaku",
+      "mentions": 2
+    },
+    {
+      "name": "Up USA",
+      "mentions": 2
+    },
+    {
+      "name": "hip",
+      "mentions": 2
+    },
+    {
+      "name": "Asiana Me",
+      "mentions": 2
+    },
+    {
+      "name": "rger",
+      "mentions": 2
+    },
+    {
+      "name": "Marriott",
+      "mentions": 2
+    },
+    {
+      "name": "Hilton",
+      "mentions": 2
+    },
+    {
+      "name": "United States",
+      "mentions": 2
+    },
+    {
+      "name": "Asiana Airlines",
+      "mentions": 2
+    },
+    {
+      "name": "Lotte Hotels",
+      "mentions": 2
+    },
+    {
+      "name": "Gangwon State",
+      "mentions": 2
+    },
+    {
+      "name": "Trillion",
+      "mentions": 2
+    },
+    {
+      "name": "of China Summit",
+      "mentions": 2
+    },
+    {
+      "name": "Plans",
+      "mentions": 2
+    },
+    {
+      "name": "Merz",
+      "mentions": 2
+    },
+    {
+      "name": "Morning Mail",
+      "mentions": 2
+    },
+    {
+      "name": "One Nation",
+      "mentions": 2
+    },
+    {
+      "name": "Pauline Hanson",
+      "mentions": 2
+    },
+    {
+      "name": "Diego Garcia",
+      "mentions": 2
+    },
+    {
+      "name": "Jared Kushner",
+      "mentions": 2
+    },
+    {
+      "name": "ham",
+      "mentions": 2
+    },
+    {
+      "name": "Ali Khamenei",
+      "mentions": 2
+    },
+    {
+      "name": "Bold Action",
+      "mentions": 2
+    },
+    {
+      "name": "Australians",
+      "mentions": 2
+    },
+    {
+      "name": "Re",
+      "mentions": 2
+    },
+    {
+      "name": "US Action on Iran",
+      "mentions": 2
+    },
+    {
+      "name": "Revolutionary",
+      "mentions": 2
+    },
+    {
+      "name": "On",
+      "mentions": 2
+    },
+    {
+      "name": "llah Khamenei",
+      "mentions": 2
+    },
+    {
+      "name": "Joe Biden",
+      "mentions": 2
+    },
+    {
+      "name": "Bern",
+      "mentions": 2
+    },
+    {
+      "name": "ice King",
+      "mentions": 2
+    },
+    {
+      "name": "Democrats",
+      "mentions": 2
+    },
+    {
+      "name": "Americans",
+      "mentions": 2
+    },
+    {
+      "name": "Kamala Harris",
+      "mentions": 2
+    },
+    {
+      "name": "Secret Service",
+      "mentions": 2
+    },
+    {
+      "name": "Giuliani",
+      "mentions": 2
+    },
+    {
+      "name": "Hondu",
+      "mentions": 2
+    },
+    {
+      "name": "House",
+      "mentions": 2
+    },
+    {
+      "name": "ke",
+      "mentions": 2
+    },
+    {
+      "name": "em Jeffries",
+      "mentions": 2
+    },
+    {
+      "name": "Unbeat",
+      "mentions": 2
+    },
+    {
+      "name": "USA",
+      "mentions": 2
+    },
+    {
+      "name": "sh Patel",
+      "mentions": 2
+    },
+    {
+      "name": "Dennis Quaid",
+      "mentions": 2
+    },
+    {
+      "name": "anti",
+      "mentions": 2
+    },
+    {
+      "name": "South Korean",
+      "mentions": 2
+    },
+    {
+      "name": "Kenneth Roth",
+      "mentions": 2
+    },
+    {
+      "name": "Jimmy Lai",
+      "mentions": 2
+    },
+    {
+      "name": "Ukrainian",
+      "mentions": 2
+    },
+    {
+      "name": "Moscow",
+      "mentions": 2
+    },
+    {
+      "name": "Erdoğan",
+      "mentions": 2
+    },
+    {
+      "name": "er",
+      "mentions": 2
+    },
+    {
+      "name": "Asia",
+      "mentions": 2
+    },
+    {
+      "name": "Apec",
+      "mentions": 2
+    },
+    {
+      "name": "Kim Jong",
+      "mentions": 2
+    },
+    {
+      "name": "un",
+      "mentions": 2
+    },
+    {
+      "name": "lix Ulloa",
+      "mentions": 2
+    },
+    {
+      "name": "El Salvador",
+      "mentions": 2
+    },
+    {
+      "name": "list",
+      "mentions": 2
+    },
+    {
+      "name": "Dev",
+      "mentions": 2
+    },
+    {
+      "name": "rap",
+      "mentions": 2
+    },
+    {
+      "name": "Geneva",
+      "mentions": 2
+    },
+    {
+      "name": "Pre",
+      "mentions": 2
+    },
+    {
+      "name": "Sikh",
+      "mentions": 2
+    },
+    {
+      "name": "EU",
+      "mentions": 2
+    },
+    {
+      "name": "dakh",
+      "mentions": 2
+    },
+    {
+      "name": "New Delhi",
+      "mentions": 2
+    },
+    {
+      "name": "etigj",
+      "mentions": 2
+    },
+    {
+      "name": "Ba",
+      "mentions": 2
+    },
+    {
+      "name": "pa",
+      "mentions": 2
+    },
+    {
+      "name": "Na",
+      "mentions": 2
+    },
+    {
+      "name": "ren",
+      "mentions": 2
+    },
+    {
+      "name": "dra Modi",
+      "mentions": 2
+    },
+    {
+      "name": "Muku",
+      "mentions": 2
+    },
+    {
+      "name": "Ta",
+      "mentions": 2
+    },
+    {
+      "name": "Kerala",
+      "mentions": 2
+    },
+    {
+      "name": "T20 Cricket World Cup",
+      "mentions": 2
+    },
+    {
+      "name": "IN Sports",
+      "mentions": 2
+    },
+    {
+      "name": "LA",
+      "mentions": 2
+    },
+    {
+      "name": "etigj Baj",
+      "mentions": 2
+    },
+    {
+      "name": "T20 World Cup",
+      "mentions": 2
+    },
+    {
+      "name": "BNP",
+      "mentions": 2
+    },
+    {
+      "name": "Has",
+      "mentions": 2
+    },
+    {
+      "name": "T20",
+      "mentions": 2
+    },
+    {
+      "name": "Khai Xing",
+      "mentions": 2
+    },
+    {
+      "name": "West Indies",
+      "mentions": 2
+    },
+    {
+      "name": "Make",
+      "mentions": 2
+    },
+    {
+      "name": "in",
+      "mentions": 2
+    },
+    {
+      "name": "Carney",
+      "mentions": 2
+    },
+    {
+      "name": "Tata Group",
+      "mentions": 2
+    },
+    {
+      "name": "Sa",
+      "mentions": 2
+    },
+    {
+      "name": "fdarjung",
+      "mentions": 2
+    },
+    {
+      "name": "AIIMS Doctors",
+      "mentions": 2
+    },
+    {
+      "name": "Drive",
+      "mentions": 2
+    },
+    {
+      "name": "Cer",
+      "mentions": 2
+    },
+    {
+      "name": "Jan",
+      "mentions": 2
+    },
+    {
+      "name": "Gujarat",
+      "mentions": 2
+    },
+    {
+      "name": "Donetsk",
+      "mentions": 2
+    },
+    {
+      "name": "Austria",
+      "mentions": 2
+    },
+    {
+      "name": "Andrei Soldatov",
+      "mentions": 2
+    },
+    {
+      "name": "Mar",
+      "mentions": 2
+    },
+    {
+      "name": "les",
+      "mentions": 2
+    },
+    {
+      "name": "Telegram",
+      "mentions": 2
+    },
+    {
+      "name": "Mars",
+      "mentions": 2
+    },
+    {
+      "name": "And",
+      "mentions": 2
+    },
+    {
+      "name": "ri",
+      "mentions": 2
+    },
+    {
+      "name": "ko",
+      "mentions": 2
+    },
+    {
+      "name": "ff",
+      "mentions": 2
+    },
+    {
+      "name": "North Koreans",
+      "mentions": 2
+    },
+    {
+      "name": "US Israeli",
+      "mentions": 2
+    },
+    {
+      "name": "Portend Chemical War",
+      "mentions": 2
+    },
+    {
+      "name": "Elon Musk",
+      "mentions": 2
+    },
+    {
+      "name": "SpaceX",
+      "mentions": 2
+    },
+    {
+      "name": "xAI",
+      "mentions": 2
+    },
+    {
+      "name": "AMD",
+      "mentions": 2
+    },
+    {
+      "name": "AIPEI TIMES",
+      "mentions": 1
+    },
+    {
+      "name": "Times",
+      "mentions": 1
+    },
+    {
+      "name": "Purge",
+      "mentions": 1
+    },
+    {
+      "name": "Canadian",
+      "mentions": 1
+    },
+    {
+      "name": "Delhi AI",
+      "mentions": 1
+    },
+    {
+      "name": "EU AI",
+      "mentions": 1
+    },
+    {
+      "name": "La",
+      "mentions": 1
+    },
+    {
+      "name": "Mumbai",
+      "mentions": 1
+    },
+    {
+      "name": "British Sikh",
+      "mentions": 1
+    },
+    {
+      "name": "G7",
+      "mentions": 1
+    },
+    {
+      "name": "l Kesa",
+      "mentions": 1
+    },
+    {
+      "name": "ha Hashim",
+      "mentions": 1
+    },
+    {
+      "name": "Keralam",
+      "mentions": 1
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "mentions": 1
+    },
+    {
+      "name": "Bill Gates",
+      "mentions": 1
+    },
+    {
+      "name": "Qatar",
+      "mentions": 1
+    },
+    {
+      "name": "Olympics",
+      "mentions": 1
+    },
+    {
+      "name": "shan",
+      "mentions": 1
+    },
+    {
+      "name": "Bangladesh",
+      "mentions": 1
+    },
+    {
+      "name": "ina",
+      "mentions": 1
+    },
+    {
+      "name": "Aaron",
+      "mentions": 1
+    },
+    {
+      "name": "All England",
+      "mentions": 1
+    },
+    {
+      "name": "Eden Gardens",
+      "mentions": 1
+    },
+    {
+      "name": "ICF",
+      "mentions": 1
+    },
+    {
+      "name": "Chandrasekaran",
+      "mentions": 1
+    },
+    {
+      "name": "India News",
+      "mentions": 1
+    },
+    {
+      "name": "al Cancer",
+      "mentions": 1
+    },
+    {
+      "name": "Narendra Modi",
+      "mentions": 1
+    },
+    {
+      "name": "PM Modi",
+      "mentions": 1
+    },
+    {
+      "name": "Sanand",
+      "mentions": 1
+    },
+    {
+      "name": "Luhansk",
+      "mentions": 1
+    },
+    {
+      "name": "Operation Spiderweb",
+      "mentions": 1
+    },
+    {
+      "name": "Paul Taylor",
+      "mentions": 1
+    },
+    {
+      "name": "rina Borog",
+      "mentions": 1
+    },
+    {
+      "name": "Nat",
+      "mentions": 1
+    },
+    {
+      "name": "Pavel Durov",
+      "mentions": 1
+    },
+    {
+      "name": "Schum",
+      "mentions": 1
+    },
+    {
+      "name": "Bank of Scotland",
+      "mentions": 1
+    },
+    {
+      "name": "y Yerma",
+      "mentions": 1
+    },
+    {
+      "name": "White House",
+      "mentions": 1
+    },
+    {
+      "name": "Thing",
+      "mentions": 1
+    },
+    {
+      "name": "Zelensky",
+      "mentions": 1
+    },
+    {
+      "name": "Budapest",
+      "mentions": 1
+    },
+    {
+      "name": "Olga Chyz",
+      "mentions": 1
+    },
+    {
+      "name": "Naval",
+      "mentions": 1
+    },
+    {
+      "name": "Western Nuclear Weapons",
+      "mentions": 1
+    },
+    {
+      "name": "Khamene",
+      "mentions": 1
+    },
+    {
+      "name": "NATO",
+      "mentions": 1
+    },
+    {
+      "name": "Scottish",
+      "mentions": 1
+    },
+    {
+      "name": "Security Council",
+      "mentions": 1
+    },
+    {
+      "name": "Russian Culture Centre Initiative",
+      "mentions": 1
+    },
+    {
+      "name": "KPMG",
+      "mentions": 1
+    },
+    {
+      "name": "Deepfakes",
+      "mentions": 1
+    },
+    {
+      "name": "Moltbook",
+      "mentions": 1
+    },
+    {
+      "name": "Alphabet",
+      "mentions": 1
+    },
+    {
+      "name": "Meta",
+      "mentions": 1
+    },
+    {
+      "name": "Burger King",
+      "mentions": 1
+    },
+    {
+      "name": "eth",
+      "mentions": 1
+    },
+    {
+      "name": "California",
+      "mentions": 1
+    },
+    {
+      "name": "Alba",
+      "mentions": 1
+    },
+    {
+      "name": "Samuel Wool",
+      "mentions": 1
+    },
+    {
+      "name": "IMF",
+      "mentions": 1
+    },
+    {
+      "name": "Amazon",
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "mentions": 1
+    },
+    {
+      "name": "Sora",
+      "mentions": 1
+    },
+    {
+      "name": "ior",
+      "mentions": 1
+    },
+    {
+      "name": "Italy",
+      "mentions": 1
+    },
+    {
+      "name": "Siemens Energy AG",
+      "mentions": 1
+    },
+    {
+      "name": "Herald Loads",
+      "mentions": 1
+    },
+    {
+      "name": "DigitalOcean",
+      "mentions": 1
+    },
+    {
+      "name": "Telangana",
+      "mentions": 1
+    },
+    {
+      "name": "Hyderabad Water Board",
+      "mentions": 1
+    },
+    {
+      "name": "South - East Asia",
+      "mentions": 1
+    },
+    {
+      "name": "Sam Altman",
+      "mentions": 1
+    },
+    {
+      "name": "tGPT",
+      "mentions": 1
+    },
+    {
+      "name": "Oman",
+      "mentions": 1
+    },
+    {
+      "name": "David Lammy",
+      "mentions": 1
+    },
+    {
+      "name": "ad Bazzi",
+      "mentions": 1
+    },
+    {
+      "name": "International News",
+      "mentions": 1
+    },
+    {
+      "name": "Macron Re",
+      "mentions": 1
+    },
+    {
+      "name": "UN Emergency Session",
+      "mentions": 1
+    },
+    {
+      "name": "Islamic Republic",
+      "mentions": 1
+    },
+    {
+      "name": "US Forces",
+      "mentions": 1
+    },
+    {
+      "name": "Airstrike Video",
+      "mentions": 1
+    },
+    {
+      "name": "Path",
+      "mentions": 1
+    },
+    {
+      "name": "Fear",
+      "mentions": 1
+    },
+    {
+      "name": "Nuclear Fatwa",
+      "mentions": 1
+    },
+    {
+      "name": "America",
+      "mentions": 1
+    },
+    {
+      "name": "Nancy Pelosi",
+      "mentions": 1
+    },
+    {
+      "name": "Cruz",
+      "mentions": 1
+    },
+    {
+      "name": "Atlanta",
+      "mentions": 1
+    },
+    {
+      "name": "DoJ",
+      "mentions": 1
+    },
+    {
+      "name": "Elon",
+      "mentions": 1
+    },
+    {
+      "name": "Mamdani",
+      "mentions": 1
+    },
+    {
+      "name": "Meadows",
+      "mentions": 1
+    },
+    {
+      "name": "ran",
+      "mentions": 1
+    },
+    {
+      "name": "Chile",
+      "mentions": 1
+    },
+    {
+      "name": "Jack Smith",
+      "mentions": 1
+    },
+    {
+      "name": "Hungary",
+      "mentions": 1
+    },
+    {
+      "name": "Jimmy Kimmel",
+      "mentions": 1
+    },
+    {
+      "name": "Minneapolis",
+      "mentions": 1
+    },
+    {
+      "name": "Republicans",
+      "mentions": 1
+    },
+    {
+      "name": "Winter Olympics",
+      "mentions": 1
+    },
+    {
+      "name": "Ka",
+      "mentions": 1
+    },
+    {
+      "name": "Ronald Reagan",
+      "mentions": 1
+    },
+    {
+      "name": "Vladimir Putin",
+      "mentions": 1
+    },
+    {
+      "name": "Xi Jin",
+      "mentions": 1
+    },
+    {
+      "name": "ikTok",
+      "mentions": 1
+    },
+    {
+      "name": "New Zealand",
+      "mentions": 1
+    },
+    {
+      "name": "Peter Frankop",
+      "mentions": 1
+    },
+    {
+      "name": "CIA",
+      "mentions": 1
+    },
+    {
+      "name": "Shanghai",
+      "mentions": 1
+    },
+    {
+      "name": "Amy Hawkins",
+      "mentions": 1
+    },
+    {
+      "name": "ville Schell",
+      "mentions": 1
+    },
+    {
+      "name": "John Crace",
+      "mentions": 1
+    },
+    {
+      "name": "Andrew",
+      "mentions": 1
+    },
+    {
+      "name": "Andy Burnham",
+      "mentions": 1
+    },
+    {
+      "name": "Westminster",
+      "mentions": 1
+    },
+    {
+      "name": "Wall Street",
+      "mentions": 1
+    },
+    {
+      "name": "Nvidia",
+      "mentions": 1
+    },
+    {
+      "name": "ai Qi",
+      "mentions": 1
+    },
+    {
+      "name": "Fe",
+      "mentions": 1
+    },
+    {
+      "name": "uke",
+      "mentions": 1
+    },
+    {
+      "name": "Future",
+      "mentions": 1
+    },
+    {
+      "name": "IMEC",
+      "mentions": 1
+    },
+    {
+      "name": "Cyprus",
+      "mentions": 1
+    },
+    {
+      "name": "Regulation",
+      "mentions": 1
+    },
+    {
+      "name": "TechCrunch",
+      "mentions": 1
+    },
+    {
+      "name": "Palestinian Australians",
+      "mentions": 1
+    },
+    {
+      "name": "Ben Reiff",
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "mentions": 1
+    },
+    {
+      "name": "war",
+      "mentions": 1
+    },
+    {
+      "name": "Loop",
+      "mentions": 1
+    },
+    {
+      "name": "Outlook",
+      "mentions": 1
+    },
+    {
+      "name": "Never - Ending War",
+      "mentions": 1
+    },
+    {
+      "name": "llah Ali Khamene",
+      "mentions": 1
+    },
+    {
+      "name": "Palestinian Blood",
+      "mentions": 1
+    },
+    {
+      "name": "Arab",
+      "mentions": 1
+    },
+    {
+      "name": "Arab League",
+      "mentions": 1
+    },
+    {
+      "name": "Jerusalem",
+      "mentions": 1
+    },
+    {
+      "name": "wara Bhasker",
+      "mentions": 1
+    },
+    {
+      "name": "Video",
+      "mentions": 1
+    },
+    {
+      "name": "Netanyahu",
+      "mentions": 1
+    },
+    {
+      "name": "Petit",
+      "mentions": 1
+    },
+    {
+      "name": "h Gaza Regulations",
+      "mentions": 1
+    },
+    {
+      "name": "Pro",
+      "mentions": 1
+    },
+    {
+      "name": "Mexico",
+      "mentions": 1
+    },
+    {
+      "name": "Super Typhoon",
+      "mentions": 1
+    },
+    {
+      "name": "Super",
+      "mentions": 1
+    },
+    {
+      "name": "Prague",
+      "mentions": 1
+    },
+    {
+      "name": "Papal",
+      "mentions": 1
+    },
+    {
+      "name": "TikTok",
+      "mentions": 1
+    },
+    {
+      "name": "Po",
+      "mentions": 1
+    },
+    {
+      "name": "New York Times",
+      "mentions": 1
+    },
+    {
+      "name": "Hyatt",
+      "mentions": 1
+    },
+    {
+      "name": "Rail and Highway Revolution",
+      "mentions": 1
+    },
+    {
+      "name": "Ph",
+      "mentions": 1
+    },
+    {
+      "name": "ceutical",
+      "mentions": 1
+    },
+    {
+      "name": "San",
+      "mentions": 1
+    },
+    {
+      "name": "Marco Rubio",
+      "mentions": 1
+    },
+    {
+      "name": "GPT",
+      "mentions": 1
+    },
+    {
+      "name": "Steve Witkoff",
+      "mentions": 1
+    }
+  ],
+  "relationships": [],
+  "conflicts": [
+    {
+      "source": "Trump",
+      "relation": "ATTACKS",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Re",
+      "relation": "STRIKES",
+      "target": "za Pahlavi",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Re",
+      "relation": "STRIKES",
+      "target": "za Pahlavi",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Scottish",
+      "relation": "WAR_WITH",
+      "target": "Russia",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US",
+      "relation": "ATTACKS",
+      "target": "Israel",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Israel",
+      "relation": "ATTACKS",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Mo",
+      "relation": "STRIKES",
+      "target": "di",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Son",
+      "relation": "STRIKES",
+      "target": "al Chauh",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Dubai",
+      "relation": "STRIKES",
+      "target": "Middle East",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "al Chauh",
+      "relation": "STRIKES",
+      "target": "Dubai",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Trump",
+      "relation": "WAR_WITH",
+      "target": "On",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "On",
+      "relation": "STRIKES",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Iran",
+      "relation": "STRIKES",
+      "target": "Fear",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Middle East",
+      "relation": "ATTACKS",
+      "target": "Khamenei",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US",
+      "relation": "STRIKES",
+      "target": "Israel",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "llah Ali Khamenei",
+      "relation": "STRIKES",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Iran",
+      "relation": "STRIKES",
+      "target": "US",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "ya",
+      "relation": "STRIKES",
+      "target": "llah Ali Khamenei",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Jan",
+      "relation": "STRIKES",
+      "target": "Son",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Iran",
+      "relation": "STRIKES",
+      "target": "Jan",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "US",
+      "relation": "STRIKES",
+      "target": "Israel",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "al Chauh",
+      "relation": "STRIKES",
+      "target": "Dubai",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Israel",
+      "relation": "STRIKES",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Son",
+      "relation": "STRIKES",
+      "target": "al Chauh",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "AI",
+      "relation": "ATTACKS",
+      "target": "Mo",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Mo",
+      "relation": "ATTACKS",
+      "target": "di",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Congress",
+      "relation": "ATTACKS",
+      "target": "AI",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "International News",
+      "relation": "ATTACKS",
+      "target": "U. S.",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Israel",
+      "relation": "ATTACKS",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Trump",
+      "relation": "ATTACKS",
+      "target": "Ali Khamenei",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "U. S.",
+      "relation": "ATTACKS",
+      "target": "Israel",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Iran",
+      "relation": "ATTACKS",
+      "target": "Trump",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US",
+      "relation": "STRIKES",
+      "target": "Israel",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Israel",
+      "relation": "STRIKES",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Macron Re",
+      "relation": "STRIKES",
+      "target": "US",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Iran",
+      "relation": "STRIKES",
+      "target": "UN Emergency Session",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "US",
+      "relation": "STRIKES",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "to",
+      "relation": "STRIKES",
+      "target": "llah Ali Khamenei",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "llah Ali Khamenei",
+      "relation": "STRIKES",
+      "target": "Islamic Republic",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "ya",
+      "relation": "STRIKES",
+      "target": "to",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Iran",
+      "relation": "STRIKES",
+      "target": "ya",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Iranian",
+      "relation": "STRIKES",
+      "target": "Australians",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Iranian",
+      "relation": "STRIKES",
+      "target": "Australians",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Moscow",
+      "relation": "WAR_WITH",
+      "target": "US Israeli",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US Israeli",
+      "relation": "ATTACKS",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Iran",
+      "relation": "STRIKES",
+      "target": "Khamene",
+      "date": "2026-03-01",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "war",
+      "relation": "WAR_WITH",
+      "target": "Middle East",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Portend Chemical War",
+      "relation": "WAR_WITH",
+      "target": "NATO",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "UK",
+      "relation": "ATTACKS",
+      "target": "Portend Chemical War",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Putin",
+      "relation": "ATTACKS",
+      "target": "UK",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Putin",
+      "relation": "WAR_WITH",
+      "target": "Russia",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Putin",
+      "relation": "WAR_WITH",
+      "target": "Russia",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Iran",
+      "relation": "ATTACKS",
+      "target": "Trump",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Trump",
+      "relation": "ATTACKS",
+      "target": "China",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "U. S.",
+      "relation": "ATTACKS",
+      "target": "Iran",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Loop",
+      "relation": "ATTACKS",
+      "target": "U. S.",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Outlook",
+      "relation": "WAR_WITH",
+      "target": "Never - Ending War",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "IMEC",
+      "relation": "WAR_WITH",
+      "target": "Cyprus",
+      "date": "2026-03-01",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Iran",
+      "relation": "ATTACKS",
+      "target": "China",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Trump",
+      "relation": "ATTACKS",
+      "target": "Iran",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Joe Biden",
+      "relation": "WAR_WITH",
+      "target": "Donald Trump",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US",
+      "relation": "ATTACKS",
+      "target": "Iran",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "China",
+      "relation": "ATTACKS",
+      "target": "US",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Middle East",
+      "relation": "ATTACKS",
+      "target": "Security Council",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Putin",
+      "relation": "ATTACKS",
+      "target": "Middle East",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Putin",
+      "relation": "ATTACKS",
+      "target": "Iran",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Iran",
+      "relation": "ATTACKS",
+      "target": "Trump",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Putin",
+      "relation": "WAR_WITH",
+      "target": "Ukraine",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Israeli",
+      "relation": "WAR_WITH",
+      "target": "Arab League",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Arab",
+      "relation": "ATTACKS",
+      "target": "Israeli",
+      "date": "2026-02-28",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Xi",
+      "relation": "WAR_WITH",
+      "target": "Taiwan",
+      "date": "2026-02-27",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Ukraine",
+      "relation": "WAR_WITH",
+      "target": "Merz",
+      "date": "2026-02-27",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US",
+      "relation": "WAR_WITH",
+      "target": "Iran",
+      "date": "2026-02-26",
+      "sentiment": "negative"
+    },
+    {
+      "source": "wara Bhasker",
+      "relation": "WAR_WITH",
+      "target": "Israel",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Israel",
+      "relation": "WAR_WITH",
+      "target": "Video",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "di",
+      "relation": "WAR_WITH",
+      "target": "Israel",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Mo",
+      "relation": "WAR_WITH",
+      "target": "di",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Israel",
+      "relation": "WAR_WITH",
+      "target": "Netanyahu",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Net",
+      "relation": "WAR_WITH",
+      "target": "anyahu",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "di",
+      "relation": "WAR_WITH",
+      "target": "Net",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Mo",
+      "relation": "WAR_WITH",
+      "target": "di",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "anyahu",
+      "relation": "WAR_WITH",
+      "target": "Congress",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Iran",
+      "relation": "WAR_WITH",
+      "target": "Trump",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Trump",
+      "relation": "WAR_WITH",
+      "target": "State of the Union",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US",
+      "relation": "WAR_WITH",
+      "target": "Iran",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Marco Rubio",
+      "relation": "WAR_WITH",
+      "target": "US",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Australian",
+      "relation": "WAR_WITH",
+      "target": "AI",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Anthrop",
+      "relation": "WAR_WITH",
+      "target": "Claude",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US",
+      "relation": "WAR_WITH",
+      "target": "Anthrop",
+      "date": "2026-02-25",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Andrei Soldatov",
+      "relation": "WAR_WITH",
+      "target": "rina Borog",
+      "date": "2026-02-22",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Putin",
+      "relation": "WAR_WITH",
+      "target": "Andrei Soldatov",
+      "date": "2026-02-22",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Iran",
+      "relation": "STRIKES",
+      "target": "US",
+      "date": "2026-02-21",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Trump",
+      "relation": "STRIKES",
+      "target": "Cha",
+      "date": "2026-02-19",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Diego Garcia",
+      "relation": "STRIKES",
+      "target": "Iran",
+      "date": "2026-02-19",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "US",
+      "relation": "STRIKES",
+      "target": "Iran",
+      "date": "2026-02-19",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Gaza",
+      "relation": "WAR_WITH",
+      "target": "Israel",
+      "date": "2026-02-19",
+      "sentiment": "negative"
+    },
+    {
+      "source": "Israel",
+      "relation": "WAR_WITH",
+      "target": "Australian",
+      "date": "2026-02-19",
+      "sentiment": "negative"
+    },
+    {
+      "source": "US",
+      "relation": "STRIKES",
+      "target": "Iran",
+      "date": "2026-02-19",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Iran",
+      "relation": "STRIKES",
+      "target": "Trump",
+      "date": "2026-02-19",
+      "sentiment": "neutral"
+    },
+    {
+      "source": "Chinese",
+      "relation": "WAR_WITH",
+      "target": "Japan",
+      "date": "2026-02-17",
+      "sentiment": "negative"
+    }
+  ],
+  "cooperations": [
+    {
+      "source": "Mo",
+      "relation": "TRADES_WITH",
+      "target": "di",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "di",
+      "relation": "TRADES_WITH",
+      "target": "India",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "India",
+      "relation": "TRADES_WITH",
+      "target": "US",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Canada",
+      "relation": "TRADES_WITH",
+      "target": "Car",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Car",
+      "relation": "TRADES_WITH",
+      "target": "ney",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "za Pahlavi",
+      "relation": "SUPPORTS",
+      "target": "US Action on Iran",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "za Pahlavi",
+      "relation": "SUPPORTS",
+      "target": "US Action on Iran",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Middle East",
+      "relation": "HELPS",
+      "target": "Mo",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Mo",
+      "relation": "HELPS",
+      "target": "di",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Son",
+      "relation": "HELPS",
+      "target": "al Chauhan",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Dubai",
+      "relation": "HELPS",
+      "target": "Mo",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "al Chauhan",
+      "relation": "HELPS",
+      "target": "Dubai",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Dubai",
+      "relation": "HELPS",
+      "target": "Modi",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Son",
+      "relation": "SUPPORTS",
+      "target": "al Chauh",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "al Chauh",
+      "relation": "SUPPORTS",
+      "target": "Dubai",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Dubai",
+      "relation": "SUPPORTS",
+      "target": "Middle East",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Middle East",
+      "relation": "HELPS",
+      "target": "Modi",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "AI",
+      "relation": "TRADES_WITH",
+      "target": "India",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Mo",
+      "relation": "HELPS",
+      "target": "di",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Son",
+      "relation": "HELPS",
+      "target": "al Chauhan",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Dubai",
+      "relation": "HELPS",
+      "target": "Mo",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "al Chauhan",
+      "relation": "HELPS",
+      "target": "Dubai",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Ph",
+      "relation": "TRADES_WITH",
+      "target": "ceutical",
+      "date": "2026-03-01",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Taiwan",
+      "relation": "ALLIED_WITH",
+      "target": "Trump",
+      "date": "2026-02-28",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Trump",
+      "relation": "ALLIED_WITH",
+      "target": "Beijing",
+      "date": "2026-02-28",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Burger King",
+      "relation": "HELPS",
+      "target": "AI",
+      "date": "2026-02-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Trump",
+      "relation": "ALLIED_WITH",
+      "target": "State of the Union",
+      "date": "2026-02-25",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Jimmy Kimmel",
+      "relation": "ALLIED_WITH",
+      "target": "Trump",
+      "date": "2026-02-25",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Mo",
+      "relation": "SUPPORTS",
+      "target": "di",
+      "date": "2026-02-25",
+      "sentiment": "positive"
+    },
+    {
+      "source": "di",
+      "relation": "SUPPORTS",
+      "target": "Israel",
+      "date": "2026-02-25",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Congress",
+      "relation": "SUPPORTS",
+      "target": "Mo",
+      "date": "2026-02-25",
+      "sentiment": "positive"
+    },
+    {
+      "source": "China",
+      "relation": "TRADES_WITH",
+      "target": "US",
+      "date": "2026-02-22",
+      "sentiment": "positive"
+    },
+    {
+      "source": "US",
+      "relation": "TRADES_WITH",
+      "target": "Germany",
+      "date": "2026-02-22",
+      "sentiment": "positive"
+    },
+    {
+      "source": "UK",
+      "relation": "HELPS",
+      "target": "AI",
+      "date": "2026-02-11",
+      "sentiment": "positive"
+    },
+    {
+      "source": "UK",
+      "relation": "HELPS",
+      "target": "China",
+      "date": "2026-02-03",
+      "sentiment": "positive"
+    },
+    {
+      "source": "mer",
+      "relation": "SUPPORTS",
+      "target": "Trump",
+      "date": "2026-01-30",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Xi",
+      "relation": "ALLIED_WITH",
+      "target": "Ki",
+      "date": "2026-01-29",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Ki",
+      "relation": "ALLIED_WITH",
+      "target": "er",
+      "date": "2026-01-29",
+      "sentiment": "positive"
+    },
+    {
+      "source": "EU",
+      "relation": "TRADES_WITH",
+      "target": "India",
+      "date": "2026-01-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "UK",
+      "relation": "TRADES_WITH",
+      "target": "Peter Frankop",
+      "date": "2026-01-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "China",
+      "relation": "ALLIED_WITH",
+      "target": "UK",
+      "date": "2026-01-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "China",
+      "relation": "TRADES_WITH",
+      "target": "UK",
+      "date": "2026-01-02",
+      "sentiment": "positive"
+    },
+    {
+      "source": "UK",
+      "relation": "TRADES_WITH",
+      "target": "Taiwan",
+      "date": "2026-01-02",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Taiwan",
+      "relation": "HELPS",
+      "target": "China",
+      "date": "2025-12-28",
+      "sentiment": "positive"
+    },
+    {
+      "source": "European",
+      "relation": "ALLIED_WITH",
+      "target": "Russia",
+      "date": "2025-12-17",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Russia",
+      "relation": "ALLIED_WITH",
+      "target": "Ukraine",
+      "date": "2025-12-17",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Putin",
+      "relation": "ALLIED_WITH",
+      "target": "European",
+      "date": "2025-12-17",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Mo",
+      "relation": "ALLIED_WITH",
+      "target": "di",
+      "date": "2025-12-04",
+      "sentiment": "positive"
+    },
+    {
+      "source": "di",
+      "relation": "ALLIED_WITH",
+      "target": "Russia",
+      "date": "2025-12-04",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Russia",
+      "relation": "ALLIED_WITH",
+      "target": "India",
+      "date": "2025-12-04",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Putin",
+      "relation": "ALLIED_WITH",
+      "target": "Mo",
+      "date": "2025-12-04",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Trump",
+      "relation": "SUPPORTS",
+      "target": "Biden",
+      "date": "2025-12-03",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Trump",
+      "relation": "SUPPORTS",
+      "target": "Venezuela",
+      "date": "2025-11-24",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Cha",
+      "relation": "ALLIED_WITH",
+      "target": "GP",
+      "date": "2025-11-02",
+      "sentiment": "positive"
+    },
+    {
+      "source": "OpenAI",
+      "relation": "ALLIED_WITH",
+      "target": "Cha",
+      "date": "2025-11-02",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Trump",
+      "relation": "TRADES_WITH",
+      "target": "Xi",
+      "date": "2025-10-30",
+      "sentiment": "positive"
+    },
+    {
+      "source": "China",
+      "relation": "TRADES_WITH",
+      "target": "Xi",
+      "date": "2025-10-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "US",
+      "relation": "TRADES_WITH",
+      "target": "China",
+      "date": "2025-10-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Xi",
+      "relation": "TRADES_WITH",
+      "target": "Trump",
+      "date": "2025-10-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "China",
+      "relation": "TRADES_WITH",
+      "target": "Xi",
+      "date": "2025-10-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "US",
+      "relation": "TRADES_WITH",
+      "target": "China",
+      "date": "2025-10-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Xi",
+      "relation": "TRADES_WITH",
+      "target": "Trump",
+      "date": "2025-10-27",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Kim Jong",
+      "relation": "TRADES_WITH",
+      "target": "un",
+      "date": "2025-10-25",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Gaza City",
+      "relation": "ALLIED_WITH",
+      "target": "Israel",
+      "date": "2025-10-15",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Star",
+      "relation": "TRADES_WITH",
+      "target": "mer",
+      "date": "2025-10-09",
+      "sentiment": "positive"
+    },
+    {
+      "source": "mer",
+      "relation": "TRADES_WITH",
+      "target": "India",
+      "date": "2025-10-09",
+      "sentiment": "positive"
+    },
+    {
+      "source": "UK",
+      "relation": "TRADES_WITH",
+      "target": "Mumbai",
+      "date": "2025-10-07",
+      "sentiment": "positive"
+    },
+    {
+      "source": "India",
+      "relation": "TRADES_WITH",
+      "target": "UK",
+      "date": "2025-10-07",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Starmer",
+      "relation": "TRADES_WITH",
+      "target": "India",
+      "date": "2025-10-07",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Israel",
+      "relation": "ALLIED_WITH",
+      "target": "Gaza",
+      "date": "2025-09-30",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Mo",
+      "relation": "TRADES_WITH",
+      "target": "di",
+      "date": "2025-08-29",
+      "sentiment": "positive"
+    },
+    {
+      "source": "China",
+      "relation": "TRADES_WITH",
+      "target": "US",
+      "date": "2025-08-29",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Xi",
+      "relation": "TRADES_WITH",
+      "target": "Putin",
+      "date": "2025-08-29",
+      "sentiment": "positive"
+    },
+    {
+      "source": "India",
+      "relation": "TRADES_WITH",
+      "target": "Mo",
+      "date": "2025-08-29",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Putin",
+      "relation": "TRADES_WITH",
+      "target": "China",
+      "date": "2025-08-29",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Mo",
+      "relation": "TRADES_WITH",
+      "target": "di",
+      "date": "2025-07-24",
+      "sentiment": "positive"
+    },
+    {
+      "source": "di",
+      "relation": "TRADES_WITH",
+      "target": "UK",
+      "date": "2025-07-24",
+      "sentiment": "positive"
+    },
+    {
+      "source": "UK",
+      "relation": "TRADES_WITH",
+      "target": "India",
+      "date": "2025-07-24",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Star",
+      "relation": "TRADES_WITH",
+      "target": "mer",
+      "date": "2025-07-24",
+      "sentiment": "positive"
+    },
+    {
+      "source": "mer",
+      "relation": "TRADES_WITH",
+      "target": "Mo",
+      "date": "2025-07-24",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Xi Jinping",
+      "relation": "TRADES_WITH",
+      "target": "China",
+      "date": "2025-06-05",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Putin",
+      "relation": "ALLIED_WITH",
+      "target": "And",
+      "date": "2025-04-30",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Trump",
+      "relation": "HELPS",
+      "target": "Iran",
+      "date": "2025-04-25",
+      "sentiment": "positive"
+    },
+    {
+      "source": "Andrew",
+      "relation": "HELPS",
+      "target": "Xi Jinping",
+      "date": "2025-04-04",
+      "sentiment": "positive"
+    },
+    {
+      "source": "China",
+      "relation": "SUPPORTS",
+      "target": "US",
+      "date": "2025-02-17",
+      "sentiment": "positive"
+    },
+    {
+      "source": "US",
+      "relation": "SUPPORTS",
+      "target": "Taiwan",
+      "date": "2025-02-17",
+      "sentiment": "positive"
+    }
+  ],
+  "articles": [
+    {
+      "title": "OpenAI relaxed ChatGPT guardrails just before teen killed himself, family alleges",
+      "source": "The Guardian",
+      "category": "ChatGPT OpenAI",
+      "date": "2025-10-22"
+    },
+    {
+      "title": "Sam Altman issues ‘code red’ at OpenAI as ChatGPT contends with rivals",
+      "source": "The Guardian",
+      "category": "ChatGPT OpenAI",
+      "date": "2025-12-02"
+    },
+    {
+      "title": "ChatGPT Atlas: OpenAI launches web browser centered around its chatbot",
+      "source": "The Guardian",
+      "category": "ChatGPT OpenAI",
+      "date": "2025-10-21"
+    },
+    {
+      "title": "Has OpenAI really made ChatGPT better for users with mental health problems?",
+      "source": "The Guardian",
+      "category": "ChatGPT OpenAI",
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Reliance on borrowed algorithms for AI could cost India its autonomy: Former foreign secretary",
+      "source": "Times of India",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Vietnam AI law takes effect, first in South-East Asia",
+      "source": "The Star",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "‘AI can democratise basic research’",
+      "source": "Times of India",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "What to know about the clash between the Pentagon and Anthropic over military’s AI use",
+      "source": "Chicago Tribune",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "US fintech firm Block sheds 4,000 staff, cites AI",
+      "source": "Bangkok Post",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Brave new world: how countries are regulating artificial intelligence",
+      "source": "DAWN.com",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Pentagon vs Anthropic: Who should control the AI weapon?",
+      "source": "The Economic Times",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Showing up, breaking down: AI fears, tough market push up presenteeism",
+      "source": "Times of India",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "Tips on how artificial intelligence can help plan your holiday",
+      "source": "The Star",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "What to know about clash between Pentagon-Anthropic over military's AI use",
+      "source": "Business Standard",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Here`s how Artificial Intellingence has changed homework for children",
+      "source": "mid_day",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Unisys Q4 Earnings Call Highlights",
+      "source": "themarketsdaily",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Siemens Energy AGM: Record €146B Backlog, Dividend Return, and AI-Driven Growth Targets for 2026",
+      "source": "themarketsdaily",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "When AI Becomes Too Human. The Future We Are Not Ready To Talk About.",
+      "source": "forbes",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Telangana government cancels Sharada Peetham land allotment to Hyderabad Water Board",
+      "source": "thenewsmill",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Herald Loads Up On DigitalOcean (DOCN) With 202,000 Shares",
+      "source": "fool",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Publishing Insiders Launch Next Chapter AI, Offering",
+      "source": "headlinesoftoday",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Unisys Q4 Earnings Call Highlights",
+      "source": "zolmax",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "The evolution of Giorgia Meloni: Her plan for Italy and fears of AI",
+      "source": "straitstimes",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Vietnam Implements Six New Laws on AI, Investment, Planning, Security",
+      "source": "menafn",
+      "category": "artificial intelligence AI",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs | Editorial",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "UK wealth manager and price comparison site shares fall amid AI fears",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "US military leaders pressure Anthropic to bend Claude safeguards",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says ",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-01-13"
+    },
+    {
+      "title": "Shares in trucking and logistics firms plunge after AI freight tool launch",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "Signs of psychosis seen in Australian users’ interactions with AI chatbots, expert warns",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "AI consciousness is a red herring in the safety debate | Letters",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-01-06"
+    },
+    {
+      "title": "Meta agrees $60bn deal with chipmaker AMD despite AI bubble fears",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "‘Music needs a human component to be of any value’: Guardian readers on the growing use of AI in music",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2025-12-17"
+    },
+    {
+      "title": "AI’s workplace revolution is here – and anxiety is rising with it",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "South Korea’s ‘world-first’ AI laws face pushback amid bid to become leading tech power",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "Burger King cooks up AI chatbot to spot if employees say ‘please’ and ‘thank you’",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "AI is indeed coming – but there is also evidence to allay investor fears",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "Elon Musk merges SpaceX with xAI at $1.25tn valuation",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-03"
+    },
+    {
+      "title": "If AI makes human labor obsolete, who decides who gets to eat?",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "China lags behind US at AI frontier but could quickly catch up, say experts",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-01-28"
+    },
+    {
+      "title": "The Guide #208: How theatre is holding its own in the age of artificial intelligence",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2025-09-13"
+    },
+    {
+      "title": "Don’t blindly trust everything AI tools say, warns Alphabet boss",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Leading AI expert delays timeline for its possible destruction of humanity",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-01-06"
+    },
+    {
+      "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-03"
+    },
+    {
+      "title": "What is Moltbook? The strange new social media site for AI bots",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "Preparing students for a world shaped by artificial intelligence | Letters",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2025-09-24"
+    },
+    {
+      "title": "Mind the glitch: is Hollywood finally getting to grips with movies about artificial intelligence?",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2025-12-06"
+    },
+    {
+      "title": "‘We could hit a wall’: why trillions of dollars of risk is no guarantee of AI reward",
+      "source": "The Guardian",
+      "category": "artificial intelligence AI",
+      "date": "2026-01-17"
+    }
+  ],
+  "stats": {
+    "total_entities": 414,
+    "total_relationships": 990,
+    "total_articles": 1538,
+    "unprocessed": 706
+  },
+  "relationship_types": [
+    {
+      "type": "RELATED_TO",
+      "count": 218
+    },
+    {
+      "type": "WAR_WITH",
+      "count": 133
+    },
+    {
+      "type": "ATTACKS",
+      "count": 64
+    },
+    {
+      "type": "STRIKES",
+      "count": 58
+    },
+    {
+      "type": "VISITS",
+      "count": 44
+    },
+    {
+      "type": "TRADES_WITH",
+      "count": 37
+    },
+    {
+      "type": "AIDS",
+      "count": 29
+    },
+    {
+      "type": "ELECTS",
+      "count": 28
+    },
+    {
+      "type": "DEAL_WITH",
+      "count": 26
+    },
+    {
+      "type": "SANCTIONS",
+      "count": 25
+    },
+    {
+      "type": "CONFLICT_WITH",
+      "count": 21
+    },
+    {
+      "type": "WINS_AGAINST",
+      "count": 21
+    },
+    {
+      "type": "MEETS",
+      "count": 20
+    },
+    {
+      "type": "ALLIED_WITH",
+      "count": 19
+    },
+    {
+      "type": "PARTNERS_WITH",
+      "count": 18
+    },
+    {
+      "type": "INVESTS_IN",
+      "count": 18
+    },
+    {
+      "type": "HELPS",
+      "count": 17
+    },
+    {
+      "type": "THREATENS",
+      "count": 16
+    },
+    {
+      "type": "SUES",
+      "count": 13
+    },
+    {
+      "type": "SUPPORTS",
+      "count": 13
+    },
+    {
+      "type": "MERGES_WITH",
+      "count": 13
+    },
+    {
+      "type": "PEACE_WITH",
+      "count": 11
+    },
+    {
+      "type": "AIRSTRIKES",
+      "count": 11
+    },
+    {
+      "type": "BOMBS",
+      "count": 10
+    },
+    {
+      "type": "BUYS_FROM",
+      "count": 10
+    },
+    {
+      "type": "PROTESTS_AGAINST",
+      "count": 9
+    },
+    {
+      "type": "AGREEMENT_WITH",
+      "count": 9
+    },
+    {
+      "type": "ACCUSES",
+      "count": 9
+    },
+    {
+      "type": "ANNOUNCES_TO",
+      "count": 7
+    },
+    {
+      "type": "COOPERATES_WITH",
+      "count": 7
+    },
+    {
+      "type": "DEFENDS",
+      "count": 7
+    },
+    {
+      "type": "BANS",
+      "count": 6
+    },
+    {
+      "type": "OPPOSES",
+      "count": 5
+    },
+    {
+      "type": "BLOCKS",
+      "count": 5
+    },
+    {
+      "type": "IMPORTS_FROM",
+      "count": 4
+    },
+    {
+      "type": "APPEALS_AGAINST",
+      "count": 4
+    },
+    {
+      "type": "CHARGES",
+      "count": 3
+    },
+    {
+      "type": "CONDEMNS",
+      "count": 3
+    },
+    {
+      "type": "ARRESTS",
+      "count": 3
+    },
+    {
+      "type": "NEGOTIATES_WITH",
+      "count": 3
+    },
+    {
+      "type": "SPIES_ON",
+      "count": 3
+    },
+    {
+      "type": "INVADES",
+      "count": 3
+    },
+    {
+      "type": "ASSISTS",
+      "count": 3
+    },
+    {
+      "type": "FIGHTS",
+      "count": 2
+    },
+    {
+      "type": "BLAMES",
+      "count": 1
+    },
+    {
+      "type": "LAWSUIT_WITH",
+      "count": 1
+    }
+  ]
+}
