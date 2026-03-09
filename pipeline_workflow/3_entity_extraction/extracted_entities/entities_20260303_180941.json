@@ -1,0 +1,2626 @@
+[
+  {
+    "article_id": "69a472fd4dce49724a2b747e",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/ngt-issues-notices-to-centre-mp-govt-over-clearances-to-adani-groups-coal-block-in-singrauli/article70688939.ece",
+    "title": "NGT issues notices to Centre, M.P. govt over clearances to Adani Group’s coal block in Singrauli",
+    "entities": [
+      {
+        "name": "NGT",
+        "type": "ORG",
+        "score": 0.9907712936401367
+      },
+      {
+        "name": "Centre",
+        "type": "ORG",
+        "score": 0.9485151171684265
+      },
+      {
+        "name": "Adani Group",
+        "type": "ORG",
+        "score": 0.9986476898193359
+      },
+      {
+        "name": "Singrauli",
+        "type": "LOC",
+        "score": 0.9786462187767029
+      },
+      {
+        "name": "State",
+        "type": "ORG",
+        "score": 0.9639281630516052
+      },
+      {
+        "name": "hirauli",
+        "type": "LOC",
+        "score": 0.8867023587226868
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.204721"
+  },
+  {
+    "article_id": "69a472fd4dce49724a2b747f",
+    "url": "https://www.theargus.co.uk/news/25878148.farm-campsite-south-downs-way-get-padel-court/",
+    "title": "Decision made on plans to turn South Downs farm building into padel facility",
+    "entities": [
+      {
+        "name": "South Downs",
+        "type": "LOC",
+        "score": 0.9917560815811157
+      },
+      {
+        "name": "Housedean Farm",
+        "type": "LOC",
+        "score": 0.9284789562225342
+      },
+      {
+        "name": "Falmer",
+        "type": "LOC",
+        "score": 0.9914676547050476
+      },
+      {
+        "name": "Lewes",
+        "type": "LOC",
+        "score": 0.9972043037414551
+      },
+      {
+        "name": "East Sussex",
+        "type": "LOC",
+        "score": 0.9990437030792236
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.244558"
+  },
+  {
+    "article_id": "69a472fd4dce49724a2b7480",
+    "url": "https://www.artforum.com/columns/stefanie-hessler-swiss-institute-interview-the-checklist-1234743662/",
+    "title": "Stefanie Hessler",
+    "entities": [
+      {
+        "name": "Stefanie Hessler STEF",
+        "type": "PER",
+        "score": 0.8703432083129883
+      },
+      {
+        "name": "Swiss Institute",
+        "type": "ORG",
+        "score": 0.9966696500778198
+      },
+      {
+        "name": "New York",
+        "type": "LOC",
+        "score": 0.998694658279419
+      },
+      {
+        "name": "Hess",
+        "type": "PER",
+        "score": 0.9969974756240845
+      },
+      {
+        "name": "Saoda",
+        "type": "PER",
+        "score": 0.9862767457962036
+      },
+      {
+        "name": "t Ismailova",
+        "type": "PER",
+        "score": 0.8530846238136292
+      },
+      {
+        "name": "Raven Chacon",
+        "type": "PER",
+        "score": 0.9975443482398987
+      },
+      {
+        "name": "Ali Cherri",
+        "type": "PER",
+        "score": 0.962719202041626
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.308275"
+  },
+  {
+    "article_id": "69a472fd4dce49724a2b7481",
+    "url": "https://www.somersetcountygazette.co.uk/news/25893751.taunton-author-edd-king-publishes-dozen-books/",
+    "title": "Taunton author publishes more than a dozen books on varying topics",
+    "entities": [
+      {
+        "name": "d King",
+        "type": "PER",
+        "score": 0.9857019186019897
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.344666"
+  },
+  {
+    "article_id": "69a472fd4dce49724a2b7483",
+    "url": "https://www.warringtonguardian.co.uk/news/25882478.information-ahead-new-food-waste-collection-starting-warrington/",
+    "title": "New food waste bin collections start in Warrington this month - here's the details",
+    "entities": [
+      {
+        "name": "Warrington",
+        "type": "LOC",
+        "score": 0.9952634572982788
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.377301"
+  },
+  {
+    "article_id": "69a472fd4dce49724a2b7484",
+    "url": "https://www.thenational.scot/news/25894257.greens-must-prepare-medias-relentless-smears-by-election/",
+    "title": "Greens 'must prepare for relentless smears' from media after by-election win",
+    "entities": [
+      {
+        "name": "Greens",
+        "type": "ORG",
+        "score": 0.9891875386238098
+      },
+      {
+        "name": "English",
+        "type": "MISC",
+        "score": 0.9997377991676331
+      },
+      {
+        "name": "Welsh",
+        "type": "MISC",
+        "score": 0.9996192455291748
+      },
+      {
+        "name": "Greater Manchester",
+        "type": "LOC",
+        "score": 0.9981406927108765
+      },
+      {
+        "name": "Scottish",
+        "type": "MISC",
+        "score": 0.9996980428695679
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.424659"
+  },
+  {
+    "article_id": "69a473044dce49724a2b74b8",
+    "url": "https://www.thenational.scot/news/25895115.climate-campaign-peterhead-gas-station-delays-2m-tonnes-carbon/",
+    "title": "4-year campaign against Peterhead gas station has 'delayed 2m tonnes of pollution'",
+    "entities": [
+      {
+        "name": "Peterhead",
+        "type": "LOC",
+        "score": 0.9929947853088379
+      },
+      {
+        "name": "Aberdeenshire",
+        "type": "LOC",
+        "score": 0.9972671866416931
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.464261"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74f4",
+    "url": "https://www.insidermonkey.com/blog/morgan-stanley-raises-price-target-on-excelerate-energy-inc-ee-1706616/",
+    "title": "Morgan Stanley Raises Price Target on Excelerate Energy, Inc. (EE)",
+    "entities": [
+      {
+        "name": "Morgan Stanley",
+        "type": "ORG",
+        "score": 0.9990286827087402
+      },
+      {
+        "name": "Excelerate Energy Inc",
+        "type": "ORG",
+        "score": 0.9990597367286682
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.537109"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74f5",
+    "url": "https://ca.finance.yahoo.com/news/morgan-stanley-raises-price-target-050832377.html",
+    "title": "Morgan Stanley Raises Price Target on Excelerate Energy, Inc. (EE)",
+    "entities": [
+      {
+        "name": "Morgan Stanley",
+        "type": "ORG",
+        "score": 0.9990286827087402
+      },
+      {
+        "name": "Excelerate Energy Inc",
+        "type": "ORG",
+        "score": 0.9990597367286682
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.608723"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74f6",
+    "url": "https://www.insidermonkey.com/blog/citi-raises-price-target-on-dt-midstream-inc-dtm-1706630/",
+    "title": "Citi Raises Price Target on DT Midstream, Inc. (DTM)",
+    "entities": [
+      {
+        "name": "Citi",
+        "type": "ORG",
+        "score": 0.9978773593902588
+      },
+      {
+        "name": "DT Midstream Inc",
+        "type": "ORG",
+        "score": 0.9970533847808838
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.684852"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74f7",
+    "url": "https://www.insidermonkey.com/blog/citi-maintains-buy-rating-on-targa-resources-corp-trgp-1706637/",
+    "title": "Citi Maintains Buy Rating on Targa Resources Corp. (TRGP)",
+    "entities": [
+      {
+        "name": "Citi",
+        "type": "ORG",
+        "score": 0.997538685798645
+      },
+      {
+        "name": "Targa Resources Corp",
+        "type": "ORG",
+        "score": 0.9977080821990967
+      },
+      {
+        "name": "ro Dounis",
+        "type": "PER",
+        "score": 0.9310691356658936
+      },
+      {
+        "name": "rga Resources Corp",
+        "type": "ORG",
+        "score": 0.9981608986854553
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.764623"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74f8",
+    "url": "https://www.insidermonkey.com/blog/here-is-why-cheniere-energy-inc-lng-is-still-highly-favored-by-hedge-funds-1706650/",
+    "title": "Here is Why Cheniere Energy, Inc. (LNG) is Still Highly Favored by Hedge Funds",
+    "entities": [
+      {
+        "name": "Cheniere Energy Inc",
+        "type": "ORG",
+        "score": 0.9923458695411682
+      },
+      {
+        "name": "dge Funds Cheniere Energy Inc",
+        "type": "ORG",
+        "score": 0.9972100853919983
+      },
+      {
+        "name": "Morgan Stanley",
+        "type": "ORG",
+        "score": 0.9990538358688354
+      },
+      {
+        "name": "Devin McDermott",
+        "type": "PER",
+        "score": 0.9982473850250244
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.846289"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74f9",
+    "url": "https://www.insidermonkey.com/blog/product-tanker-rates-offer-near-term-momentum-to-scorpio-tankers-inc-stng-1706633/",
+    "title": "Product Tanker Rates Offer Near-Term Momentum to Scorpio Tankers Inc. (STNG)",
+    "entities": [
+      {
+        "name": "Scorpio Tankers Inc",
+        "type": "ORG",
+        "score": 0.9974032044410706
+      },
+      {
+        "name": "BofA",
+        "type": "ORG",
+        "score": 0.9967581629753113
+      },
+      {
+        "name": "Ken Hoexter",
+        "type": "PER",
+        "score": 0.9847956299781799
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:36.938350"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74fa",
+    "url": "https://www.insidermonkey.com/blog/enbridge-inc-enb-still-strongly-favored-by-hedge-funds-1706619/",
+    "title": "Enbridge Inc. (ENB) Still Strongly Favored by Hedge Funds",
+    "entities": [
+      {
+        "name": "Enbridge Inc",
+        "type": "ORG",
+        "score": 0.9993519186973572
+      },
+      {
+        "name": "ENB",
+        "type": "ORG",
+        "score": 0.9539687037467957
+      },
+      {
+        "name": "dge Funds Enbridge Inc",
+        "type": "ORG",
+        "score": 0.9932131171226501
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.022213"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74fb",
+    "url": "https://www.newsbytesapp.com/news/business/why-netflix-pulled-out-of-warner-bros-acquisition-bid/story",
+    "title": "Why Netflix doesn't want to acquire Warner Bros. Discovery anymore",
+    "entities": [
+      {
+        "name": "Netflix",
+        "type": "ORG",
+        "score": 0.9974774718284607
+      },
+      {
+        "name": "Warner Bros. Discovery",
+        "type": "ORG",
+        "score": 0.9988123178482056
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.053106"
+  },
+  {
+    "article_id": "69a4730c4dce49724a2b74fd",
+    "url": "https://www.tickerreport.com/banking-finance/13362929/eos-energy-enterprises-q4-earnings-call-highlights.html",
+    "title": "Eos Energy Enterprises Q4 Earnings Call Highlights",
+    "entities": [
+      {
+        "name": "Eos Energy Enterprises",
+        "type": "ORG",
+        "score": 0.9964924454689026
+      },
+      {
+        "name": "Joe Mastrange",
+        "type": "PER",
+        "score": 0.9794448614120483
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.203559"
+  },
+  {
+    "article_id": "69a473134dce49724a2b7530",
+    "url": "https://www.fwbusiness.com/opinion/article_54ae90a5-e978-4cf4-9e0c-0f8f4854ce6c.html",
+    "title": "March 1: OPINION: Michael J. Hicks: The hollow promise of MAGA tariffs",
+    "entities": [
+      {
+        "name": "Michael J. Hicks",
+        "type": "PER",
+        "score": 0.996372401714325
+      },
+      {
+        "name": "MAGA",
+        "type": "ORG",
+        "score": 0.8829568028450012
+      },
+      {
+        "name": "Indiana",
+        "type": "LOC",
+        "score": 0.9996305704116821
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.999539852142334
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.235325"
+  },
+  {
+    "article_id": "69a4731a4dce49724a2b756e",
+    "url": "https://www.kentonline.co.uk/canterbury/news/shopkeepers-scrap-bid-for-new-store-amid-integrity-concern-336947/",
+    "title": "Shopkeepers scrap bid for new store amid ‘integrity’ concerns",
+    "entities": [
+      {
+        "name": "Premier",
+        "type": "ORG",
+        "score": 0.8955928683280945
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.267298"
+  },
+  {
+    "article_id": "69a4738ba899f6020901a828",
+    "url": "https://www.travelandtourworld.com/news/article/germany-joins-ireland-liechtenstein-japan-indonesia-dominica-and-more-in-witnessing-travel-boom-fueled-by-macao-sar-china-passport-gains-access-to-141-visa-free-destinations-here-is-what-you-ne/",
+    "title": "Germany Joins Ireland, Liechtenstein, Japan, Indonesia, Dominica and More in Witnessing Travel Boom Fueled by Macao (SAR China) Passport Gains Access to 141 Visa-Free Destinations: Here Is What You Need To Know",
+    "entities": [
+      {
+        "name": "Germany",
+        "type": "LOC",
+        "score": 0.9998014569282532
+      },
+      {
+        "name": "Ireland",
+        "type": "LOC",
+        "score": 0.999761164188385
+      },
+      {
+        "name": "Liechtenstein",
+        "type": "LOC",
+        "score": 0.9936020374298096
+      },
+      {
+        "name": "Japan",
+        "type": "LOC",
+        "score": 0.999775230884552
+      },
+      {
+        "name": "Indonesia",
+        "type": "LOC",
+        "score": 0.9997391104698181
+      },
+      {
+        "name": "Dominica",
+        "type": "LOC",
+        "score": 0.993817925453186
+      },
+      {
+        "name": "Visa",
+        "type": "MISC",
+        "score": 0.9598847031593323
+      },
+      {
+        "name": "Macao",
+        "type": "ORG",
+        "score": 0.9366904497146606
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.472424"
+  },
+  {
+    "article_id": "69a47393a899f6020901a864",
+    "url": "https://www.timesnownews.com/business-economy/markets/d-street-on-edge-after-us-israel-action-will-gold-soar-as-markets-brace-for-a-monday-shock-article-153724421",
+    "title": "D-Street On Edge After US-Israel Action; Will Gold Soar As Markets Brace For A Monday Shock?",
+    "entities": [
+      {
+        "name": "Street",
+        "type": "ORG",
+        "score": 0.9146590232849121
+      },
+      {
+        "name": "Israel Action",
+        "type": "ORG",
+        "score": 0.9974355697631836
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.524089"
+  },
+  {
+    "article_id": "69a47393a899f6020901a865",
+    "url": "https://yespunjab.com/iranian-defence-minister-irgc-chief-among-7-top-commanders-killed-in-israeli-strikes/",
+    "title": "Iranian Defence Minister, IRGC chief among 7 top commanders killed in Israeli strikes",
+    "entities": [
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9996035695075989
+      },
+      {
+        "name": "IRGC",
+        "type": "ORG",
+        "score": 0.9006293416023254
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997561573982239
+      },
+      {
+        "name": "Tel Aviv",
+        "type": "LOC",
+        "score": 0.999462902545929
+      },
+      {
+        "name": "Israel Defense Forces",
+        "type": "ORG",
+        "score": 0.9983470439910889
+      },
+      {
+        "name": "IDF",
+        "type": "ORG",
+        "score": 0.9990522265434265
+      },
+      {
+        "name": "Aziz Nasirzadeh",
+        "type": "PER",
+        "score": 0.9979903101921082
+      },
+      {
+        "name": "Islamic Revolutionary Guard Corps",
+        "type": "ORG",
+        "score": 0.9993657469749451
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997996687889099
+      },
+      {
+        "name": "Yes Punjab News",
+        "type": "ORG",
+        "score": 0.998612105846405
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.608775"
+  },
+  {
+    "article_id": "69a47393a899f6020901a866",
+    "url": "https://www.theage.com.au/world/middle-east/trump-killed-iran-s-leader-it-s-doubtful-he-has-ideas-beyond-that-20260301-p5o6f4.html",
+    "title": "Trump killed Iran’s leader. It’s doubtful he has ideas beyond that",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9990473389625549
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997974038124084
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9997448325157166
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.653276"
+  },
+  {
+    "article_id": "69a47393a899f6020901a867",
+    "url": "https://www.smh.com.au/world/middle-east/trump-killed-iran-s-leader-it-s-doubtful-he-has-ideas-beyond-that-20260301-p5o6f4.html",
+    "title": "Trump killed Iran’s leader. It’s doubtful he has ideas beyond that",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9990473389625549
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997974038124084
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9997448325157166
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.691621"
+  },
+  {
+    "article_id": "69a47393a899f6020901a868",
+    "url": "https://www.messenger-inquirer.com/ap/ap_national_news/the-latest-iran-s-supreme-leader-khamenei-killed-in-us-israeli-attack/article_4a326dd3-4ca4-5c9b-aafb-376ff435bb1d.html",
+    "title": "The Latest: Iran’s Supreme Leader Khamenei killed in US-Israeli attack",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.999824583530426
+      },
+      {
+        "name": "Khamenei",
+        "type": "PER",
+        "score": 0.9800167679786682
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9995112419128418
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9110116958618164
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998407363891602
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.9996377229690552
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.9995487928390503
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.740337"
+  },
+  {
+    "article_id": "69a47393a899f6020901a869",
+    "url": "https://www.clickondetroit.com/news/world/2026/03/01/the-latest-irans-supreme-leader-khamenei-killed-in-us-israeli-attack/",
+    "title": "The Latest: Iran’s Supreme Leader Khamenei killed in US-Israeli attack",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998294115066528
+      },
+      {
+        "name": "Khamenei",
+        "type": "PER",
+        "score": 0.9767181873321533
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.999496340751648
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9308623671531677
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998378753662109
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.999636173248291
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.9995332360267639
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.788123"
+  },
+  {
+    "article_id": "69a47393a899f6020901a86a",
+    "url": "https://www.usnews.com/news/world/articles/2026-03-01/the-latest-irans-supreme-leader-khamenei-killed-in-us-israeli-attack",
+    "title": "The Latest: Iran’s Supreme Leader Khamenei Killed in US-Israeli Attack",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998294115066528
+      },
+      {
+        "name": "Khamenei",
+        "type": "PER",
+        "score": 0.9558814764022827
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9556283950805664
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998326301574707
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.9996333122253418
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.9995309114456177
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.833226"
+  },
+  {
+    "article_id": "69a47393a899f6020901a86b",
+    "url": "https://www.news4jax.com/news/world/2026/03/01/the-latest-irans-supreme-leader-khamenei-killed-in-us-israeli-attack/",
+    "title": "The Latest: Iran’s Supreme Leader Khamenei killed in US-Israeli attack",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998294115066528
+      },
+      {
+        "name": "Khamenei",
+        "type": "PER",
+        "score": 0.9767181873321533
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.999496340751648
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9308623671531677
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998378753662109
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.999636173248291
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.9995332360267639
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.877583"
+  },
+  {
+    "article_id": "69a47393a899f6020901a86c",
+    "url": "https://www.dnronline.com/associated_press/national/the-latest-iran-s-supreme-leader-khamenei-killed-in-us-israeli-attack/article_a76630c5-f47b-54be-9e04-186dc729df05.html",
+    "title": "The Latest: Iran’s Supreme Leader Khamenei killed in US-Israeli attack",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.999824583530426
+      },
+      {
+        "name": "Khamenei",
+        "type": "PER",
+        "score": 0.9800167679786682
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9995112419128418
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9110116958618164
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998407363891602
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.9996377229690552
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.9995487928390503
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.927214"
+  },
+  {
+    "article_id": "69a47393a899f6020901a86d",
+    "url": "https://www.ksat.com/news/world/2026/03/01/the-latest-irans-supreme-leader-khamenei-killed-in-us-israeli-attack/",
+    "title": "The Latest: Iran’s Supreme Leader Khamenei killed in US-Israeli attack",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998294115066528
+      },
+      {
+        "name": "Khamenei",
+        "type": "PER",
+        "score": 0.9767181873321533
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.999496340751648
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9308623671531677
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998378753662109
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.999636173248291
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.9995332360267639
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:37.979358"
+  },
+  {
+    "article_id": "69a473b0a899f6020901a918",
+    "url": "https://thenewsmill.com/2026/03/up-cleric-urges-pm-modi-to-mediate-in-israel-iran-tensions-to-avoid-war/",
+    "title": "UP cleric urges PM Modi to mediate in Israel-Iran tensions to avoid war",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997414946556091
+      },
+      {
+        "name": "News Mill",
+        "type": "ORG",
+        "score": 0.9906710386276245
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.009795"
+  },
+  {
+    "article_id": "69a473b0a899f6020901a919",
+    "url": "https://www.deccanherald.com/entertainment/virosh-wedding-rashmika-vijay-mark-marriage-with-massive-sweet-distribution-3916071",
+    "title": "Virosh Wedding: Rashmika & Vijay mark marriage with massive sweet distribution",
+    "entities": [
+      {
+        "name": "Vijay",
+        "type": "PER",
+        "score": 0.995530903339386
+      },
+      {
+        "name": "ka Man",
+        "type": "PER",
+        "score": 0.9667596817016602
+      },
+      {
+        "name": "Vijay Deverakonda",
+        "type": "PER",
+        "score": 0.9092987179756165
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.063633"
+  },
+  {
+    "article_id": "69a473bfa899f6020901a990",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260301/lee-departs-for-singapore-on-two-nation-southeast-asia-swing",
+    "title": "Lee departs for Singapore on two-nation Southeast Asia swing",
+    "entities": [
+      {
+        "name": "Lee",
+        "type": "PER",
+        "score": 0.9996115565299988
+      },
+      {
+        "name": "Singapore",
+        "type": "LOC",
+        "score": 0.9998282194137573
+      },
+      {
+        "name": "Southeast Asia",
+        "type": "LOC",
+        "score": 0.9983432292938232
+      },
+      {
+        "name": "Lee Jae Myung",
+        "type": "PER",
+        "score": 0.9963790774345398
+      },
+      {
+        "name": "Philippines",
+        "type": "LOC",
+        "score": 0.9997891783714294
+      },
+      {
+        "name": "Southeast Asian",
+        "type": "MISC",
+        "score": 0.9978994727134705
+      },
+      {
+        "name": "Lawrence Wong",
+        "type": "PER",
+        "score": 0.999724268913269
+      },
+      {
+        "name": "Wong",
+        "type": "PER",
+        "score": 0.9993849992752075
+      },
+      {
+        "name": "South Korea",
+        "type": "LOC",
+        "score": 0.9995465874671936
+      },
+      {
+        "name": "Asia - Pacific Economic Cooperation",
+        "type": "ORG",
+        "score": 0.9694093465805054
+      },
+      {
+        "name": "APEC",
+        "type": "ORG",
+        "score": 0.9942635893821716
+      },
+      {
+        "name": "Kang Yu",
+        "type": "PER",
+        "score": 0.9996060132980347
+      },
+      {
+        "name": "harman Shanmugaratnam",
+        "type": "PER",
+        "score": 0.8671563863754272
+      },
+      {
+        "name": "AI Connect",
+        "type": "ORG",
+        "score": 0.9848859906196594
+      },
+      {
+        "name": "Manila",
+        "type": "LOC",
+        "score": 0.9995977282524109
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.202454"
+  },
+  {
+    "article_id": "69a473bfa899f6020901a991",
+    "url": "https://thewest.com.au/technology/telecommunications/openai-details-layered-protections-in-us-defence-pact-c-21795384",
+    "title": "OpenAI details layered protections in US defence pact",
+    "entities": [
+      {
+        "name": "OpenAI",
+        "type": "ORG",
+        "score": 0.9979802966117859
+      },
+      {
+        "name": "Pentagon",
+        "type": "ORG",
+        "score": 0.9990756511688232
+      },
+      {
+        "name": "Anthropic",
+        "type": "ORG",
+        "score": 0.957096517086029
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.234792"
+  },
+  {
+    "article_id": "69a473bfa899f6020901a992",
+    "url": "https://www.perthnow.com.au/news/technology/openai-details-layered-protections-in-us-defence-pact-c-21795382",
+    "title": "OpenAI details layered protections in US defence pact",
+    "entities": [
+      {
+        "name": "OpenAI",
+        "type": "ORG",
+        "score": 0.9979802966117859
+      },
+      {
+        "name": "Pentagon",
+        "type": "ORG",
+        "score": 0.9990756511688232
+      },
+      {
+        "name": "Anthropic",
+        "type": "ORG",
+        "score": 0.957096517086029
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.266005"
+  },
+  {
+    "article_id": "69a473dba899f6020901aa44",
+    "url": "https://www.leaderlive.co.uk/news/25884655.care-homes-project-help-endangered-birds-wrexham/",
+    "title": "Wrexham care organisation helps reverse dramatic fall in swift bird populations",
+    "entities": [
+      {
+        "name": "rexham",
+        "type": "LOC",
+        "score": 0.8928134441375732
+      },
+      {
+        "name": "Pendine Park",
+        "type": "ORG",
+        "score": 0.9349144101142883
+      },
+      {
+        "name": "North Wales Wildlife Trust",
+        "type": "ORG",
+        "score": 0.9974606037139893
+      },
+      {
+        "name": "Wrexham",
+        "type": "LOC",
+        "score": 0.9667565226554871
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.303166"
+  },
+  {
+    "article_id": "69a473e8a899f6020901aabc",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-trump-tells-america-first-voters-shouldnt-feel-duped-by-iran-war-1235523384/",
+    "title": "‘SNL’ Cold Open: Trump Tells His ‘America First’ Voters Why They Shouldn’t Feel Duped by Iran War",
+    "entities": [
+      {
+        "name": "Open",
+        "type": "MISC",
+        "score": 0.9843677878379822
+      },
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9991694688796997
+      },
+      {
+        "name": "America First",
+        "type": "ORG",
+        "score": 0.9981500506401062
+      },
+      {
+        "name": "Iran",
+        "type": "MISC",
+        "score": 0.9618015289306641
+      },
+      {
+        "name": "Board of Peace",
+        "type": "ORG",
+        "score": 0.9981136322021484
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.341790"
+  },
+  {
+    "article_id": "69a473e8a899f6020901aabd",
+    "url": "https://baseballnewssource.com/2026/03/01/vaneck-steel-etf-nysearcaslx-short-interest-update/11044612.html",
+    "title": "VanEck Steel ETF (NYSEARCA:SLX) Short Interest Update",
+    "entities": [
+      {
+        "name": "VanEck Steel ETF",
+        "type": "ORG",
+        "score": 0.9230306148529053
+      },
+      {
+        "name": "VanEck Steel ET",
+        "type": "ORG",
+        "score": 0.9217489957809448
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.415415"
+  },
+  {
+    "article_id": "69a473e8a899f6020901aabe",
+    "url": "https://www.themarketsdaily.com/2026/03/01/spdr-portfolio-europe-etf-nysearcaspeu-short-interest-update.html",
+    "title": "SPDR Portfolio Europe ETF (NYSEARCA:SPEU) Short Interest Update",
+    "entities": [
+      {
+        "name": "NYSEAR",
+        "type": "LOC",
+        "score": 0.8515788912773132
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.490752"
+  },
+  {
+    "article_id": "69a473e8a899f6020901aabf",
+    "url": "https://www.themarketsdaily.com/2026/03/01/short-interest-in-schwab-emerging-markets-equity-etf-nysearcasche-expands-by-64-1.html",
+    "title": "Short Interest in Schwab Emerging Markets Equity ETF (NYSEARCA:SCHE) Expands By 64.1%",
+    "entities": [
+      {
+        "name": "Schwab Emerging Markets Equity ETF",
+        "type": "ORG",
+        "score": 0.8576505184173584
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.567286"
+  },
+  {
+    "article_id": "69a473e8a899f6020901aac2",
+    "url": "https://www.dailypolitical.com/2026/02/28/short-interest-in-vistashares-target-15-usa-quality-income-etf-nysearcaqusa-rises-by-63-8.html",
+    "title": "Short Interest in VistaShares Target 15 USA Quality Income ETF (NYSEARCA:QUSA) Rises By 63.8%",
+    "entities": [
+      {
+        "name": "VistaS",
+        "type": "ORG",
+        "score": 0.8617576360702515
+      },
+      {
+        "name": "USA",
+        "type": "MISC",
+        "score": 0.9870485663414001
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.815905"
+  },
+  {
+    "article_id": "69a473e8a899f6020901aac3",
+    "url": "https://www.watchlistnews.com/invesco-sp-500-equal-weight-communication-services-etf-nysearcarspc-sees-large-growth-in-short-interest/11004415.html",
+    "title": "Invesco S&P 500 Equal Weight Communication Services ETF (NYSEARCA:RSPC) Sees Large Growth in Short Interest",
+    "entities": [
+      {
+        "name": "Invesco S  P",
+        "type": "ORG",
+        "score": 0.9743600487709045
+      },
+      {
+        "name": "vesco S  P",
+        "type": "ORG",
+        "score": 0.9939883947372437
+      },
+      {
+        "name": "Services",
+        "type": "ORG",
+        "score": 0.904733419418335
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.895232"
+  },
+  {
+    "article_id": "69a473e8a899f6020901aac4",
+    "url": "https://www.watchlistnews.com/invesco-sp-500-enhanced-value-etf-nysearcaspvu-short-interest-update/11004416.html",
+    "title": "Invesco S&P 500 Enhanced Value ETF (NYSEARCA:SPVU) Short Interest Update",
+    "entities": [
+      {
+        "name": "Invesco S  P",
+        "type": "ORG",
+        "score": 0.9420366287231445
+      },
+      {
+        "name": "vesco S  P",
+        "type": "ORG",
+        "score": 0.9986249208450317
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:38.971271"
+  },
+  {
+    "article_id": "69a478998da291daea0d9857",
+    "url": "https://www.firstpost.com/explainers/this-week-in-explainers-iran-attack-uae-duba-bahrain-kuwait-gulf-13984469.html",
+    "title": "This Week in Explainers: Why is Iran attacking the UAE, Bahrain and other Gulf nations?",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998190999031067
+      },
+      {
+        "name": "UAE",
+        "type": "LOC",
+        "score": 0.9998007416725159
+      },
+      {
+        "name": "Bahrain",
+        "type": "LOC",
+        "score": 0.999824583530426
+      },
+      {
+        "name": "Gulf",
+        "type": "LOC",
+        "score": 0.9990721940994263
+      },
+      {
+        "name": "West Asia",
+        "type": "LOC",
+        "score": 0.9977396130561829
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998378753662109
+      },
+      {
+        "name": "Kuwait",
+        "type": "LOC",
+        "score": 0.9997959733009338
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.093279"
+  },
+  {
+    "article_id": "69a478998da291daea0d9858",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/pentagon-standoff-is-a-decisive-moment-for-how-ai-will-be-used-in-war-10558716/",
+    "title": "Pentagon standoff is a decisive moment for how AI will be used in war",
+    "entities": [
+      {
+        "name": "Pentagon",
+        "type": "ORG",
+        "score": 0.9982195496559143
+      },
+      {
+        "name": "Claude",
+        "type": "PER",
+        "score": 0.8972249031066895
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.126881"
+  },
+  {
+    "article_id": "69a478998da291daea0d9859",
+    "url": "https://www.thestar.com/news/world/middle-east/the-latest-israel-hits-tehran-as-irans-counterattacks-widen-after-supreme-leader-is-killed/article_103436bf-84fc-57d1-b815-4957fd475a36.html",
+    "title": "The Latest: Israel hits Tehran as Iran's counterattacks widen after supreme leader is killed",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.99973064661026
+      },
+      {
+        "name": "Tehran",
+        "type": "LOC",
+        "score": 0.999790608882904
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.999833345413208
+      },
+      {
+        "name": "U. S",
+        "type": "LOC",
+        "score": 0.9808425903320312
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9996447563171387
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9993095397949219
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.8682885766029358
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.999478816986084
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.182844"
+  },
+  {
+    "article_id": "69a478a08da291daea0d9893",
+    "url": "https://www.aa.com.tr/en/europe/spains-goya-awards-marked-by-pro-palestine-messages-as-artists-demand-stop-genocide-/3844583",
+    "title": "Spain's Goya Awards marked by pro-Palestine messages as artists demand ‘stop genocide’",
+    "entities": [
+      {
+        "name": "Spain",
+        "type": "LOC",
+        "score": 0.9998376369476318
+      },
+      {
+        "name": "Goya Awards",
+        "type": "MISC",
+        "score": 0.9611491560935974
+      },
+      {
+        "name": "pro",
+        "type": "MISC",
+        "score": 0.9943706393241882
+      },
+      {
+        "name": "Gaza",
+        "type": "LOC",
+        "score": 0.9997890591621399
+      },
+      {
+        "name": "Palestine",
+        "type": "LOC",
+        "score": 0.9998177886009216
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.215750"
+  },
+  {
+    "article_id": "69a478a68da291daea0d98cf",
+    "url": "https://dailycaller.com/2026/03/01/germany-china-xi-jinping-trade-trump-tariffs-diplomacy/",
+    "title": "Germany’s Landmark Visit To China Amid Trump Tariffs",
+    "entities": [
+      {
+        "name": "Germany",
+        "type": "LOC",
+        "score": 0.9997857213020325
+      },
+      {
+        "name": "China",
+        "type": "LOC",
+        "score": 0.9968889355659485
+      },
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9830783009529114
+      },
+      {
+        "name": "Europe",
+        "type": "LOC",
+        "score": 0.9997841715812683
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.242713"
+  },
+  {
+    "article_id": "69a478af8da291daea0d990b",
+    "url": "https://www.independent.com.mt/articles/2026-03-01/world-news/The-latest-Iranian-parliamentary-speaker-says-US-and-Israel-to-face-devastating-blows-6736287620",
+    "title": "The latest: Iranian parliamentary speaker says US and Israel to face ‘devastating blows’",
+    "entities": [
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.998145341873169
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.999779999256134
+      },
+      {
+        "name": "Ali Khamenei",
+        "type": "PER",
+        "score": 0.8853117227554321
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997275471687317
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.999592661857605
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.9993901252746582
+      },
+      {
+        "name": "IRNA",
+        "type": "ORG",
+        "score": 0.9984025955200195
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9863239526748657
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9994940757751465
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9991130232810974
+      },
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9988428354263306
+      },
+      {
+        "name": "Khamene",
+        "type": "PER",
+        "score": 0.8733064532279968
+      },
+      {
+        "name": "Revolutionary Guard",
+        "type": "ORG",
+        "score": 0.9987471103668213
+      },
+      {
+        "name": "Mohammad Bagher Qalibaf",
+        "type": "PER",
+        "score": 0.9820916652679443
+      },
+      {
+        "name": "Qaliba",
+        "type": "PER",
+        "score": 0.9555580615997314
+      },
+      {
+        "name": "Argentina",
+        "type": "LOC",
+        "score": 0.9996755123138428
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.485184"
+  },
+  {
+    "article_id": "69a478af8da291daea0d990c",
+    "url": "https://thearabianpost.com/trump-backs-saudi-arabia-after-missile-interception/",
+    "title": "Trump backs Saudi Arabia after missile interception",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9987809062004089
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995582103729248
+      },
+      {
+        "name": "Arabian Post Staff",
+        "type": "ORG",
+        "score": 0.8500351309776306
+      },
+      {
+        "name": "Dubai",
+        "type": "LOC",
+        "score": 0.9995425939559937
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.999269425868988
+      },
+      {
+        "name": "Washington",
+        "type": "LOC",
+        "score": 0.9997580647468567
+      },
+      {
+        "name": "Saudi",
+        "type": "MISC",
+        "score": 0.9993830919265747
+      },
+      {
+        "name": "Saudi Press Agency",
+        "type": "ORG",
+        "score": 0.998877227306366
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9343544840812683
+      },
+      {
+        "name": "Arabian Post",
+        "type": "ORG",
+        "score": 0.9958120584487915
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.558198"
+  },
+  {
+    "article_id": "69a478af8da291daea0d990d",
+    "url": "http://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-bertrand-russell-war-does-not-determine-who-is-right-only-who-is-left-lessons-on-dangers-of-war-from-british-philosopher/articleshow/128906645.cms",
+    "title": "Quote of the day by Bertrand Russell: 'War does not determine who is right - only who is left'- Lessons on dangers of war from famous philosopher-mathematician",
+    "entities": [
+      {
+        "name": "Bertrand Russell",
+        "type": "PER",
+        "score": 0.9991561770439148
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.631145"
+  },
+  {
+    "article_id": "69a478af8da291daea0d990e",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-bertrand-russell-war-does-not-determine-who-is-right-only-who-is-left-lessons-on-dangers-of-war-from-british-philosopher/articleshow/128906645.cms",
+    "title": "Quote of the day by Bertrand Russell: 'War does not determine who is right - only who is left'- Lessons on dangers of war from British philosopher",
+    "entities": [
+      {
+        "name": "Bertrand Russell",
+        "type": "PER",
+        "score": 0.9993236660957336
+      },
+      {
+        "name": "British",
+        "type": "MISC",
+        "score": 0.9997568726539612
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.700995"
+  },
+  {
+    "article_id": "69a478af8da291daea0d990f",
+    "url": "https://www.hindustantimes.com/world-news/us-news/trump-warns-iran-against-attack-vows-to-use-force-that-has-never-been-seen-before-101772342965505.html",
+    "title": "‘Better not do that’: Trump warns Iran against attack, vows to use ‘force that has never been seen before’",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9994410872459412
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998481273651123
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9995901584625244
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.745871"
+  },
+  {
+    "article_id": "69a478af8da291daea0d9910",
+    "url": "https://www.aa.com.tr/en/turkiye/morning-briefing-march-1-2026/3844588",
+    "title": "Morning Briefing: March 1, 2026",
+    "entities": [
+      {
+        "name": "Anado",
+        "type": "PER",
+        "score": 0.950121283531189
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.773995"
+  },
+  {
+    "article_id": "69a478af8da291daea0d9911",
+    "url": "https://yespunjab.com/us-claims-iran-pushed-five-times-nuclear-enrichment/",
+    "title": "US claims Iran pushed five times nuclear enrichment",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998352527618408
+      },
+      {
+        "name": "Washington",
+        "type": "LOC",
+        "score": 0.9997629523277283
+      },
+      {
+        "name": "Tehran",
+        "type": "LOC",
+        "score": 0.9997879862785339
+      },
+      {
+        "name": "Trump Administration",
+        "type": "ORG",
+        "score": 0.9819644689559937
+      },
+      {
+        "name": "Yes Punjab News",
+        "type": "ORG",
+        "score": 0.9966922402381897
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.853535"
+  },
+  {
+    "article_id": "69a478af8da291daea0d9912",
+    "url": "https://www.benzinga.com/markets/prediction-markets/26/03/50953714/after-khameneis-death-prediction-market-bets-on-who-the-next-supreme-leader-will-be",
+    "title": "After Khamenei's Death, Prediction Market Bets On Who The Next Supreme Leader Will Be",
+    "entities": [
+      {
+        "name": "Khamene",
+        "type": "PER",
+        "score": 0.9258933663368225
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.999061644077301
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.8529536724090576
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9971613883972168
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9997251629829407
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9996415376663208
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997281432151794
+      },
+      {
+        "name": "ba Khamenei",
+        "type": "PER",
+        "score": 0.9759941101074219
+      },
+      {
+        "name": "Benzinga",
+        "type": "ORG",
+        "score": 0.9747519493103027
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:39.979460"
+  },
+  {
+    "article_id": "69a478af8da291daea0d9913",
+    "url": "https://www.ghanamma.com/2026/03/01/iran-confirms-supreme-leader-ali-khamenei-dead-after-us-israeli-attacks/",
+    "title": "Iran confirms Supreme Leader Ali Khamenei dead after US-Israeli attacks",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998401403427124
+      },
+      {
+        "name": "Ali Khamenei",
+        "type": "PER",
+        "score": 0.9981101751327515
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9995730519294739
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997413754463196
+      },
+      {
+        "name": "Ghanamma",
+        "type": "ORG",
+        "score": 0.9468935132026672
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.058457"
+  },
+  {
+    "article_id": "69a478af8da291daea0d9914",
+    "url": "https://thenationonlineng.net/iranian-leader-khameini-killed-in-u-s-israel-attack/",
+    "title": "Iranian leader Khameini killed in U.S., Israel attack",
+    "entities": [
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9995331764221191
+      },
+      {
+        "name": "Khameini",
+        "type": "PER",
+        "score": 0.9209678769111633
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9985411763191223
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9997856020927429
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997822642326355
+      },
+      {
+        "name": "Ali Hosseini Khamenei",
+        "type": "PER",
+        "score": 0.9799282550811768
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.9996140003204346
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9991527795791626
+      },
+      {
+        "name": "The Nation Newspaper",
+        "type": "ORG",
+        "score": 0.9927635788917542
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.110374"
+  },
+  {
+    "article_id": "69a478bc8da291daea0d9984",
+    "url": "https://timesofmalta.com/article/europe-wake.1124738",
+    "title": "Europe must wake up",
+    "entities": [
+      {
+        "name": "Europe",
+        "type": "LOC",
+        "score": 0.9998111128807068
+      },
+      {
+        "name": "Friedrich Merz",
+        "type": "PER",
+        "score": 0.9995915293693542
+      },
+      {
+        "name": "ior",
+        "type": "PER",
+        "score": 0.997611403465271
+      },
+      {
+        "name": "gia Meloni",
+        "type": "PER",
+        "score": 0.9980325102806091
+      },
+      {
+        "name": "Emmanuel Macron",
+        "type": "PER",
+        "score": 0.9995664954185486
+      },
+      {
+        "name": "AFP",
+        "type": "ORG",
+        "score": 0.9394413232803345
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.139483"
+  },
+  {
+    "article_id": "69a478c28da291daea0d99bf",
+    "url": "https://www.latestly.com/agency-news/india-news-embassy-of-iran-in-new-delhi-lowers-flag-to-half-mast-to-honour-ayotollah-khamenei-after-fatal-airstrikes-in-tehran-7334683.html",
+    "title": "India News | Embassy of Iran in New Delhi Lowers Flag to Half-mast to Honour Ayotollah Khamenei After Fatal Airstrikes in Tehran",
+    "entities": [
+      {
+        "name": "India News",
+        "type": "ORG",
+        "score": 0.9978140592575073
+      },
+      {
+        "name": "of Iran",
+        "type": "ORG",
+        "score": 0.9833552837371826
+      },
+      {
+        "name": "New Delhi",
+        "type": "LOC",
+        "score": 0.999530553817749
+      },
+      {
+        "name": "llah Khamene",
+        "type": "PER",
+        "score": 0.9459632635116577
+      },
+      {
+        "name": "Tehran",
+        "type": "LOC",
+        "score": 0.99977046251297
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9995507597923279
+      },
+      {
+        "name": "Late",
+        "type": "ORG",
+        "score": 0.9611690044403076
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9974671602249146
+      },
+      {
+        "name": "Delhi",
+        "type": "LOC",
+        "score": 0.9996252059936523
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998193383216858
+      },
+      {
+        "name": "tollah Ali Khamenei",
+        "type": "PER",
+        "score": 0.8649937510490417
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9996516704559326
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.197605"
+  },
+  {
+    "article_id": "69a478c28da291daea0d99c0",
+    "url": "https://newsable.asianetnews.com/india/muslim-cleric-urges-pm-modi-to-mediate-usisraeliran-conflict-articleshow-iq634ta",
+    "title": "Muslim cleric urges PM Modi to mediate US-Israel-Iran conflict",
+    "entities": [
+      {
+        "name": "Muslim",
+        "type": "MISC",
+        "score": 0.9995884299278259
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9986403584480286
+      },
+      {
+        "name": "All India Muslim Jamaat",
+        "type": "ORG",
+        "score": 0.9985709190368652
+      },
+      {
+        "name": "na Shahabuddin Raz",
+        "type": "PER",
+        "score": 0.9370798468589783
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9741471409797668
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998254179954529
+      },
+      {
+        "name": "America",
+        "type": "LOC",
+        "score": 0.999377429485321
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.250778"
+  },
+  {
+    "article_id": "69a478c28da291daea0d99c2",
+    "url": "https://www.latestly.com/agency-news/india-news-j-k-protests-erupt-in-budgam-as-shia-muslims-condemn-killing-of-irans-ayatollah-ali-khamenei-7334673.html",
+    "title": "India News | J-K: Protests Erupt in Budgam as Shia Muslims Condemn 'killing' of Iran's Ayatollah Ali Khamenei",
+    "entities": [
+      {
+        "name": "India News",
+        "type": "ORG",
+        "score": 0.9961189031600952
+      },
+      {
+        "name": "Budgam",
+        "type": "LOC",
+        "score": 0.999140739440918
+      },
+      {
+        "name": "Shia Muslims",
+        "type": "MISC",
+        "score": 0.9883438944816589
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998303651809692
+      },
+      {
+        "name": "Ali Khamenei",
+        "type": "PER",
+        "score": 0.9327493906021118
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9997079968452454
+      },
+      {
+        "name": "Late",
+        "type": "ORG",
+        "score": 0.8759995698928833
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.999603807926178
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.310158"
+  },
+  {
+    "article_id": "69a478c28da291daea0d99c3",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/war-is-not-the-solution-to-any-issue-up-cleric-urges-pm-narendra-modi-to-resolve-israel-iran-tensions/articleshow/128906511.cms",
+    "title": "'War is not the solution to any issue': UP cleric urges PM Narendra Modi to resolve Israel-Iran tensions",
+    "entities": [
+      {
+        "name": "Narendra Modi",
+        "type": "PER",
+        "score": 0.9152663946151733
+      },
+      {
+        "name": "Israel",
+        "type": "MISC",
+        "score": 0.9397550821304321
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.999620795249939
+      },
+      {
+        "name": "All India Muslim Jamaat",
+        "type": "ORG",
+        "score": 0.9903683662414551
+      },
+      {
+        "name": "na Shahabuddin Raz",
+        "type": "PER",
+        "score": 0.9419094920158386
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9989649057388306
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998101592063904
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997332692146301
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.384096"
+  },
+  {
+    "article_id": "69a478c28da291daea0d99c4",
+    "url": "https://www.newsx.com/entertainment/bollywood-actress-sonal-chauhan-stranded-in-dubai-urges-pm-narendra-modi-to-intervene-175230/",
+    "title": "Bollywood Actress Sonal Chauhan Stranded In Dubai, Urges PM Narendra Modi To Intervene",
+    "entities": [
+      {
+        "name": "Bollywood",
+        "type": "MISC",
+        "score": 0.9965487122535706
+      },
+      {
+        "name": "Son",
+        "type": "PER",
+        "score": 0.9996975660324097
+      },
+      {
+        "name": "al Chauh",
+        "type": "PER",
+        "score": 0.8860363960266113
+      },
+      {
+        "name": "Dubai",
+        "type": "LOC",
+        "score": 0.9996381998062134
+      },
+      {
+        "name": "al Chauhan",
+        "type": "PER",
+        "score": 0.8770613670349121
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.433938"
+  },
+  {
+    "article_id": "69a478c28da291daea0d99c5",
+    "url": "https://menafn.com/1110804985/It-Is-Our-Duty-To-Bring-Kannadigas-Back-By-Joining-Hands-With-Centre-Ktaka-Former-CM-On-Iran-Situation",
+    "title": "It Is Our Duty To Bring Kannadigas Back By Joining Hands With Centre: K'taka Former CM On Iran Situation",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9111072421073914
+      },
+      {
+        "name": "Haveri",
+        "type": "PER",
+        "score": 0.8732560873031616
+      },
+      {
+        "name": "Karnataka",
+        "type": "LOC",
+        "score": 0.9992710947990417
+      },
+      {
+        "name": "BJP",
+        "type": "ORG",
+        "score": 0.9930600523948669
+      },
+      {
+        "name": "savaraj Bomma",
+        "type": "PER",
+        "score": 0.9801516532897949
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.496351"
+  },
+  {
+    "article_id": "69a478cf8da291daea0d9a38",
+    "url": "https://www.news18.com/world/trump-ordered-to-ban-anthropic-later-us-military-used-its-claude-ai-in-iran-strikes-report-ws-l-9936222.html",
+    "title": "Trump Ordered To Ban Anthropic, Later US Military Used Its Claude AI In Iran Strikes: Report",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9843839406967163
+      },
+      {
+        "name": "Anthropic",
+        "type": "MISC",
+        "score": 0.8989048600196838
+      },
+      {
+        "name": "US Military",
+        "type": "ORG",
+        "score": 0.9927457571029663
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9989994168281555
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.542556"
+  },
+  {
+    "article_id": "69a478cf8da291daea0d9a39",
+    "url": "https://www.birminghammail.co.uk/news/midlands-news/used-pothole-detector-midlands-safest-33474097",
+    "title": "I used pothole detector on Midlands 'safest roads' and results were surprising",
+    "entities": [
+      {
+        "name": "Midlands",
+        "type": "LOC",
+        "score": 0.9992241859436035
+      },
+      {
+        "name": "West Midlands",
+        "type": "LOC",
+        "score": 0.9976309537887573
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.574061"
+  },
+  {
+    "article_id": "69a478cf8da291daea0d9a3b",
+    "url": "https://www.fool.com/investing/2026/03/01/this-artificial-intelligence-ai-crypto-is-up-140-o/",
+    "title": "This Artificial Intelligence (AI) Crypto Is Up 140% Over the Past 90 Days, But Is It a Buy?",
+    "entities": [
+      {
+        "name": "Artificial Intelligence",
+        "type": "MISC",
+        "score": 0.9373838305473328
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.666460"
+  },
+  {
+    "article_id": "69a478cf8da291daea0d9a3c",
+    "url": "https://www.digit.in/news/general/us-israel-strike-on-iran-relied-on-anthropic-ai-despite-trumps-ban-report.html",
+    "title": "US-Israel strike on Iran relied on Anthropic AI despite Trump’s ban: Report",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997801184654236
+      },
+      {
+        "name": "Anthropic",
+        "type": "MISC",
+        "score": 0.8828058838844299
+      },
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9989890456199646
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9994199275970459
+      },
+      {
+        "name": "The Wall Street Journal",
+        "type": "ORG",
+        "score": 0.9981222152709961
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9997550845146179
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.722197"
+  },
+  {
+    "article_id": "69a478cf8da291daea0d9a3d",
+    "url": "https://ca.news.yahoo.com/experts-skeptical-amazon-denies-outage-051500833.html",
+    "title": "Experts skeptical after Amazon denies service outage linked to AI agent's mistake: \"Suddenly that's just 'coincidence'\"",
+    "entities": [
+      {
+        "name": "Amazon",
+        "type": "ORG",
+        "score": 0.960812509059906
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.764174"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9aeb",
+    "url": "https://goldstreamgazette.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.792537"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9aec",
+    "url": "https://arrowlakesnews.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.822623"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9aed",
+    "url": "https://lakecowichangazette.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.850131"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9aee",
+    "url": "https://boundarycreektimes.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.876165"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9aef",
+    "url": "https://vicnews.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.912310"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9af0",
+    "url": "https://albernivalleynews.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.942188"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9af1",
+    "url": "https://cowichanvalleycitizen.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.969370"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9af2",
+    "url": "https://clearwatertimes.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:40.996370"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9af3",
+    "url": "https://saanichnews.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.024308"
+  },
+  {
+    "article_id": "69a478e48da291daea0d9af4",
+    "url": "https://peacearchnews.com/2026/02/28/eberle-scores-2-leading-kraken-to-5-1-win-over-vancouver-canucks/",
+    "title": "Eberle scores 2, leading Kraken to 5-1 win over Vancouver Canucks",
+    "entities": [
+      {
+        "name": "ber",
+        "type": "PER",
+        "score": 0.8631665110588074
+      },
+      {
+        "name": "Kraken",
+        "type": "ORG",
+        "score": 0.9846901893615723
+      },
+      {
+        "name": "Vancouver Canucks B. C",
+        "type": "ORG",
+        "score": 0.98795086145401
+      },
+      {
+        "name": "Dallas Stars",
+        "type": "ORG",
+        "score": 0.9982014894485474
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.051144"
+  },
+  {
+    "article_id": "69a478f18da291daea0d9b63",
+    "url": "https://www.themarketsdaily.com/2026/03/01/short-interest-in-ckx-lands-inc-nyseamericanckx-declines-by-56-0.html",
+    "title": "Short Interest in CKX Lands, Inc. (NYSEAMERICAN:CKX) Declines By 56.0%",
+    "entities": [
+      {
+        "name": "CKX Lands Inc",
+        "type": "ORG",
+        "score": 0.9541795253753662
+      },
+      {
+        "name": "NYSE",
+        "type": "LOC",
+        "score": 0.8809926509857178
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.163574"
+  },
+  {
+    "article_id": "69a478f18da291daea0d9b64",
+    "url": "https://www.themarketsdaily.com/2026/03/01/invesco-pharmaceuticals-etf-nysearcapjp-sees-large-increase-in-short-interest.html",
+    "title": "Invesco Pharmaceuticals ETF (NYSEARCA:PJP) Sees Large Increase in Short Interest",
+    "entities": [
+      {
+        "name": "Invesco Pharmaceuticals ETF",
+        "type": "ORG",
+        "score": 0.9283002614974976
+      },
+      {
+        "name": "vesco Pharmaceuticals ET",
+        "type": "ORG",
+        "score": 0.9361491203308105
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.245361"
+  },
+  {
+    "article_id": "69a478f18da291daea0d9b65",
+    "url": "https://baseballnewssource.com/2026/03/01/spdr-russell-1000-yield-focus-etf-nysearcaoney-short-interest-up-104-3-in-february/11044617.html",
+    "title": "SPDR Russell 1000 Yield Focus ETF (NYSEARCA:ONEY) Short Interest Up 104.3% in February",
+    "entities": [
+      {
+        "name": "SPD",
+        "type": "ORG",
+        "score": 0.9230368733406067
+      },
+      {
+        "name": "NYSEAR",
+        "type": "LOC",
+        "score": 0.8684524893760681
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.327615"
+  },
+  {
+    "article_id": "69a478f18da291daea0d9b66",
+    "url": "https://baseballnewssource.com/2026/03/01/putnam-panagora-esg-emerging-markets-equity-etf-nysearcappem-short-interest-up-115-2-in-february/11044616.html",
+    "title": "Putnam PanAgora ESG Emerging Markets Equity ETF (NYSEARCA:PPEM) Short Interest Up 115.2% in February",
+    "entities": [
+      {
+        "name": "Putnam PanAgora ESG Emerging Markets Equity ET",
+        "type": "ORG",
+        "score": 0.9135366678237915
+      },
+      {
+        "name": "Putnam PanAgora ESG",
+        "type": "ORG",
+        "score": 0.9815415143966675
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.415316"
+  },
+  {
+    "article_id": "69a478f18da291daea0d9b67",
+    "url": "https://www.watchlistnews.com/wisdomtree-u-s-quality-growth-fund-nysearcaqgrw-sees-large-decrease-in-short-interest/11004419.html",
+    "title": "WisdomTree U.S. Quality Growth Fund (NYSEARCA:QGRW) Sees Large Decrease in Short Interest",
+    "entities": [
+      {
+        "name": "WisdomTree",
+        "type": "ORG",
+        "score": 0.9550682902336121
+      },
+      {
+        "name": "U. S. Quality Growth Fund",
+        "type": "ORG",
+        "score": 0.9901973605155945
+      },
+      {
+        "name": "NYSE",
+        "type": "LOC",
+        "score": 0.8620896935462952
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.501554"
+  },
+  {
+    "article_id": "69a478f18da291daea0d9b68",
+    "url": "https://baseballnewssource.com/2026/03/01/moving-image-technologies-inc-nyseamericanmitq-short-interest-update/11044615.html",
+    "title": "Moving iMage Technologies, Inc. (NYSEAMERICAN:MITQ) Short Interest Update",
+    "entities": [
+      {
+        "name": "Moving iMage Technologies Inc",
+        "type": "ORG",
+        "score": 0.9302085638046265
+      },
+      {
+        "name": "NYSE",
+        "type": "LOC",
+        "score": 0.9205130934715271
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.580257"
+  },
+  {
+    "article_id": "69a478f18da291daea0d9b69",
+    "url": "https://www.watchlistnews.com/intellinetics-inc-nyseamericaninlx-short-interest-down-59-7-in-february/11004420.html",
+    "title": "Intellinetics, Inc. (NYSEAMERICAN:INLX) Short Interest Down 59.7% in February",
+    "entities": [
+      {
+        "name": "Intellinetics Inc",
+        "type": "ORG",
+        "score": 0.9993104934692383
+      },
+      {
+        "name": "NYSE",
+        "type": "LOC",
+        "score": 0.9385886192321777
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.656472"
+  },
+  {
+    "article_id": "69a478f18da291daea0d9b6a",
+    "url": "https://www.tickerreport.com/banking-finance/13362937/aim-immunotech-inc-nyseamericanaim-short-interest-down-56-5-in-february.html",
+    "title": "AIM ImmunoTech Inc. (NYSEAMERICAN:AIM) Short Interest Down 56.5% in February",
+    "entities": [
+      {
+        "name": "AIM ImmunoTech Inc",
+        "type": "ORG",
+        "score": 0.9988853931427002
+      },
+      {
+        "name": "NYSE",
+        "type": "LOC",
+        "score": 0.9019086956977844
+      },
+      {
+        "name": "AIM",
+        "type": "ORG",
+        "score": 0.9960911273956299
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.735396"
+  },
+  {
+    "article_id": "69a478f9e2c633f03a5104e4",
+    "url": "https://www.theweek.in/wire-updates/international/2026/03/01/world-leaders-react-cautiously-to-us-and-israeli-strikes-and-death-of-iran-leader-ali-khamenei.html",
+    "title": "World leaders react cautiously to US and Israeli strikes and death of Iran leader Ali Khamenei",
+    "entities": [
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997068047523499
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998451471328735
+      },
+      {
+        "name": "Ali Khamenei",
+        "type": "PER",
+        "score": 0.9744672775268555
+      },
+      {
+        "name": "Brussels",
+        "type": "LOC",
+        "score": 0.9514350891113281
+      }
+    ],
+    "extracted_at": "2026-03-03T12:39:41.941797"
+  }
+]

@@ -1,0 +1,89 @@
+===============================================================================
+🔧 TROUBLESHOOTING: "No module named" Errors
+===============================================================================
+
+PROBLEM: Getting errors like "No module named 'pymongo'" or similar?
+
+CAUSE: You're using a virtual environment but packages aren't installed there.
+
+===============================================================================
+QUICK FIX (Choose ONE):
+===============================================================================
+
+OPTION 1: Run the installer script
+-----------------------------------
+python install_packages.py
+
+This automatically installs all packages in your virtual environment.
+
+
+OPTION 2: Manual install
+-------------------------
+& ".venv\Scripts\python.exe" -m pip install -r requirements.txt
+
+This installs all required packages.
+
+
+OPTION 3: Use the batch file
+-----------------------------
+Double-click: RUN_COMPLETE.bat
+
+This automatically activates venv and runs the pipeline.
+
+
+===============================================================================
+HOW TO RUN COMPLETE PIPELINE:
+===============================================================================
+
+After fixing packages, use ANY of these methods:
+
+1. EASIEST: Double-click RUN_COMPLETE.bat
+
+2. VS Code: Click ▶️ on complete_pipeline.py
+
+3. Terminal:
+   & ".venv\Scripts\python.exe" complete_pipeline.py
+
+4. OR activate venv first:
+   .venv\Scripts\activate
+   python complete_pipeline.py
+
+
+===============================================================================
+REQUIRED PACKAGES:
+===============================================================================
+
+✓ pymongo          - MongoDB connection
+✓ neo4j            - Neo4j graph database
+✓ transformers     - BERT NER model
+✓ torch            - PyTorch for transformers
+✓ streamlit        - Dashboard
+✓ pandas           - Data processing
+✓ plotly           - Visualizations
+✓ requests         - API calls
+✓ langdetect       - Language detection
+✓ feedparser       - RSS feeds
+✓ schedule         - Task scheduling
+✓ networkx         - Graph operations
+
+
+===============================================================================
+VERIFY INSTALLATION:
+===============================================================================
+
+Run this to check if packages installed:
+
+& ".venv\Scripts\python.exe" -c "import pymongo, neo4j, transformers; print('✓ All packages installed!')"
+
+
+===============================================================================
+STILL HAVING ISSUES?
+===============================================================================
+
+1. Delete .venv folder
+2. Run: python -m venv .venv
+3. Run: python install_packages.py
+4. Try again!
+
+
+===============================================================================

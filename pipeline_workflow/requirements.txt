@@ -1,0 +1,7 @@
+requests
+pymongo
+langdetect
+feedparser
+spacy
+streamlit
+pyngrok

@@ -37,3 +37,6 @@ Thumbs.db
 # Models (too large)
 models/
 bert-base-NER/
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml

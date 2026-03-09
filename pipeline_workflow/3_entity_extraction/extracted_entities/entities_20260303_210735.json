@@ -1,0 +1,6029 @@
+[
+  {
+    "article_id": "69a6ffafc614d68a022e214a",
+    "url": "https://www.bbc.com/news/articles/c1kglr2dvk9o?at_medium=RSS&at_campaign=rss",
+    "title": "Mafia boss behind notorious murders in Italy dies behind bars in Milan",
+    "entities": [
+      {
+        "name": "Italy",
+        "type": "LOC",
+        "score": 0.9995434880256653
+      },
+      {
+        "name": "Milan",
+        "type": "LOC",
+        "score": 0.9962551593780518
+      },
+      {
+        "name": "tto",
+        "type": "PER",
+        "score": 0.9329172372817993
+      },
+      {
+        "name": "Santapaola",
+        "type": "PER",
+        "score": 0.9919463992118835
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:50.469607"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2163",
+    "url": "https://www.bbc.com/news/videos/cd70zp0v3g4o?at_medium=RSS&at_campaign=rss",
+    "title": "Watch: Footage from across Iran shows scale of strikes",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997467398643494
+      },
+      {
+        "name": "BBC",
+        "type": "ORG",
+        "score": 0.9985767602920532
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9996733665466309
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:50.716162"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2167",
+    "url": "https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&at_campaign=rss",
+    "title": "UK considers sending Royal Navy warship to Cyprus",
+    "entities": [
+      {
+        "name": "Royal Navy",
+        "type": "ORG",
+        "score": 0.9939730167388916
+      },
+      {
+        "name": "Cyprus Defence",
+        "type": "ORG",
+        "score": 0.9409731030464172
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:51.021034"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2168",
+    "url": "https://www.bbc.com/news/articles/cgml4e7p3x2o?at_medium=RSS&at_campaign=rss",
+    "title": "We need more updates, say British nationals stuck in Middle East",
+    "entities": [
+      {
+        "name": "British",
+        "type": "MISC",
+        "score": 0.999700665473938
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9626297950744629
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:51.319385"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2169",
+    "url": "https://www.bbc.com/news/articles/cvgjn1rpwn7o?at_medium=RSS&at_campaign=rss",
+    "title": "Rapper Ghetts jailed over fatal hit-and-run",
+    "entities": [
+      {
+        "name": "Ghe",
+        "type": "PER",
+        "score": 0.9800014495849609
+      },
+      {
+        "name": "BMW",
+        "type": "ORG",
+        "score": 0.9938111901283264
+      },
+      {
+        "name": "Nepali",
+        "type": "MISC",
+        "score": 0.9996781349182129
+      },
+      {
+        "name": "bin Tamang",
+        "type": "PER",
+        "score": 0.9981169700622559
+      },
+      {
+        "name": "Ilford",
+        "type": "LOC",
+        "score": 0.996891438961029
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:51.584859"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e216a",
+    "url": "https://www.bbc.com/news/articles/cm28xp0w7v3o?at_medium=RSS&at_campaign=rss",
+    "title": "Sarah Everard added to beauty of world, her mother says",
+    "entities": [
+      {
+        "name": "Sarah Everard",
+        "type": "PER",
+        "score": 0.9942920804023743
+      },
+      {
+        "name": "Susan Everard",
+        "type": "PER",
+        "score": 0.9953937530517578
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:51.826908"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e216b",
+    "url": "https://www.bbc.com/news/articles/c78jekj2pkyo?at_medium=RSS&at_campaign=rss",
+    "title": "Major gangland figures 'arrested in Bahrain' months after fleeing Dubai",
+    "entities": [
+      {
+        "name": "Bahrain",
+        "type": "LOC",
+        "score": 0.9998458623886108
+      },
+      {
+        "name": "Dubai",
+        "type": "LOC",
+        "score": 0.9997195601463318
+      },
+      {
+        "name": "Steven Lyons",
+        "type": "PER",
+        "score": 0.9995889067649841
+      },
+      {
+        "name": "Ross McGill",
+        "type": "PER",
+        "score": 0.9997438788414001
+      },
+      {
+        "name": "Gulf",
+        "type": "LOC",
+        "score": 0.9944966435432434
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:52.086922"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e216c",
+    "url": "https://www.bbc.com/news/articles/c75ex9e0yzxo?at_medium=RSS&at_campaign=rss",
+    "title": "Go further on regulating leasehold managing agents, Rayner urges",
+    "entities": [
+      {
+        "name": "Ray",
+        "type": "PER",
+        "score": 0.9993754029273987
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:52.369633"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e216d",
+    "url": "https://www.bbc.com/news/articles/cr73jx9e59ko?at_medium=RSS&at_campaign=rss",
+    "title": "Man stabbed near Birmingham primary school",
+    "entities": [
+      {
+        "name": "Birmingham",
+        "type": "LOC",
+        "score": 0.9994074106216431
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:52.576359"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e216f",
+    "url": "https://www.bbc.com/weather/articles/cpd8yyw5deyo?at_medium=RSS&at_campaign=rss",
+    "title": "Full Worm and Blood Moon shines in night sky",
+    "entities": [
+      {
+        "name": "Full Worm",
+        "type": "MISC",
+        "score": 0.8740352988243103
+      },
+      {
+        "name": "Blood Moon",
+        "type": "MISC",
+        "score": 0.9066283702850342
+      },
+      {
+        "name": "Moon",
+        "type": "MISC",
+        "score": 0.9408560991287231
+      },
+      {
+        "name": "Simon King",
+        "type": "PER",
+        "score": 0.9992302060127258
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:52.817231"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2170",
+    "url": "https://www.bbc.com/news/articles/czx43r561w9o?at_medium=RSS&at_campaign=rss",
+    "title": "New by-law to stop people roaming at first Scottish Center Parcs",
+    "entities": [
+      {
+        "name": "Scottish",
+        "type": "MISC",
+        "score": 0.9997491240501404
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:53.075241"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2180",
+    "url": "https://www.bbc.com/news/articles/cgl5835w8g8o?at_medium=RSS&at_campaign=rss",
+    "title": "Ardrossan harbour to be taken into public ownership",
+    "entities": [
+      {
+        "name": "rdrossan",
+        "type": "LOC",
+        "score": 0.926105797290802
+      },
+      {
+        "name": "Scottish",
+        "type": "MISC",
+        "score": 0.9995594620704651
+      },
+      {
+        "name": "CMAL",
+        "type": "ORG",
+        "score": 0.9975083470344543
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:53.339836"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e222d",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/babies-evacuated-from-iranian-hospital-damaged-in-us-israeli-strikes?traffic_source=rss",
+    "title": "Babies evacuated from Iranian hospital damaged in US-Israeli strikes",
+    "entities": [
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9997157454490662
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.995771586894989
+      },
+      {
+        "name": "Bushehr",
+        "type": "LOC",
+        "score": 0.998354971408844
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997958540916443
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:53.576439"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e222e",
+    "url": "https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility?traffic_source=rss",
+    "title": "IAEA confirms buildings damaged at Iran’s Natanz nuclear facility",
+    "entities": [
+      {
+        "name": "IAEA",
+        "type": "ORG",
+        "score": 0.9962977766990662
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998316764831543
+      },
+      {
+        "name": "Natanz",
+        "type": "LOC",
+        "score": 0.9967250227928162
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9199219346046448
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:53.858723"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e222f",
+    "url": "https://www.aljazeera.com/news/2026/3/3/inside-the-us-israel-plan-to-assassinate-irans-khamenei?traffic_source=rss",
+    "title": "Inside the US-Israel plan to assassinate Iran’s Khamenei",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9574766159057617
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998302459716797
+      },
+      {
+        "name": "CIA",
+        "type": "ORG",
+        "score": 0.9987868666648865
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:54.117846"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2230",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/qatar-says-it-downed-iranian-missiles-targeting-its-airport?traffic_source=rss",
+    "title": "Qatar says it downed Iranian missiles targeting its airport",
+    "entities": [
+      {
+        "name": "Qatar",
+        "type": "LOC",
+        "score": 0.9998389482498169
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9997897744178772
+      },
+      {
+        "name": "Foreign Ministry",
+        "type": "ORG",
+        "score": 0.9681122303009033
+      },
+      {
+        "name": "Majed al - Ansari",
+        "type": "PER",
+        "score": 0.9825120568275452
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:54.370091"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2231",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-shows-government-buildings-destroyed-by-us-israeli-strikes?traffic_source=rss",
+    "title": "Iran shows government buildings destroyed by US-Israeli strikes",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998466968536377
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9996846914291382
+      },
+      {
+        "name": "Tehran",
+        "type": "LOC",
+        "score": 0.9997090697288513
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:54.587730"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2232",
+    "url": "https://www.aljazeera.com/features/2026/3/3/lebanons-ban-on-hezbollah-activities-bold-but-difficult-to-implement?traffic_source=rss",
+    "title": "Lebanon’s ban on Hezbollah ‘activities’: bold but difficult to implement",
+    "entities": [
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998216032981873
+      },
+      {
+        "name": "Hezbollah",
+        "type": "ORG",
+        "score": 0.9366806149482727
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9996985197067261
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:54.918816"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2233",
+    "url": "https://www.aljazeera.com/news/2026/3/3/is-iran-expanding-attacks-to-target-energy-and-civilian-sites-in-the-gulf?traffic_source=rss",
+    "title": "Is Iran expanding attacks to target energy and civilian sites in the Gulf?",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998173117637634
+      },
+      {
+        "name": "Gulf",
+        "type": "LOC",
+        "score": 0.9988787770271301
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:55.170968"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2234",
+    "url": "https://www.aljazeera.com/news/2026/3/3/russian-oil-will-be-sought-what-are-moscows-gains-from-the-war-in-iran?traffic_source=rss",
+    "title": "‘Russian oil will be sought’: What are Moscow’s gains from the war in Iran?",
+    "entities": [
+      {
+        "name": "Russian",
+        "type": "MISC",
+        "score": 0.9997128844261169
+      },
+      {
+        "name": "Moscow",
+        "type": "LOC",
+        "score": 0.999776303768158
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998490810394287
+      },
+      {
+        "name": "Russia",
+        "type": "LOC",
+        "score": 0.9998587369918823
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998424053192139
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:55.530147"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2237",
+    "url": "https://www.aljazeera.com/news/2026/3/3/questions-over-minab-girls-school-strike-as-israel-us-deny-involvement?traffic_source=rss",
+    "title": "Al Jazeera investigation: Iran girls’ school targeting likely ‘deliberate’",
+    "entities": [
+      {
+        "name": "Al Jazeera",
+        "type": "ORG",
+        "score": 0.998405933380127
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998611211776733
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:55.994828"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2297",
+    "url": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
+    "title": "Apple’s new Studio displays come with Thunderbolt 5",
+    "entities": [
+      {
+        "name": "Apple",
+        "type": "ORG",
+        "score": 0.9982514977455139
+      },
+      {
+        "name": "Thunderbolt 5",
+        "type": "MISC",
+        "score": 0.9777525067329407
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:56.227225"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2298",
+    "url": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
+    "title": "Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’",
+    "entities": [
+      {
+        "name": "Apple",
+        "type": "ORG",
+        "score": 0.99800044298172
+      },
+      {
+        "name": "Fusion Architecture",
+        "type": "MISC",
+        "score": 0.8515610098838806
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:56.562080"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e2299",
+    "url": "https://techcrunch.com/2026/03/03/fig-security-emerges-from-stealth-with-38m-to-help-security-teams-deal-with-change/",
+    "title": "Fig Security emerges from stealth with $38M to help security teams deal with change",
+    "entities": [
+      {
+        "name": "Security",
+        "type": "ORG",
+        "score": 0.9533719420433044
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:56.845825"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22ab",
+    "url": "https://www.theverge.com/gadgets/887836/kindle-paperwhite-colorsoft-kids-twelve-south-plugbug-charger-deal-sale",
+    "title": "All of Amazon’s kid-friendly Kindles are on sale, including the color version",
+    "entities": [
+      {
+        "name": "Amazon",
+        "type": "ORG",
+        "score": 0.9155051708221436
+      },
+      {
+        "name": "Kind",
+        "type": "MISC",
+        "score": 0.9508004188537598
+      },
+      {
+        "name": "Amazon Kids Plus",
+        "type": "MISC",
+        "score": 0.9556062817573547
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:57.520117"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22ac",
+    "url": "https://www.theverge.com/games/887838/pokemon-pokopia-ask-us-anything",
+    "title": "We played Pokémon Pokopia, ask us anything",
+    "entities": [
+      {
+        "name": "Pokmon Pokopia",
+        "type": "MISC",
+        "score": 0.9942671060562134
+      },
+      {
+        "name": "Nintendo",
+        "type": "ORG",
+        "score": 0.9965351819992065
+      },
+      {
+        "name": "Company",
+        "type": "ORG",
+        "score": 0.9639089107513428
+      },
+      {
+        "name": "Game Freak",
+        "type": "ORG",
+        "score": 0.9638831615447998
+      },
+      {
+        "name": "Omega Force",
+        "type": "ORG",
+        "score": 0.9945894479751587
+      },
+      {
+        "name": "Nintendo Switch 2",
+        "type": "MISC",
+        "score": 0.9896299242973328
+      },
+      {
+        "name": "Animal Crossing",
+        "type": "MISC",
+        "score": 0.9643957614898682
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:58.239905"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22ad",
+    "url": "https://www.theverge.com/games/887845/scott-pilgrim-ex-game-bryan-lee-omalley-interview",
+    "title": "Scott Pilgrim creator Bryan Lee O’Malley on taking ‘another run’ with new game",
+    "entities": [
+      {
+        "name": "Scott Pi",
+        "type": "PER",
+        "score": 0.99770188331604
+      },
+      {
+        "name": "grim",
+        "type": "PER",
+        "score": 0.8678359985351562
+      },
+      {
+        "name": "Bryan Lee O  Malley",
+        "type": "PER",
+        "score": 0.8960585594177246
+      },
+      {
+        "name": "The World  The Game",
+        "type": "MISC",
+        "score": 0.9764459729194641
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:58.854269"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22ae",
+    "url": "https://www.theverge.com/podcast/888089/mwc-2026-6g-foldable-robot-phones-vergecast",
+    "title": "The 6G, modular, robot phones of the future",
+    "entities": [
+      {
+        "name": "iPhone",
+        "type": "MISC",
+        "score": 0.9222710132598877
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:59.346309"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22af",
+    "url": "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first",
+    "title": "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first",
+    "entities": [
+      {
+        "name": "Xiaomi",
+        "type": "ORG",
+        "score": 0.9390939474105835
+      },
+      {
+        "name": "Google",
+        "type": "ORG",
+        "score": 0.9976977705955505
+      },
+      {
+        "name": "Samsung",
+        "type": "ORG",
+        "score": 0.9984745383262634
+      },
+      {
+        "name": "Europe",
+        "type": "LOC",
+        "score": 0.9995459914207458
+      },
+      {
+        "name": "Angus Ng",
+        "type": "PER",
+        "score": 0.9995143413543701
+      }
+    ],
+    "extracted_at": "2026-03-03T15:35:59.853743"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22b0",
+    "url": "https://www.theverge.com/games/888078/nintendo-indie-world-showcase-2026-switch-2-trailers",
+    "title": "Blue Prince headlines Nintendo’s lineup of Switch 2 indie games",
+    "entities": [
+      {
+        "name": "Nintendo",
+        "type": "ORG",
+        "score": 0.9984789490699768
+      },
+      {
+        "name": "Switch 2",
+        "type": "MISC",
+        "score": 0.9974063038825989
+      },
+      {
+        "name": "Blue Prince",
+        "type": "ORG",
+        "score": 0.87727952003479
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:00.486747"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22b1",
+    "url": "https://www.theverge.com/tech/887899/spacex-ipo-risks-ai",
+    "title": "Why is SpaceX going public?",
+    "entities": [
+      {
+        "name": "SpaceX",
+        "type": "ORG",
+        "score": 0.9982854127883911
+      },
+      {
+        "name": "Silicon Valley",
+        "type": "LOC",
+        "score": 0.9993700981140137
+      },
+      {
+        "name": "Mars",
+        "type": "LOC",
+        "score": 0.9982073307037354
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:00.953640"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22b2",
+    "url": "https://www.theverge.com/tech/888119/apple-studio-display-xdr-5k-monitor",
+    "title": "Apple’s new Studio Display XDR adds a Mini LED upgrade",
+    "entities": [
+      {
+        "name": "Apple",
+        "type": "ORG",
+        "score": 0.9985628724098206
+      },
+      {
+        "name": "Studio Display XDR",
+        "type": "MISC",
+        "score": 0.9392161965370178
+      },
+      {
+        "name": "Stage",
+        "type": "MISC",
+        "score": 0.9405311942100525
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:01.580341"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22b3",
+    "url": "https://www.theverge.com/tech/888090/apple-m5-pro-max-processors",
+    "title": "Apple launches M5 Pro and M5 Max chips",
+    "entities": [
+      {
+        "name": "Apple",
+        "type": "ORG",
+        "score": 0.9970445036888123
+      },
+      {
+        "name": "M5 Pro",
+        "type": "MISC",
+        "score": 0.9712031483650208
+      },
+      {
+        "name": "M5 Max",
+        "type": "MISC",
+        "score": 0.9196393489837646
+      },
+      {
+        "name": "MacBook Pro",
+        "type": "MISC",
+        "score": 0.9985572695732117
+      },
+      {
+        "name": "Fusion Architecture",
+        "type": "MISC",
+        "score": 0.997116208076477
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:02.202946"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22b4",
+    "url": "https://www.theverge.com/tech/888091/apple-march-2026-event-macbook-air-pro-announcement",
+    "title": "Apple announces M5 MacBook Air and updated MacBook Pro",
+    "entities": [
+      {
+        "name": "Apple",
+        "type": "ORG",
+        "score": 0.995840847492218
+      },
+      {
+        "name": "MacBook Air",
+        "type": "MISC",
+        "score": 0.9158279895782471
+      },
+      {
+        "name": "MacBook Pro",
+        "type": "MISC",
+        "score": 0.9969758987426758
+      },
+      {
+        "name": "5 Pro",
+        "type": "MISC",
+        "score": 0.8768308162689209
+      },
+      {
+        "name": "Mac",
+        "type": "MISC",
+        "score": 0.9809866547584534
+      },
+      {
+        "name": "MacBook",
+        "type": "MISC",
+        "score": 0.9887115955352783
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:02.770985"
+  },
+  {
+    "article_id": "69a6ffafc614d68a022e22b5",
+    "url": "https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/",
+    "title": "Apple's New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices",
+    "entities": [
+      {
+        "name": "Apple",
+        "type": "ORG",
+        "score": 0.9984965324401855
+      },
+      {
+        "name": "New MacBook Air",
+        "type": "MISC",
+        "score": 0.9192922711372375
+      },
+      {
+        "name": "MacBook Pro",
+        "type": "MISC",
+        "score": 0.994958221912384
+      },
+      {
+        "name": "MacBook",
+        "type": "MISC",
+        "score": 0.9884266257286072
+      },
+      {
+        "name": "Studio Display",
+        "type": "MISC",
+        "score": 0.9103556275367737
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:03.158104"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e22e7",
+    "url": "https://www.cnet.com/tech/mobile/mwc-concept-devices-2026/",
+    "title": "These Awesome Concept Gadgets Make MWC an Exciting Place to Be",
+    "entities": [
+      {
+        "name": "MWC",
+        "type": "ORG",
+        "score": 0.9137018918991089
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:03.483912"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e22e8",
+    "url": "https://www.cnet.com/tech/computing/apple-brings-macbook-air-up-to-speed-with-m5-chip/",
+    "title": "Apple Brings MacBook Air Up to Speed With M5 Chip",
+    "entities": [
+      {
+        "name": "Apple",
+        "type": "ORG",
+        "score": 0.9958158135414124
+      },
+      {
+        "name": "MacBook Air",
+        "type": "MISC",
+        "score": 0.8690928816795349
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:03.744517"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e22ea",
+    "url": "https://www.cnet.com/home/kitchen-and-household/sharks-new-robot-vacuum-uv-light-detect-clean-stains/",
+    "title": "Shark's New Robot Vacuum Uses a Blacklight to See How Gross Your Floors Are",
+    "entities": [
+      {
+        "name": "Shark",
+        "type": "ORG",
+        "score": 0.9805152416229248
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:04.084176"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e233a",
+    "url": "https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/",
+    "title": "Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula",
+    "entities": [
+      {
+        "name": "NASA",
+        "type": "ORG",
+        "score": 0.99662184715271
+      },
+      {
+        "name": "ESA",
+        "type": "ORG",
+        "score": 0.99269700050354
+      },
+      {
+        "name": "Hubble Space Telescope",
+        "type": "ORG",
+        "score": 0.8529407978057861
+      },
+      {
+        "name": "Draco",
+        "type": "LOC",
+        "score": 0.9772934913635254
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:04.796150"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e237a",
+    "url": "https://www.bbc.com/news/articles/c4gq34218jzo?at_medium=RSS&at_campaign=rss",
+    "title": "Man charged over alleged £12.4k Oasis tickets scam",
+    "entities": [
+      {
+        "name": "Oasis",
+        "type": "ORG",
+        "score": 0.9980608224868774
+      },
+      {
+        "name": "Stephen Cavanagh",
+        "type": "PER",
+        "score": 0.9994279742240906
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:05.042464"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e239c",
+    "url": "https://www.theguardian.com/australia-news/2026/mar/03/oil-gas-lng-prices-iran-war-middle-east-conflict-bills-australia-ntwnfb",
+    "title": "Australian energy bills could surge as Iran conflict drives up global gas prices",
+    "entities": [
+      {
+        "name": "Australian",
+        "type": "MISC",
+        "score": 0.9997265934944153
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998337030410767
+      },
+      {
+        "name": "Russian",
+        "type": "MISC",
+        "score": 0.9998000264167786
+      },
+      {
+        "name": "Ukraine",
+        "type": "LOC",
+        "score": 0.9998447895050049
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.999637246131897
+      },
+      {
+        "name": "Qatar",
+        "type": "LOC",
+        "score": 0.9998134970664978
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9996936321258545
+      },
+      {
+        "name": "Ras Laffan",
+        "type": "LOC",
+        "score": 0.9569638967514038
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:06.879240"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e239d",
+    "url": "https://www.theguardian.com/australia-news/2026/mar/03/officer-didnt-have-time-to-turn-on-body-worn-camera-before-shooting-sydney-man-having-psychotic-episode-inquest-hears-ntwnfb",
+    "title": "Officer ‘didn’t have time’ to turn on body-worn camera before shooting Sydney man having psychotic episode, inquest hears",
+    "entities": [
+      {
+        "name": "Sydney",
+        "type": "LOC",
+        "score": 0.999605119228363
+      },
+      {
+        "name": "Steve Pampal",
+        "type": "PER",
+        "score": 0.9993513226509094
+      },
+      {
+        "name": "Steve Pampalian",
+        "type": "PER",
+        "score": 0.9751065373420715
+      },
+      {
+        "name": "North Willoughby",
+        "type": "LOC",
+        "score": 0.9934331178665161
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:09.219778"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e239e",
+    "url": "https://www.theguardian.com/environment/2026/mar/04/wild-birds-teach-honeyeaters-sing-songs",
+    "title": "Wild-born birds recruited to teach critically endangered regent honeyeaters their lost songs",
+    "entities": [
+      {
+        "name": "Australia",
+        "type": "LOC",
+        "score": 0.9996949434280396
+      },
+      {
+        "name": "Queensland",
+        "type": "LOC",
+        "score": 0.9995531439781189
+      },
+      {
+        "name": "Kangaroo Island",
+        "type": "LOC",
+        "score": 0.9915568828582764
+      },
+      {
+        "name": "South Australia",
+        "type": "LOC",
+        "score": 0.9993634223937988
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:10.676815"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e239f",
+    "url": "https://www.theguardian.com/australia-news/2026/mar/03/albanese-government-rejected-advice-on-tasmanian-salmon-farming-impact-before-passing-pro-industry-laws",
+    "title": "Albanese government rejected advice on Tasmanian salmon farming impact before passing pro-industry laws",
+    "entities": [
+      {
+        "name": "Tasmanian",
+        "type": "MISC",
+        "score": 0.9982903599739075
+      },
+      {
+        "name": "Tasmania",
+        "type": "LOC",
+        "score": 0.9996320009231567
+      },
+      {
+        "name": "Macquarie Harbour",
+        "type": "LOC",
+        "score": 0.9975733757019043
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:12.633357"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23a0",
+    "url": "https://www.theguardian.com/australia-news/2026/mar/03/ralph-babet-refuses-to-accept-sanction-over-offensive-and-disrespectful-comments-on-social-media-ntwnfb",
+    "title": "Ralph Babet refuses to accept sanction over ‘offensive’ and ‘disrespectful’ comments on social media",
+    "entities": [
+      {
+        "name": "Ralph Babet",
+        "type": "PER",
+        "score": 0.9958308339118958
+      },
+      {
+        "name": "United Australia",
+        "type": "ORG",
+        "score": 0.9975173473358154
+      },
+      {
+        "name": "Independent Parliamentary Standards Commission",
+        "type": "ORG",
+        "score": 0.9989773035049438
+      },
+      {
+        "name": "Victorian",
+        "type": "MISC",
+        "score": 0.999552309513092
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:14.727453"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23a9",
+    "url": "https://www.theguardian.com/world/2026/mar/03/flights-depart-middle-east-travel-chaos",
+    "title": "Airlines in Middle East rule out services resuming before Thursday",
+    "entities": [
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.999400794506073
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997585415840149
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.8994992971420288
+      },
+      {
+        "name": "United Arab Emirates",
+        "type": "LOC",
+        "score": 0.9993360042572021
+      },
+      {
+        "name": "tihad",
+        "type": "ORG",
+        "score": 0.9203433394432068
+      },
+      {
+        "name": "Abu Dhabi",
+        "type": "LOC",
+        "score": 0.9995707869529724
+      },
+      {
+        "name": "Emirates",
+        "type": "ORG",
+        "score": 0.9326424598693848
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:16.145824"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23aa",
+    "url": "https://www.theguardian.com/world/2026/mar/03/uk-charter-flights-oman-evacuate-region-iran-israel-us-war",
+    "title": "UK will charter flights from Oman to evacuate Britons from region amid Iran strikes",
+    "entities": [
+      {
+        "name": "Oman",
+        "type": "LOC",
+        "score": 0.9998373985290527
+      },
+      {
+        "name": "rito",
+        "type": "MISC",
+        "score": 0.9921441078186035
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998325109481812
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9990742206573486
+      },
+      {
+        "name": "British",
+        "type": "MISC",
+        "score": 0.999769389629364
+      },
+      {
+        "name": "vet",
+        "type": "PER",
+        "score": 0.9140539765357971
+      },
+      {
+        "name": "te Cooper",
+        "type": "PER",
+        "score": 0.995361328125
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9332308769226074
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:18.057193"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23bd",
+    "url": "https://www.theguardian.com/uk-news/2026/mar/03/iran-war-living-costs-reeves-spring-forecast-statement-tax-spending",
+    "title": "‘I’m concerned the Iran war might drive up living costs’: Britons respond to Reeves’s spring forecast",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9985136389732361
+      },
+      {
+        "name": "rito",
+        "type": "MISC",
+        "score": 0.9975316524505615
+      },
+      {
+        "name": "Reeves",
+        "type": "PER",
+        "score": 0.9972327351570129
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.998634934425354
+      },
+      {
+        "name": "Guardian",
+        "type": "ORG",
+        "score": 0.9973167777061462
+      },
+      {
+        "name": "Rachel Reeves",
+        "type": "PER",
+        "score": 0.9991382360458374
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:19.896412"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23e3",
+    "url": "https://www.theguardian.com/us-news/2026/mar/03/doj-drop-law-firms-case-trump-executive-orders",
+    "title": "US DoJ drops legal case against law firms that stood up to Trump’s executive orders",
+    "entities": [
+      {
+        "name": "US DoJ",
+        "type": "ORG",
+        "score": 0.9647941589355469
+      },
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9985200762748718
+      },
+      {
+        "name": "Breaking News",
+        "type": "ORG",
+        "score": 0.9387717247009277
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9954488277435303
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:22.773833"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23e7",
+    "url": "https://www.theguardian.com/commentisfree/2026/mar/03/donald-trump-iran-usa-middle-east-war",
+    "title": "To anyone who thinks Trump can bring peace and equality to Iran – I’ve got a bridge to sell you. Going cheap | Marina Hyde",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9989481568336487
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998334646224976
+      },
+      {
+        "name": "Marina Hyde",
+        "type": "PER",
+        "score": 0.9984728097915649
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9992096424102783
+      },
+      {
+        "name": "Gaza",
+        "type": "LOC",
+        "score": 0.9997925162315369
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9992660284042358
+      },
+      {
+        "name": "ir Starmer",
+        "type": "PER",
+        "score": 0.9911928176879883
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9975359439849854
+      },
+      {
+        "name": "Americans",
+        "type": "MISC",
+        "score": 0.9992830157279968
+      },
+      {
+        "name": "Carl von Clausewitz",
+        "type": "PER",
+        "score": 0.9498610496520996
+      },
+      {
+        "name": "Pete Hegseth",
+        "type": "PER",
+        "score": 0.9956729412078857
+      },
+      {
+        "name": "Carl",
+        "type": "PER",
+        "score": 0.9992581009864807
+      },
+      {
+        "name": "Vance",
+        "type": "PER",
+        "score": 0.9639046788215637
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:25.262272"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23e8",
+    "url": "https://www.theguardian.com/commentisfree/2026/mar/03/anthropic-openai-pentagon-ethics",
+    "title": "Don’t bet that the Pentagon – or Anthropic – is acting in the public interest | Bruce Schneier and Nathan E Sanders",
+    "entities": [
+      {
+        "name": "Pentagon",
+        "type": "ORG",
+        "score": 0.9973805546760559
+      },
+      {
+        "name": "Bruce Schnei",
+        "type": "PER",
+        "score": 0.8684014081954956
+      },
+      {
+        "name": "Nathan E Sanders",
+        "type": "PER",
+        "score": 0.9277798533439636
+      },
+      {
+        "name": "US Department of Defense",
+        "type": "ORG",
+        "score": 0.9969121217727661
+      },
+      {
+        "name": "DoD",
+        "type": "ORG",
+        "score": 0.996975302696228
+      },
+      {
+        "name": "Pete Hegs",
+        "type": "PER",
+        "score": 0.9893097877502441
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:27.685420"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23f0",
+    "url": "https://www.theguardian.com/sport/2026/mar/03/golf-jon-rahm-liv-dp-world-tour-dispute-ryder-cup",
+    "title": "Jon Rahm’s Ryder Cup future increasingly at risk amid row with DP World Tour over LIV",
+    "entities": [
+      {
+        "name": "Jon Rahm",
+        "type": "PER",
+        "score": 0.9994513392448425
+      },
+      {
+        "name": "Ryder Cup",
+        "type": "MISC",
+        "score": 0.9987747669219971
+      },
+      {
+        "name": "DP World Tour",
+        "type": "MISC",
+        "score": 0.9945129156112671
+      },
+      {
+        "name": "Spaniard",
+        "type": "MISC",
+        "score": 0.9208093285560608
+      },
+      {
+        "name": "Europe",
+        "type": "LOC",
+        "score": 0.9982738494873047
+      },
+      {
+        "name": "DP World",
+        "type": "MISC",
+        "score": 0.8924759030342102
+      },
+      {
+        "name": "European",
+        "type": "MISC",
+        "score": 0.9991317391395569
+      },
+      {
+        "name": "Tour",
+        "type": "MISC",
+        "score": 0.9517340660095215
+      },
+      {
+        "name": "Saudi",
+        "type": "MISC",
+        "score": 0.9920834302902222
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:29.171141"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23f1",
+    "url": "https://www.theguardian.com/sport/2026/mar/03/cadillac-f1-valtteri-bottas-sergio-perez-graeme-lowdon",
+    "title": "Inside Cadillac’s F1 journey: ‘Our Silverstone shakedown was a miracle’",
+    "entities": [
+      {
+        "name": "Cadillac",
+        "type": "ORG",
+        "score": 0.9986839890480042
+      },
+      {
+        "name": "Formula One",
+        "type": "ORG",
+        "score": 0.966941237449646
+      },
+      {
+        "name": "Apollo",
+        "type": "MISC",
+        "score": 0.9125953912734985
+      },
+      {
+        "name": "Melbourne",
+        "type": "LOC",
+        "score": 0.9991605281829834
+      },
+      {
+        "name": "General Motors",
+        "type": "ORG",
+        "score": 0.999211311340332
+      },
+      {
+        "name": "Graeme Lowdon",
+        "type": "PER",
+        "score": 0.9941914677619934
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:30.609272"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23fb",
+    "url": "https://www.thehindu.com/news/national/karnataka/holi-celebrated-with-joy-in-belagavi/article70700327.ece",
+    "title": "Holi celebrated with joy in Belagavi",
+    "entities": [
+      {
+        "name": "Old City",
+        "type": "LOC",
+        "score": 0.9852229356765747
+      },
+      {
+        "name": "Pangul Galli",
+        "type": "LOC",
+        "score": 0.9858191013336182
+      },
+      {
+        "name": "Khadak Galli",
+        "type": "LOC",
+        "score": 0.9546316266059875
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:31.071449"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23fc",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-police-bust-international-betting-racket-seize3465-lakh/article70700287.ece",
+    "title": "Nellore police bust international betting racket, seize₹34.65 lakh",
+    "entities": [
+      {
+        "name": "Nellore",
+        "type": "LOC",
+        "score": 0.9899197816848755
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:31.243827"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23fd",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/350-cadets-pass-out-with-diploma-in-it-and-cyber-security-jointly-curated-by-srmist-and-ota/article70699909.ece",
+    "title": "350 cadets pass out with Diploma in IT and Cyber Security jointly curated by SRMIST and OTA",
+    "entities": [
+      {
+        "name": "Diploma",
+        "type": "MISC",
+        "score": 0.8522771000862122
+      },
+      {
+        "name": "OTA",
+        "type": "ORG",
+        "score": 0.9952242970466614
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:31.432986"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23fe",
+    "url": "https://www.thehindu.com/news/national/kerala/pil-seeks-removal-of-kerala-from-the-title-of-the-kerala-story-2-goes-beyond/article70700061.ece",
+    "title": "PIL seeks removal of ‘Kerala’ from the title of ‘The Kerala Story 2 – Goes Beyond’",
+    "entities": [
+      {
+        "name": "PIL",
+        "type": "ORG",
+        "score": 0.9016307592391968
+      },
+      {
+        "name": "Kerala",
+        "type": "LOC",
+        "score": 0.9886000752449036
+      },
+      {
+        "name": "The Kerala Story 2",
+        "type": "MISC",
+        "score": 0.9417757987976074
+      },
+      {
+        "name": "High Court",
+        "type": "ORG",
+        "score": 0.8943238258361816
+      },
+      {
+        "name": "CBFC",
+        "type": "ORG",
+        "score": 0.9929036498069763
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:31.787876"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e23ff",
+    "url": "https://www.thehindu.com/news/cities/bangalore/garbage-woes-building-violations-take-centre-stage-at-east-corporation-meeting/article70700204.ece",
+    "title": "Garbage woes, building violations take centre stage at east corporation meeting",
+    "entities": [
+      {
+        "name": "Rao",
+        "type": "PER",
+        "score": 0.9976911544799805
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:32.060074"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2400",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/traffic-diversions-for-holi-procession-from-central-gurudwara-on-march-4/article70700213.ece",
+    "title": "Traffic diversions for Holi procession from Central Gurudwara on March 4",
+    "entities": [
+      {
+        "name": "Central Gurudwara",
+        "type": "LOC",
+        "score": 0.9948081970214844
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:32.217329"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2402",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/ethiraj-college-for-women-opens-startup-incubation-centre/article70699956.ece",
+    "title": "Ethiraj College for Women opens startup incubation centre",
+    "entities": [
+      {
+        "name": "Ethiraj College for Women",
+        "type": "ORG",
+        "score": 0.9965174794197083
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:32.499392"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2403",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sleepless-nights-for-many-north-andhra-families-as-tensions-escalate-in-gulf/article70699608.ece",
+    "title": "Sleepless nights for many North Andhra families, as tensions escalate in Gulf",
+    "entities": [
+      {
+        "name": "Gulf",
+        "type": "LOC",
+        "score": 0.9986410737037659
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:32.656047"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2404",
+    "url": "https://www.thehindu.com/news/national/kerala/veena-george-makes-first-public-appearance-amid-speculations-over-candidature/article70700009.ece",
+    "title": "Veena George makes first public appearance amid speculations over candidature",
+    "entities": [
+      {
+        "name": "een",
+        "type": "PER",
+        "score": 0.997887909412384
+      },
+      {
+        "name": "a George",
+        "type": "PER",
+        "score": 0.9869786500930786
+      },
+      {
+        "name": "Arogyam Anandam Fest",
+        "type": "MISC",
+        "score": 0.9573581218719482
+      },
+      {
+        "name": "Pathanamthitta",
+        "type": "LOC",
+        "score": 0.9928027987480164
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:32.901441"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2405",
+    "url": "https://www.thehindu.com/news/national/election-commission-set-to-announce-poll-dates-for-west-bengal-tamil-nadu-assam-kerala-puducherry-after-bengal-visit/article70699562.ece",
+    "title": "Election Commission set to announce poll dates for West Bengal, Tamil Nadu, Assam, Kerala, Puducherry after Bengal visit",
+    "entities": [
+      {
+        "name": "Election Commission",
+        "type": "ORG",
+        "score": 0.9988575577735901
+      },
+      {
+        "name": "West Bengal",
+        "type": "LOC",
+        "score": 0.999485969543457
+      },
+      {
+        "name": "Tamil Nadu",
+        "type": "LOC",
+        "score": 0.9995415210723877
+      },
+      {
+        "name": "Assam",
+        "type": "LOC",
+        "score": 0.999797523021698
+      },
+      {
+        "name": "Kerala",
+        "type": "LOC",
+        "score": 0.999790370464325
+      },
+      {
+        "name": "uducherry",
+        "type": "LOC",
+        "score": 0.8893817067146301
+      },
+      {
+        "name": "Bengal",
+        "type": "LOC",
+        "score": 0.9997314810752869
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:33.276581"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2406",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/over-5300-kg-of-gutkha-destroyed-in-cuddalore-district/article70698952.ece",
+    "title": "Over 5,300 kg of gutkha destroyed in Cuddalore district",
+    "entities": [
+      {
+        "name": "Cuddalore",
+        "type": "LOC",
+        "score": 0.9783036112785339
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:33.448631"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2407",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/restoration-of-temple-pond-in-kurinjipadi-a-start-to-citizen-driven-revival-of-chola-era-waterbodies/article70698755.ece",
+    "title": "Restoration of temple pond in Kurinjipadi a start to citizen-driven revival of Chola-era waterbodies",
+    "entities": [
+      {
+        "name": "Kurinjipadi",
+        "type": "LOC",
+        "score": 0.8981769680976868
+      },
+      {
+        "name": "Chola",
+        "type": "MISC",
+        "score": 0.9767903089523315
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:33.871676"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2409",
+    "url": "https://www.thehindu.com/news/national/kerala/brahmapuram-manakkakadavu-stretches-of-kadambrayar-hit-by-high-coliform-levels/article70700113.ece",
+    "title": "Brahmapuram, Manakkakadavu stretches of Kadambrayar hit by high coliform levels",
+    "entities": [
+      {
+        "name": "rahmapuram",
+        "type": "LOC",
+        "score": 0.9405640959739685
+      },
+      {
+        "name": "Manakkakadavu",
+        "type": "LOC",
+        "score": 0.9784948825836182
+      },
+      {
+        "name": "Kadambrayar",
+        "type": "LOC",
+        "score": 0.9847167730331421
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:34.400527"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e240a",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/4-from-chennai-killed-after-car-falls-into-roadside-well-near-gingee/article70698923.ece",
+    "title": "4 from Chennai killed after car falls into roadside well near Gingee",
+    "entities": [
+      {
+        "name": "Chennai",
+        "type": "LOC",
+        "score": 0.9995896220207214
+      },
+      {
+        "name": "Gingee",
+        "type": "LOC",
+        "score": 0.9865180850028992
+      },
+      {
+        "name": "iruvananmalai",
+        "type": "LOC",
+        "score": 0.9326900839805603
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:34.645844"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e240b",
+    "url": "https://www.thehindu.com/photos/in-pictures-lunar-eclipse-march-3-2026/article70699911.ece",
+    "title": "In pictures: Lunar eclipse enthrals skywatchers across India and the globe",
+    "entities": [
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998108744621277
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:34.810404"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e240c",
+    "url": "https://www.thehindu.com/news/national/karnataka/khadi-utsava-held-at-sahyadri-college-receives-good-response/article70699075.ece",
+    "title": "Khadi Utsava held at Sahyadri College in Shivamogga receives good response",
+    "entities": [
+      {
+        "name": "ava",
+        "type": "MISC",
+        "score": 0.8864765763282776
+      },
+      {
+        "name": "Shivamogga",
+        "type": "LOC",
+        "score": 0.9331934452056885
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:34.992656"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e240d",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirumala-temple-closes-for-lunar-eclipse-reopens-after-purification-rites/article70700197.ece",
+    "title": "Tirumala temple closes for Lunar eclipse, reopens after purification rites",
+    "entities": [
+      {
+        "name": "Lunar",
+        "type": "MISC",
+        "score": 0.9201681613922119
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:35.164933"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e240e",
+    "url": "https://www.thehindu.com/news/national/kerala/kollam-district-panchayat-budget-focusses-on-infra-and-health/article70700097.ece",
+    "title": "Kollam district panchayat budget focusses on infra and health",
+    "entities": [
+      {
+        "name": "llam",
+        "type": "LOC",
+        "score": 0.8792558908462524
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:35.312390"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e240f",
+    "url": "https://www.thehindu.com/news/national/kerala/new-genus-and-species-of-blind-miniature-fish-discovered-in-assam/article70699781.ece",
+    "title": "New genus and species of blind miniature fish discovered in Assam",
+    "entities": [
+      {
+        "name": "Assam",
+        "type": "LOC",
+        "score": 0.9962921142578125
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:35.747698"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2410",
+    "url": "https://www.thehindu.com/news/national/karnataka/nimhans-launches-kannada-version-of-manosandesh/article70700200.ece",
+    "title": "NIMHANS launches Kannada version of ManoSandesh",
+    "entities": [
+      {
+        "name": "NIMHANS",
+        "type": "ORG",
+        "score": 0.9972500801086426
+      },
+      {
+        "name": "Kannada",
+        "type": "MISC",
+        "score": 0.9995410442352295
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:35.915126"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2411",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-siddaramaiah-writes-to-tamil-nadu-counterpart-stalin-backing-renewed-centre-state-relations-debate/article70700042.ece",
+    "title": "Karnataka Chief Minister Siddaramaiah writes to Tamil Nadu counterpart Stalin backing renewed Centre-State relations debate",
+    "entities": [
+      {
+        "name": "Karnataka",
+        "type": "LOC",
+        "score": 0.9997093081474304
+      },
+      {
+        "name": "Siddaramaiah",
+        "type": "PER",
+        "score": 0.9990161657333374
+      },
+      {
+        "name": "Tamil Nadu",
+        "type": "LOC",
+        "score": 0.9994335174560547
+      },
+      {
+        "name": "Stalin",
+        "type": "PER",
+        "score": 0.9995453953742981
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:36.566876"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2412",
+    "url": "https://www.thehindu.com/news/national/kerala/two-new-earthworm-species-discovered-in-silent-valley/article70699940.ece",
+    "title": "Two new earthworm species discovered in Silent Valley",
+    "entities": [
+      {
+        "name": "Silent Valley",
+        "type": "LOC",
+        "score": 0.9989633560180664
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:36.698536"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2413",
+    "url": "https://www.thehindu.com/news/national/kerala/former-prosecutor-pk-haridas-passes-away/article70700195.ece",
+    "title": "Former prosecutor P.K. Haridas passes away",
+    "entities": [
+      {
+        "name": ". K. Haridas",
+        "type": "PER",
+        "score": 0.9907934069633484
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:36.834705"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2414",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-condemns-us-israel-attack-on-iran/article70699223.ece",
+    "title": "CPI(M) condemns U.S.-Israel attack on Iran",
+    "entities": [
+      {
+        "name": "CPI  M",
+        "type": "ORG",
+        "score": 0.8880670070648193
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9818958044052124
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9994219541549683
+      },
+      {
+        "name": "ghavulu",
+        "type": "PER",
+        "score": 0.9805888533592224
+      },
+      {
+        "name": "TDP",
+        "type": "ORG",
+        "score": 0.9981380701065063
+      },
+      {
+        "name": "JSP",
+        "type": "ORG",
+        "score": 0.9982485771179199
+      },
+      {
+        "name": "YSRCP",
+        "type": "ORG",
+        "score": 0.9938451647758484
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:37.256342"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2415",
+    "url": "https://www.thehindu.com/news/national/karnataka/students-taken-on-flight-trip-to-bengaluru-for-ministers-birthday-celebration/article70699931.ece",
+    "title": "Students taken on flight trip to Bengaluru for Minister’s birthday celebration",
+    "entities": [
+      {
+        "name": "Bengaluru",
+        "type": "LOC",
+        "score": 0.9993364810943604
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:37.420167"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2416",
+    "url": "https://www.thehindu.com/news/national/karnataka/uber-granted-five-year-transport-aggregator-licence-in-karnataka/article70700068.ece",
+    "title": "Uber granted five-year transport aggregator licence in Karnataka",
+    "entities": [
+      {
+        "name": "Uber",
+        "type": "ORG",
+        "score": 0.9945920705795288
+      },
+      {
+        "name": "Karnataka",
+        "type": "LOC",
+        "score": 0.9994705319404602
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:37.673879"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2418",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-premier-league-expands-to-mangalagiri-and-kadapa-for-season-5-first-match-on-june-3/article70700054.ece",
+    "title": "Andhra Premier League expands to Mangalagiri and Kadapa for Season 5, first match on June 3",
+    "entities": [
+      {
+        "name": "Mangalagiri",
+        "type": "LOC",
+        "score": 0.9696006774902344
+      },
+      {
+        "name": "Kadapa",
+        "type": "LOC",
+        "score": 0.9681404232978821
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:38.038589"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2419",
+    "url": "https://www.thehindu.com/news/national/kerala/a-spices-route-to-tribal-empowerment/article70700004.ece",
+    "title": "A spices route to tribal empowerment",
+    "entities": [
+      {
+        "name": "Jayakumar",
+        "type": "PER",
+        "score": 0.9990406036376953
+      },
+      {
+        "name": "Cha",
+        "type": "LOC",
+        "score": 0.9895003437995911
+      },
+      {
+        "name": "ttupara",
+        "type": "LOC",
+        "score": 0.9609556198120117
+      },
+      {
+        "name": "Adimaly",
+        "type": "LOC",
+        "score": 0.9844141006469727
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:38.379449"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e241a",
+    "url": "https://www.thehindu.com/news/national/khamenei-killing-five-geopolitical-factors-behind-indias-silence/article70699499.ece",
+    "title": "Khamenei killing: Five geopolitical factors behind India’s silence",
+    "entities": [
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998263716697693
+      },
+      {
+        "name": "Opposition",
+        "type": "ORG",
+        "score": 0.916050136089325
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9997417330741882
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998389482498169
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:38.726058"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e241c",
+    "url": "https://www.thehindu.com/news/national/iran-israel-war-government-inter-ministerial-panel-to-monitor-take-action-trade-impact/article70699939.ece",
+    "title": "Government sets up inter-ministerial panel to monitor and take action on Iran war trade impact",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998292922973633
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:39.095089"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e241d",
+    "url": "https://www.thehindu.com/news/national/kerala/partial-reopening-of-airspace-brings-respite-to-stranded-passengers/article70699413.ece",
+    "title": "Partial reopening of airspace brings respite to stranded passengers",
+    "entities": [
+      {
+        "name": "Kerala",
+        "type": "LOC",
+        "score": 0.9997641444206238
+      },
+      {
+        "name": "West Asia",
+        "type": "LOC",
+        "score": 0.99782395362854
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:39.319544"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e241e",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-dalit-sangarsha-samithi-demands-return-of-scsp-tsp-funds-diverted-to-guarantee-schemes-to-stage-bengaluru-chalo-on-march-11/article70699408.ece",
+    "title": "Karnataka Dalit Sangarsha Samithi demands return of SCSP-TSP funds diverted to guarantee schemes; to stage Bengaluru Chalo on March 11",
+    "entities": [
+      {
+        "name": "Karnataka",
+        "type": "ORG",
+        "score": 0.9536698460578918
+      },
+      {
+        "name": "it Sangarsha Samithi",
+        "type": "ORG",
+        "score": 0.9600768089294434
+      },
+      {
+        "name": "SCSP",
+        "type": "ORG",
+        "score": 0.9043567180633545
+      },
+      {
+        "name": "TSP",
+        "type": "ORG",
+        "score": 0.9767205715179443
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:39.542763"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e241f",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/paturu-handloom-cluster-revival-to-benefit-200-weaver-families/article70699015.ece",
+    "title": "Paturu handloom cluster revival to benefit 200 weaver families",
+    "entities": [
+      {
+        "name": "Paturu",
+        "type": "LOC",
+        "score": 0.9979141354560852
+      },
+      {
+        "name": "Union",
+        "type": "ORG",
+        "score": 0.9967663288116455
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:39.884699"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2420",
+    "url": "https://www.thehindu.com/news/national/kerala/nod-for-construction-of-lower-chatta-munnar-dam/article70699746.ece",
+    "title": "Nod for construction of Lower Chatta Munnar dam",
+    "entities": [
+      {
+        "name": "Lower Chatta Munnar",
+        "type": "LOC",
+        "score": 0.9339223504066467
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:40.033095"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2421",
+    "url": "https://www.thehindu.com/news/national/karnataka/railways-to-run-56-holi-special-trains/article70699676.ece",
+    "title": "Railways to run 56 Holi special trains",
+    "entities": [
+      {
+        "name": "South Western Railway",
+        "type": "ORG",
+        "score": 0.9984754920005798
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:40.267124"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2422",
+    "url": "https://www.thehindu.com/news/national/karnataka/recent-advancements-and-best-practices-in-sericulture-value-chain-showcased-at-reshme-krishi-mela/article70699425.ece",
+    "title": "Recent advancements and best practices in sericulture value chain showcased at Reshme Krishi Mela",
+    "entities": [
+      {
+        "name": "Kris",
+        "type": "PER",
+        "score": 0.9768959879875183
+      },
+      {
+        "name": "Mel",
+        "type": "PER",
+        "score": 0.8943803310394287
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:40.449839"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2423",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-rapido-launch-driver-cum-guide-tourism-initiative-in-vijayawada/article70698883.ece",
+    "title": "A.P., Rapido launch ‘driver-cum-guide’ tourism initiative in Vijayawada",
+    "entities": [
+      {
+        "name": "Rapido",
+        "type": "ORG",
+        "score": 0.9960423707962036
+      },
+      {
+        "name": "Vijayawada",
+        "type": "LOC",
+        "score": 0.9521613121032715
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:40.783828"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2424",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/sericulture-experience-park-inaugurated-near-coonoor-in-the-nilgiris/article70699082.ece",
+    "title": "Sericulture experience park inaugurated near Coonoor in the Nilgiris",
+    "entities": [
+      {
+        "name": "Coonoor",
+        "type": "LOC",
+        "score": 0.9498944878578186
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:41.125869"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2425",
+    "url": "https://www.thehindu.com/news/national/karnataka/four-arrested-after-man-gives-supari-for-wifes-murder-makes-it-look-like-an-accident/article70699999.ece",
+    "title": "Four arrested after man gives supari for wife’s murder, makes it look like an accident",
+    "entities": [
+      {
+        "name": "SRTC",
+        "type": "ORG",
+        "score": 0.8816139698028564
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:41.411376"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2426",
+    "url": "https://www.thehindu.com/news/national/kerala/guruvayur-devaswom-post-speculation-swirls-as-av-gopinathan-meets-cm/article70699804.ece",
+    "title": "Guruvayur Devaswom post speculation swirls as A.V. Gopinathan meets CM",
+    "entities": [
+      {
+        "name": "r Devas",
+        "type": "PER",
+        "score": 0.9047828316688538
+      },
+      {
+        "name": ". V",
+        "type": "PER",
+        "score": 0.9887872338294983
+      },
+      {
+        "name": ". Gopinathan",
+        "type": "PER",
+        "score": 0.9121205806732178
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:41.606311"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2427",
+    "url": "https://www.thehindu.com/news/national/kerala/ldf-moves-early-in-kottayam-as-udf-grapples-with-seat-sharing/article70699678.ece",
+    "title": "LDF moves early in Kottayam as UDF grapples with seat sharing",
+    "entities": [
+      {
+        "name": "LDF",
+        "type": "ORG",
+        "score": 0.9970383644104004
+      },
+      {
+        "name": "Kottayam",
+        "type": "LOC",
+        "score": 0.9861367344856262
+      },
+      {
+        "name": "UDF",
+        "type": "ORG",
+        "score": 0.9898772239685059
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:41.808136"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2428",
+    "url": "https://www.thehindu.com/news/national/karnataka/490-crore-lift-irrigation-project-proposed-to-address-drinking-water-crisis-in-hanur/article70699411.ece",
+    "title": "₹490 crore lift irrigation project proposed to address drinking water crisis in Hanur",
+    "entities": [
+      {
+        "name": "Hanur",
+        "type": "LOC",
+        "score": 0.984911322593689
+      },
+      {
+        "name": "Saragur",
+        "type": "LOC",
+        "score": 0.8929538726806641
+      },
+      {
+        "name": "Kollegal",
+        "type": "LOC",
+        "score": 0.9632022380828857
+      },
+      {
+        "name": "Uduthorehalla",
+        "type": "LOC",
+        "score": 0.9412398934364319
+      },
+      {
+        "name": "Kurattihosuru",
+        "type": "LOC",
+        "score": 0.938115119934082
+      },
+      {
+        "name": "Santekane",
+        "type": "LOC",
+        "score": 0.9889870285987854
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:42.295780"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e245b",
+    "url": "https://www.ndtv.com/india-news/arvind-kejriwal-to-appear-before-probe-panel-in-phansi-ghar-case-on-friday-11164446#publisher=newsstand",
+    "title": "Arvind Kejriwal To Appear Before Probe Panel In 'Phansi Ghar' Case On Friday",
+    "entities": [
+      {
+        "name": "rvin",
+        "type": "PER",
+        "score": 0.9164119958877563
+      },
+      {
+        "name": "d Kejriwal",
+        "type": "PER",
+        "score": 0.8744560480117798
+      },
+      {
+        "name": "Kejriwal",
+        "type": "PER",
+        "score": 0.9403965473175049
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:42.648437"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e245d",
+    "url": "https://www.ndtv.com/india-news/debt-to-gsdp-ratio-down-4-to-44-47-under-aap-government-punjab-finance-minister-harpal-singh-cheema-11164206#publisher=newsstand",
+    "title": "Debt-To-GSDP Ratio Down 4% To 44.47% Under AAP Government: Punjab Minister",
+    "entities": [
+      {
+        "name": "AAP",
+        "type": "ORG",
+        "score": 0.9917041063308716
+      },
+      {
+        "name": "Punjab",
+        "type": "LOC",
+        "score": 0.9589414596557617
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:43.193135"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e245e",
+    "url": "https://www.ndtv.com/education/last-chance-to-apply-indian-army-ssc-ncc-special-entry-124-for-graduates-closes-on-this-date-11164418#publisher=newsstand",
+    "title": "Last Chance To Apply: Indian Army SSC NCC Special Entry 124 For Graduates Closes On This Date",
+    "entities": [
+      {
+        "name": "Indian Army SSC NCC",
+        "type": "ORG",
+        "score": 0.9931396842002869
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:43.511502"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e245f",
+    "url": "https://www.ndtv.com/india-news/india-quietly-works-on-homegrown-sheshnaag-150-as-us-and-iran-launch-suicide-drones-11164340#publisher=newsstand",
+    "title": "India Quietly Works On Homegrown Sheshnaag-150 As US And Iran Launch Suicide Drones",
+    "entities": [
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.999659538269043
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9993410706520081
+      },
+      {
+        "name": "Bengaluru",
+        "type": "MISC",
+        "score": 0.9600818157196045
+      },
+      {
+        "name": "Newspace Research Technologies",
+        "type": "ORG",
+        "score": 0.999424397945404
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:43.769753"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2460",
+    "url": "https://www.ndtv.com/india-news/strike-was-almost-100-m-from-us-indian-student-recounts-iran-horror-11164324#publisher=newsstand",
+    "title": "\"Strike Was Almost 100 m From Us\": Indian Student Recounts Iran Horror",
+    "entities": [
+      {
+        "name": "Iranian Red Crescent",
+        "type": "ORG",
+        "score": 0.9974023699760437
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997041821479797
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:44.047979"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2461",
+    "url": "https://www.ndtv.com/education/school-assembly-news-headlines-march-04-top-national-world-sports-updates-11164235#publisher=newsstand",
+    "title": "School Assembly News Headlines (March 04): Top National, World, Sports Updates",
+    "entities": [
+      {
+        "name": "School Assembly News",
+        "type": "ORG",
+        "score": 0.853604257106781
+      },
+      {
+        "name": "National",
+        "type": "MISC",
+        "score": 0.8516290187835693
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:44.250975"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e246f",
+    "url": "https://indianexpress.com/article/india/omar-abdullah-khamenei-death-jk-protesters-keep-law-in-mind-10563490/",
+    "title": "‘How can one not feel angry?’: Omar Abdullah condemns killing of Khamenei, appeals to J-K protesters to ‘keep law in mind’",
+    "entities": [
+      {
+        "name": "Omar Abdullah",
+        "type": "PER",
+        "score": 0.9996089935302734
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:44.497170"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2470",
+    "url": "https://indianexpress.com/article/india/bsnl-officer-visit-government-rules-protocol-10563440/",
+    "title": "The visit of an officer: As BSNL feels the heat, what do govt rules say about protocol",
+    "entities": [
+      {
+        "name": "BSNL",
+        "type": "ORG",
+        "score": 0.9993692636489868
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:44.679919"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2471",
+    "url": "https://indianexpress.com/article/india/india-iran-israel-gulf-middle-east-us-conflict-ayatollah-ali-khamenei-indian-embassy-students-10563426/",
+    "title": "Grief over lives lost, says Govt; Indian students moved out of Tehran",
+    "entities": [
+      {
+        "name": "Indian",
+        "type": "MISC",
+        "score": 0.9993619322776794
+      },
+      {
+        "name": "Tehran",
+        "type": "LOC",
+        "score": 0.9996333122253418
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:44.831076"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e2472",
+    "url": "https://indianexpress.com/article/india/rise-balendra-shah-ex-kathmandu-mayor-backed-gen-z-protest-10563379/",
+    "title": "The rise and rise of Balendra Shah: Ex-Kathmandu mayor who backed Gen Z protest",
+    "entities": [
+      {
+        "name": "Kathmandu",
+        "type": "LOC",
+        "score": 0.9948202967643738
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:45.005772"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e24d0",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/resisted-inclusion-of-babar-azam-in-squad-pakistan-selector-resigns-after-teams-poor-performance-in-t20-world-cup/articleshow/128972907.cms",
+    "title": "'Resisted Babar's inclusion': Pak selector resigns after team's poor performance in T20 WC",
+    "entities": [
+      {
+        "name": "Baba",
+        "type": "PER",
+        "score": 0.9948945045471191
+      },
+      {
+        "name": "Alee",
+        "type": "PER",
+        "score": 0.9913936853408813
+      },
+      {
+        "name": "m Dar",
+        "type": "PER",
+        "score": 0.9024522304534912
+      },
+      {
+        "name": "Pakistan Cricket Board",
+        "type": "ORG",
+        "score": 0.9947211146354675
+      },
+      {
+        "name": "T20 World Cup",
+        "type": "MISC",
+        "score": 0.9926983118057251
+      },
+      {
+        "name": "Dar",
+        "type": "PER",
+        "score": 0.9967584013938904
+      },
+      {
+        "name": "Mike Hesson",
+        "type": "PER",
+        "score": 0.9995177388191223
+      },
+      {
+        "name": "Pakistan",
+        "type": "LOC",
+        "score": 0.9998296499252319
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:45.897855"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e24d3",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-women-face-embarrassment-after-receiving-ill-fitting-kits-ahead-of-afc-asian-cup-campaign/articleshow/128974609.cms",
+    "title": "India women face embarrassment, get ill-fitting kits ahead of Asian Cup",
+    "entities": [
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.999778687953949
+      },
+      {
+        "name": "Asian Cup",
+        "type": "MISC",
+        "score": 0.9984461665153503
+      },
+      {
+        "name": "Women",
+        "type": "MISC",
+        "score": 0.945343017578125
+      },
+      {
+        "name": "Perth",
+        "type": "LOC",
+        "score": 0.9989249110221863
+      },
+      {
+        "name": "AIFF",
+        "type": "ORG",
+        "score": 0.9965980052947998
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:46.800935"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e24d5",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-eng-when-and-where-to-watch-india-vs-england-t20-world-cup-semifinal/articleshow/128965257.cms",
+    "title": "IND vs ENG: When and where to watch India vs England T20 World Cup semifinal",
+    "entities": [
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.99982750415802
+      },
+      {
+        "name": "England",
+        "type": "LOC",
+        "score": 0.9997374415397644
+      },
+      {
+        "name": "World Cup",
+        "type": "MISC",
+        "score": 0.9195257425308228
+      },
+      {
+        "name": "T20 World Cup",
+        "type": "MISC",
+        "score": 0.9934530854225159
+      },
+      {
+        "name": "Mumbai",
+        "type": "LOC",
+        "score": 0.9997099041938782
+      },
+      {
+        "name": "Wankhede Stadium",
+        "type": "LOC",
+        "score": 0.9952017068862915
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:47.698130"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e24e3",
+    "url": "https://timesofindia.indiatimes.com/india/cm-rekha-gupta-inaugurates-ndmcs-two-day-flower-festival/articleshow/128977876.cms",
+    "title": "CM Rekha Gupta inaugurates NDMC's two-day flower festival",
+    "entities": [
+      {
+        "name": "NDMC",
+        "type": "ORG",
+        "score": 0.9966650605201721
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:48.589153"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e24f7",
+    "url": "https://www.hindustantimes.com/india-news/russia-ready-to-help-india-with-energy-supply-amid-disruption-in-middle-east-report-iran-us-israel-conflict-west-asia-101772546718458.html",
+    "title": "Russia ready to help India with energy supply amid disruption in Middle East: Report",
+    "entities": [
+      {
+        "name": "Russia",
+        "type": "LOC",
+        "score": 0.9998444318771362
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9997989535331726
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9991618394851685
+      },
+      {
+        "name": "Indian",
+        "type": "MISC",
+        "score": 0.9997281432151794
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:48.865799"
+  },
+  {
+    "article_id": "69a6ffb0c614d68a022e24f8",
+    "url": "https://www.hindustantimes.com/india-news/india-again-calls-for-end-to-iran-us-conflict-stresses-energy-supply-chains-101772544683080.html",
+    "title": "India again calls for end to Iran-US conflict, stresses energy supply chains",
+    "entities": [
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9997898936271667
+      },
+      {
+        "name": "Iran",
+        "type": "MISC",
+        "score": 0.9958986639976501
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9997475743293762
+      },
+      {
+        "name": "Strait of Hormuz",
+        "type": "LOC",
+        "score": 0.9949609041213989
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:49.146484"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e25c9",
+    "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/nhai-awards-111-km-long-odisha-ring-road-project-to-3-concessionaires/articleshow/128977030.cms",
+    "title": "NHAI awards 111 km-long Odisha Ring Road project to three concessionaires",
+    "entities": [
+      {
+        "name": "NHAI",
+        "type": "ORG",
+        "score": 0.9976978898048401
+      },
+      {
+        "name": "National Highways Authority of India",
+        "type": "ORG",
+        "score": 0.9991226196289062
+      },
+      {
+        "name": "Rameshwar",
+        "type": "LOC",
+        "score": 0.9945128560066223
+      },
+      {
+        "name": "Tangi",
+        "type": "LOC",
+        "score": 0.9957398176193237
+      },
+      {
+        "name": "hubaneswar",
+        "type": "LOC",
+        "score": 0.8827632069587708
+      },
+      {
+        "name": "Cuttack",
+        "type": "LOC",
+        "score": 0.9963138103485107
+      },
+      {
+        "name": "Khordha",
+        "type": "LOC",
+        "score": 0.9957893490791321
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:50.019633"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e25ca",
+    "url": "https://economictimes.indiatimes.com/news/economy/indicators/west-asian-crisis-india-braces-for-market-impact-growth-momentum-on-track/articleshow/128976619.cms",
+    "title": "West Asian crisis: India braces for market impact; growth momentum on track",
+    "entities": [
+      {
+        "name": "West Asian",
+        "type": "MISC",
+        "score": 0.9980413913726807
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9997318387031555
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:50.505718"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e25cb",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/qatar-declares-force-majeure-gas-supplies-to-indian-industry-cut-amid-iranian-strikes/articleshow/128976766.cms",
+    "title": "Qatar declares force majeure, gas supplies to Indian industry cut amid Iranian strikes",
+    "entities": [
+      {
+        "name": "Qatar",
+        "type": "LOC",
+        "score": 0.9998227953910828
+      },
+      {
+        "name": "Indian",
+        "type": "MISC",
+        "score": 0.9997289776802063
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.999757707118988
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998167157173157
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:50.978737"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e25fb",
+    "url": "https://www.news18.com/elections/congress-releases-first-list-of-candidates-for-assam-polls-fields-gaurav-gogoi-in-jorhat-9941205.html",
+    "title": "Congress Releases First List Of Candidates For Assam Polls, Fields Gaurav Gogoi In Jorhat",
+    "entities": [
+      {
+        "name": "Congress",
+        "type": "ORG",
+        "score": 0.9986758828163147
+      },
+      {
+        "name": "Assam",
+        "type": "LOC",
+        "score": 0.8806778788566589
+      },
+      {
+        "name": "Jorhat",
+        "type": "LOC",
+        "score": 0.9817242622375488
+      },
+      {
+        "name": "Assam Congress",
+        "type": "ORG",
+        "score": 0.9978914260864258
+      },
+      {
+        "name": "v Gogoi",
+        "type": "PER",
+        "score": 0.8704521059989929
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:51.345361"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e25fc",
+    "url": "https://www.news18.com/politics/shivakumar-to-host-dinner-for-karnataka-congress-mlas-mlcs-amid-leadership-change-buzz-ws-l-9941156.html",
+    "title": "Shivakumar To Host Dinner For Karnataka Congress MLAs, MLCs Amid Leadership Change Buzz",
+    "entities": [
+      {
+        "name": "Shivakumar",
+        "type": "PER",
+        "score": 0.9922865629196167
+      },
+      {
+        "name": "Karnataka Congress",
+        "type": "ORG",
+        "score": 0.996573805809021
+      },
+      {
+        "name": "Congress",
+        "type": "ORG",
+        "score": 0.99897301197052
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:51.619451"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e262d",
+    "url": "https://www.indiatoday.in/world/story/gulf-crisis-russia-willing-help-india-energy-supplies-oil-prices-us-deal-iran-2877148-2026-03-03?utm_source=rss",
+    "title": "Russia offers India a helping hand with energy supplies amid Gulf crisis",
+    "entities": [
+      {
+        "name": "Russia",
+        "type": "LOC",
+        "score": 0.9998488426208496
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998323917388916
+      },
+      {
+        "name": "Gulf",
+        "type": "LOC",
+        "score": 0.9994426369667053
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:52.861504"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e276e",
+    "url": "https://theintercept.com/2026/03/02/trump-board-peace-human-right-abuses/",
+    "title": "Trump’s Orwellian Board of Peace Consists Entirely of Human Rights Abusers",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9988791346549988
+      },
+      {
+        "name": "Orwellian Board of Peace",
+        "type": "ORG",
+        "score": 0.9964836239814758
+      },
+      {
+        "name": "Board of Peace",
+        "type": "ORG",
+        "score": 0.9972031712532043
+      },
+      {
+        "name": "Rights Abuser",
+        "type": "ORG",
+        "score": 0.9390700459480286
+      },
+      {
+        "name": "The Intercept",
+        "type": "ORG",
+        "score": 0.9661928415298462
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:53.321260"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e2788",
+    "url": "https://www.thehindubusinessline.com/news/iran-war-surcharges-up-to-4000-per-container-on-arabian-peninsula-sea-trade/article70695780.ece",
+    "title": "Iran war: Surcharges up to $4,000 per container on Arabian Peninsula sea trade",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998220801353455
+      },
+      {
+        "name": "Arabian Peninsula",
+        "type": "LOC",
+        "score": 0.9991387724876404
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:53.618362"
+  },
+  {
+    "article_id": "69a6ffb1c614d68a022e2797",
+    "url": "https://www.thehindubusinessline.com/economy/iran-war-surcharges-up-to-4000-per-container-on-arabian-peninsula-sea-trade/article70695780.ece",
+    "title": "Iran war: Surcharges up to $4,000 per container on Arabian Peninsula sea trade",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998220801353455
+      },
+      {
+        "name": "Arabian Peninsula",
+        "type": "LOC",
+        "score": 0.9991387724876404
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:53.900027"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2800",
+    "url": "https://www.bbc.com/news/videos/cn71jg14dnyo",
+    "title": "Hegseth on Iran attacks: 'This is not Iraq, this is not endless'",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998144507408142
+      },
+      {
+        "name": "Iraq",
+        "type": "LOC",
+        "score": 0.9998028874397278
+      },
+      {
+        "name": "Pete Hegseth",
+        "type": "PER",
+        "score": 0.9974850416183472
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:54.185343"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e281d",
+    "url": "https://indianexpress.com/article/world/us-iran-conflict-pentagon-not-endless-war-america-first-10561386/",
+    "title": "‘Not an endless war, will finish on America first conditions’: What Pentagon chief Pete Hegseth said on US-Iran conflict",
+    "entities": [
+      {
+        "name": "America",
+        "type": "LOC",
+        "score": 0.999707043170929
+      },
+      {
+        "name": "Pentagon",
+        "type": "ORG",
+        "score": 0.9982724189758301
+      },
+      {
+        "name": "Pete Hegseth",
+        "type": "PER",
+        "score": 0.9994235038757324
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.999610960483551
+      },
+      {
+        "name": "Hegseth",
+        "type": "PER",
+        "score": 0.9291062355041504
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:54.556895"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2830",
+    "url": "https://www.aljazeera.com/news/2026/3/2/what-is-irans-military-strategy-how-it-has-changed-since-june-2025-war",
+    "title": "What is Iran’s military strategy? How has it changed since June 2025 war?",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998430013656616
+      },
+      {
+        "name": "Al Jazeera",
+        "type": "ORG",
+        "score": 0.9979056119918823
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998476505279541
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:54.815087"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2831",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e2c11d7f-b330-4ca0-ac96-ea496b71981a",
+    "title": "Iran's World Cup place in U.S. put in doubt by Middle East conflict. FIFA has Iraq next in line",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997970461845398
+      },
+      {
+        "name": "World Cup",
+        "type": "MISC",
+        "score": 0.9981447458267212
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9973986148834229
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9983475208282471
+      },
+      {
+        "name": "FIFA",
+        "type": "ORG",
+        "score": 0.9985657334327698
+      },
+      {
+        "name": "Iraq",
+        "type": "LOC",
+        "score": 0.9997745156288147
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.9995825886726379
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:55.297228"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2843",
+    "url": "https://www.rt.com/news/633475-washington-keeps-breaking-middle-east/",
+    "title": "How Washington keeps breaking the Middle East",
+    "entities": [
+      {
+        "name": "Washington",
+        "type": "LOC",
+        "score": 0.9997217059135437
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9963436126708984
+      },
+      {
+        "name": "CIA",
+        "type": "MISC",
+        "score": 0.998302698135376
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998400211334229
+      },
+      {
+        "name": "Iraq",
+        "type": "LOC",
+        "score": 0.9998342990875244
+      },
+      {
+        "name": "Libya",
+        "type": "LOC",
+        "score": 0.9998385906219482
+      },
+      {
+        "name": "Syria",
+        "type": "LOC",
+        "score": 0.9998258948326111
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:55.639071"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e28ab",
+    "url": "https://indianexpress.com/article/world/people-killed-village-insurgents-raid-south-sudan-10561436/",
+    "title": "169 people killed after insurgents raid a village in a remote area of South Sudan",
+    "entities": [
+      {
+        "name": "South Sudan",
+        "type": "LOC",
+        "score": 0.9984456300735474
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:55.866555"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2945",
+    "url": "https://www.politico.eu/article/ayatollah-ali-khamenei-killing-vladimir-putin-russia-iran/",
+    "title": "Why Khamenei’s killing hit Putin where it hurts",
+    "entities": [
+      {
+        "name": "Khamenei",
+        "type": "PER",
+        "score": 0.8817315101623535
+      },
+      {
+        "name": "Putin",
+        "type": "PER",
+        "score": 0.9995797276496887
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9560655951499939
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997245669364929
+      },
+      {
+        "name": "Russian",
+        "type": "MISC",
+        "score": 0.9994502663612366
+      },
+      {
+        "name": "Ukraine",
+        "type": "LOC",
+        "score": 0.9995891451835632
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:56.130674"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2946",
+    "url": "https://ca.news.yahoo.com/leave-israel-now-us-tells-030901121.html",
+    "title": "Leave Israel now, US tells citizens",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998340606689453
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.9995145797729492
+      },
+      {
+        "name": "UAE",
+        "type": "LOC",
+        "score": 0.9997188448905945
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.999845027923584
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:56.358557"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2947",
+    "url": "https://www.latimes.com/world-nation/story/2026-03-02/melania-trump-presides-at-u-n-security-council-meeting-on-children-in-conflict",
+    "title": "Melania Trump presides at U.N. meeting on children in conflict",
+    "entities": [
+      {
+        "name": "Melania Trump",
+        "type": "PER",
+        "score": 0.8912606835365295
+      },
+      {
+        "name": "U. N",
+        "type": "ORG",
+        "score": 0.9783136248588562
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9997346997261047
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:56.703204"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2948",
+    "url": "https://thenightly.com.au/australia/diesel-prices-are-surging-petrol-expected-to-jump-above-2-a-litre-amid-middle-east-conflict-c-21814044",
+    "title": "Diesel prices are surging, petrol expected to jump above $2 a litre amid Middle East conflict",
+    "entities": [
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9960760474205017
+      },
+      {
+        "name": "NRMA",
+        "type": "ORG",
+        "score": 0.9644710421562195
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:57.028468"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2949",
+    "url": "https://tribune.com.pk/story/2595581/medvedev-warns-wwiii-will-undoubtedly-begin-if-trump-pursues-regime-change",
+    "title": "Medvedev warns WWIII ‘will undoubtedly begin’ if Trump pursues regime change",
+    "entities": [
+      {
+        "name": "WWIII",
+        "type": "MISC",
+        "score": 0.968797504901886
+      },
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993756413459778
+      },
+      {
+        "name": "Russian",
+        "type": "MISC",
+        "score": 0.9997431635856628
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998313188552856
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:57.267511"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e294a",
+    "url": "https://www.ctvnews.ca/world/article/us-embassy-in-riyadh-hit-by-drones-as-israel-iran-exchange-strikes/",
+    "title": "U.S. embassy in Riyadh hit by drones as Israel, Iran exchange strikes",
+    "entities": [
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.8853435516357422
+      },
+      {
+        "name": "Riya",
+        "type": "LOC",
+        "score": 0.9396737217903137
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9997878670692444
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997177720069885
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.999210000038147
+      },
+      {
+        "name": "Arab",
+        "type": "MISC",
+        "score": 0.9893411993980408
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9198164343833923
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:57.699928"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e294b",
+    "url": "https://www.cp24.com/news/world/2026/03/03/us-embassy-in-riyadh-hit-by-drones-as-israel-iran-exchange-strikes/",
+    "title": "U.S. embassy in Riyadh hit by drones as Israel, Iran exchange strikes",
+    "entities": [
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.8853435516357422
+      },
+      {
+        "name": "Riya",
+        "type": "LOC",
+        "score": 0.9396737217903137
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9997878670692444
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997177720069885
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.999210000038147
+      },
+      {
+        "name": "Arab",
+        "type": "MISC",
+        "score": 0.9893411993980408
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9198164343833923
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:58.102624"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e294c",
+    "url": "https://www.bnnbloomberg.ca/business/politics/2026/03/03/us-embassy-in-riyadh-hit-by-drones-as-israel-iran-exchange-strikes/",
+    "title": "U.S. embassy in Riyadh hit by drones as Israel, Iran exchange strikes",
+    "entities": [
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.8853435516357422
+      },
+      {
+        "name": "Riya",
+        "type": "LOC",
+        "score": 0.9396737217903137
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9997878670692444
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997177720069885
+      },
+      {
+        "name": "Islamic Republic",
+        "type": "LOC",
+        "score": 0.999210000038147
+      },
+      {
+        "name": "Arab",
+        "type": "MISC",
+        "score": 0.9893411993980408
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9198164343833923
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:58.497231"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e294d",
+    "url": "http://calgaryherald.com/news/world/iran-china-weapons/wcm/52d11a5a-297c-4a75-b5c2-08cc8ee05ddf",
+    "title": "China criticizes U.S. attack but shows few signs it will directly supply arms to Iran",
+    "entities": [
+      {
+        "name": "China",
+        "type": "LOC",
+        "score": 0.9997913241386414
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9809224605560303
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997040629386902
+      },
+      {
+        "name": "Russia",
+        "type": "LOC",
+        "score": 0.9997007846832275
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:58.793582"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e294e",
+    "url": "https://www.newsx.com/world/putin-top-ally-issues-chilling-world-war-3-warning-says-iran-will-get-nuclear-weapons-trump-made-a-grave-mistake-by-killing-khamenei-iran-war-news-176158/",
+    "title": "Putin’s Top Ally Issues Chilling World War 3 Warning, Says Iran Will Get Nuclear Weapons, 'Trump Made A Grave Mistake By Killing Khamenei'",
+    "entities": [
+      {
+        "name": "Putin",
+        "type": "PER",
+        "score": 0.9991044402122498
+      },
+      {
+        "name": "War 3",
+        "type": "MISC",
+        "score": 0.9981988668441772
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9996371269226074
+      },
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9128845930099487
+      },
+      {
+        "name": "Russian",
+        "type": "MISC",
+        "score": 0.9997298121452332
+      },
+      {
+        "name": "Vladimir Putin",
+        "type": "PER",
+        "score": 0.9997106790542603
+      },
+      {
+        "name": "Dmitry Medvedev",
+        "type": "PER",
+        "score": 0.9946138262748718
+      },
+      {
+        "name": "World War III",
+        "type": "MISC",
+        "score": 0.9984471201896667
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.964116096496582
+      }
+    ],
+    "extracted_at": "2026-03-03T15:36:59.469943"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e294f",
+    "url": "https://interaksyon.philstar.com/hobbies-interests/2026/03/03/309998/oscar-hopefuls-spotlight-the-human-stories-of-palestinians/",
+    "title": "Oscar hopefuls spotlight the human stories of Palestinians",
+    "entities": [
+      {
+        "name": "Gaza",
+        "type": "LOC",
+        "score": 0.9997085928916931
+      },
+      {
+        "name": "Palestinian",
+        "type": "MISC",
+        "score": 0.9994903802871704
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9995798468589783
+      },
+      {
+        "name": "LOS ANGE",
+        "type": "ORG",
+        "score": 0.9686740040779114
+      },
+      {
+        "name": "Oscar",
+        "type": "MISC",
+        "score": 0.9988741278648376
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9983667731285095
+      },
+      {
+        "name": "Palestinians",
+        "type": "MISC",
+        "score": 0.9996341466903687
+      },
+      {
+        "name": "Interaksyon",
+        "type": "ORG",
+        "score": 0.9884541630744934
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:00.145233"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2964",
+    "url": "https://www.worthynews.com/112651-u-s-urges-americans-to-leave-middle-east-as-iran-war-intensifies",
+    "title": "U.S. Urges Americans to Leave Middle East as Iran War Intensifies",
+    "entities": [
+      {
+        "name": "U. S",
+        "type": "LOC",
+        "score": 0.9863519668579102
+      },
+      {
+        "name": "Americans",
+        "type": "MISC",
+        "score": 0.9721332788467407
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9987146854400635
+      },
+      {
+        "name": "Iran War",
+        "type": "MISC",
+        "score": 0.9864629507064819
+      },
+      {
+        "name": "U. S. State Department",
+        "type": "ORG",
+        "score": 0.9952996373176575
+      },
+      {
+        "name": "Middle Eastern",
+        "type": "MISC",
+        "score": 0.9978761076927185
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998160004615784
+      },
+      {
+        "name": "Iran War In",
+        "type": "MISC",
+        "score": 0.9567666053771973
+      },
+      {
+        "name": "Worthy Christian News",
+        "type": "ORG",
+        "score": 0.9907723665237427
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:00.887145"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2965",
+    "url": "https://www.communitynewspapergroup.com/news/nation/new-israel-iran-attacks-across-region-latest-developments-in-middle-east-war/article_a84ff3e2-0a8e-5318-80c7-5a87a673fb1d.html",
+    "title": "New Israel, Iran attacks across region: Latest developments in Middle East war",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9992300271987915
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998321533203125
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9975841045379639
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997726082801819
+      },
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998432397842407
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995205998420715
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9486637711524963
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:01.376629"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2966",
+    "url": "https://www.postguam.com/news/national/new-israel-iran-attacks-across-region-latest-developments-in-middle-east-war/article_65ace996-5f86-5a46-b98b-7a4a1b1d2109.html",
+    "title": "New Israel, Iran attacks across region: Latest developments in Middle East war",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9992300271987915
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998321533203125
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9975841045379639
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997726082801819
+      },
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998432397842407
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995205998420715
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9486637711524963
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:01.742813"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2967",
+    "url": "https://www.newsargus.com/news/national/new-israel-iran-attacks-across-region-latest-developments-in-middle-east-war/article_a2520fb3-8c8a-50db-9ac0-709263ec867a.html",
+    "title": "New Israel, Iran attacks across region: Latest developments in Middle East war",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9992300271987915
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998321533203125
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9975841045379639
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997726082801819
+      },
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998432397842407
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995205998420715
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9486637711524963
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:02.086032"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2968",
+    "url": "https://www.wyomingnews.com/news/national/new-israel-iran-attacks-across-region-latest-developments-in-middle-east-war/article_599f9010-5209-55fb-a2ae-38d49e803552.html",
+    "title": "New Israel, Iran attacks across region: Latest developments in Middle East war",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9992300271987915
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998321533203125
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9975841045379639
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997726082801819
+      },
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998432397842407
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995205998420715
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9486637711524963
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:02.426851"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2969",
+    "url": "https://themercury.com/news/national/new-israel-iran-attacks-across-region-latest-developments-in-middle-east-war/article_c44b0df6-f9e8-581d-8b96-409e9c78dbe1.html",
+    "title": "New Israel, Iran attacks across region: Latest developments in Middle East war",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9992300271987915
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998321533203125
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9975841045379639
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997726082801819
+      },
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998432397842407
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995205998420715
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9486637711524963
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:02.776772"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e296a",
+    "url": "https://www.guampdn.com/news/national/new-israel-iran-attacks-across-region-latest-developments-in-middle-east-war/article_3ef86b5e-26de-50df-a3ac-e2334af935a9.html",
+    "title": "New Israel, Iran attacks across region: Latest developments in Middle East war",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9992300271987915
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998321533203125
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9975841045379639
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997726082801819
+      },
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998432397842407
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995205998420715
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9486637711524963
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:03.161617"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e296b",
+    "url": "https://www.hendersondispatch.com/news/national/new-israel-iran-attacks-across-region-latest-developments-in-middle-east-war/article_35885e23-2250-565e-b1f1-1840c7864fff.html",
+    "title": "New Israel, Iran attacks across region: Latest developments in Middle East war",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9992300271987915
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998321533203125
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9975841045379639
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997726082801819
+      },
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998432397842407
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995205998420715
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9486637711524963
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:03.478912"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e296c",
+    "url": "https://www.romesentinel.com/ce/news/new-israel-iran-attacks-across-region-latest-developments-in-middle-east-war/article_61c782fd-48c4-5d6d-b18a-10421f6d01f3.html",
+    "title": "New Israel, Iran attacks across region: Latest developments in Middle East war",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9992300271987915
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998321533203125
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9975841045379639
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997726082801819
+      },
+      {
+        "name": "Lebanon",
+        "type": "LOC",
+        "score": 0.9998432397842407
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995205998420715
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9486637711524963
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:03.798048"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e296d",
+    "url": "https://economictimes.indiatimes.com/news/defence/blasts-in-kabul-amid-afghan-border-battles-with-pakistan/articleshow/128958221.cms",
+    "title": "Blasts in Kabul amid Afghan border battles with Pakistan",
+    "entities": [
+      {
+        "name": "Kabul",
+        "type": "LOC",
+        "score": 0.999798595905304
+      },
+      {
+        "name": "Afghan",
+        "type": "MISC",
+        "score": 0.9997712969779968
+      },
+      {
+        "name": "Pakistan",
+        "type": "LOC",
+        "score": 0.9997740387916565
+      },
+      {
+        "name": "Pakistani",
+        "type": "MISC",
+        "score": 0.9997109770774841
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:04.193535"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e296e",
+    "url": "https://www.miragenews.com/regime-changes-often-lead-to-disastrous-outcomes-1629681/",
+    "title": "Regime Changes Often Lead to Disastrous Outcomes",
+    "entities": [
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.925437331199646
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998283386230469
+      },
+      {
+        "name": "Matt Fitzpatrick",
+        "type": "PER",
+        "score": 0.9854187369346619
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:04.476829"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2970",
+    "url": "https://news24online.com/world/pakistan-afghanistan-war-taliban-seize-2-more-posts-along-durand-line-conflict-intensifies/763800/",
+    "title": "Pakistan-Afghanistan War: Taliban seize 2 more posts along Durand Line, conflict intensifies",
+    "entities": [
+      {
+        "name": "Pakistan",
+        "type": "LOC",
+        "score": 0.9646514654159546
+      },
+      {
+        "name": "Afghanistan War",
+        "type": "MISC",
+        "score": 0.9790193438529968
+      },
+      {
+        "name": "Durand Line",
+        "type": "LOC",
+        "score": 0.9949087500572205
+      },
+      {
+        "name": "Afghanistan",
+        "type": "LOC",
+        "score": 0.9998074173927307
+      },
+      {
+        "name": "Taliban",
+        "type": "ORG",
+        "score": 0.9430403709411621
+      },
+      {
+        "name": "News24",
+        "type": "ORG",
+        "score": 0.9985134601593018
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:04.866578"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2971",
+    "url": "https://en.tempo.co/read/2090269/pakistan-imposes-curfew-after-deadly-iran-protests",
+    "title": "Pakistan Imposes Curfew After Deadly Iran Protests",
+    "entities": [
+      {
+        "name": "Pakistan",
+        "type": "LOC",
+        "score": 0.9997596144676208
+      },
+      {
+        "name": "Iran",
+        "type": "MISC",
+        "score": 0.9153751730918884
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9987528324127197
+      },
+      {
+        "name": "Ali Khamene",
+        "type": "PER",
+        "score": 0.9867579936981201
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:05.162415"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2972",
+    "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260303-314308/",
+    "title": "Pakistan’s President Defends Ongoing Strikes in Afghanistan and Urges Kabul to Dismantle Militants",
+    "entities": [
+      {
+        "name": "Pakistan",
+        "type": "LOC",
+        "score": 0.9998138546943665
+      },
+      {
+        "name": "Afghanistan",
+        "type": "LOC",
+        "score": 0.9998362064361572
+      },
+      {
+        "name": "Kabul",
+        "type": "LOC",
+        "score": 0.998945415019989
+      },
+      {
+        "name": "Islamabad",
+        "type": "LOC",
+        "score": 0.9992491602897644
+      },
+      {
+        "name": "Afghan",
+        "type": "MISC",
+        "score": 0.9996798038482666
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:05.633762"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2973",
+    "url": "https://tribune.com.pk/story/2595578/67-taliban-terrorists-killed-in-balochistan-k-p-as-operation-ghazb-lil-haq-intensifies",
+    "title": "67 Taliban terrorists killed in Balochistan, K-P as Operation Ghazb Lil Haq intensifies",
+    "entities": [
+      {
+        "name": "lochis",
+        "type": "LOC",
+        "score": 0.9971844553947449
+      },
+      {
+        "name": "Balochistan",
+        "type": "LOC",
+        "score": 0.9104816317558289
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:05.925366"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2974",
+    "url": "https://www.digitaljournal.com/?p=3835046",
+    "title": "Rituals of resilience: how Afghan women stay sane in their ‘cage’",
+    "entities": [
+      {
+        "name": "Afghan",
+        "type": "MISC",
+        "score": 0.9997197985649109
+      },
+      {
+        "name": "AFP",
+        "type": "ORG",
+        "score": 0.9990668296813965
+      },
+      {
+        "name": "Digital Journal",
+        "type": "ORG",
+        "score": 0.9985148310661316
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:06.653218"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2975",
+    "url": "https://www.ttownmedia.com/news/national/rituals-of-resilience-how-afghan-women-stay-sane-in-their-cage/article_26336006-c429-56ea-9f4b-8b9ef628084b.html",
+    "title": "Rituals of resilience: how Afghan women stay sane in their 'cage'",
+    "entities": [
+      {
+        "name": "Afghan",
+        "type": "MISC",
+        "score": 0.9997299313545227
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:06.935312"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2976",
+    "url": "https://kdhnews.com/news/nation/rituals-of-resilience-how-afghan-women-stay-sane-in-their-cage/article_0522473e-6840-5aad-a805-2f422c296cc9.html",
+    "title": "Rituals of resilience: how Afghan women stay sane in their 'cage'",
+    "entities": [
+      {
+        "name": "Afghan",
+        "type": "MISC",
+        "score": 0.9997299313545227
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:07.241589"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2977",
+    "url": "https://news.abplive.com/news/india/modi-govt-silence-on-khamenei-death-isn-t-neutral-but-an-abdication-sonia-gandhi-1829547",
+    "title": "Modi Govt's Silence On Khamenei's Death Isn't Neutral But An Abdication: Sonia Gandhi",
+    "entities": [
+      {
+        "name": "Sonia Gandhi",
+        "type": "PER",
+        "score": 0.999366283416748
+      },
+      {
+        "name": "Congress Parliamentary Party",
+        "type": "ORG",
+        "score": 0.9990049004554749
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998155236244202
+      },
+      {
+        "name": "llah Ali Khamene",
+        "type": "PER",
+        "score": 0.9139347076416016
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998193383216858
+      },
+      {
+        "name": "Congress",
+        "type": "ORG",
+        "score": 0.9990146160125732
+      },
+      {
+        "name": "The Indian Express",
+        "type": "ORG",
+        "score": 0.9990145564079285
+      },
+      {
+        "name": "Gandhi",
+        "type": "PER",
+        "score": 0.9958211183547974
+      },
+      {
+        "name": "yed Ali Hosseini Khamene",
+        "type": "PER",
+        "score": 0.9353586435317993
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.9996621608734131
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9998154044151306
+      },
+      {
+        "name": "New Delhi",
+        "type": "LOC",
+        "score": 0.9994531273841858
+      },
+      {
+        "name": "Government of India",
+        "type": "ORG",
+        "score": 0.9810143113136292
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9997218251228333
+      },
+      {
+        "name": "Naren",
+        "type": "PER",
+        "score": 0.8790847063064575
+      },
+      {
+        "name": "dra Modi",
+        "type": "PER",
+        "score": 0.8540727496147156
+      },
+      {
+        "name": "UAE",
+        "type": "LOC",
+        "score": 0.9997474551200867
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:09.316361"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2978",
+    "url": "https://www.ilfordrecorder.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:09.546019"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2979",
+    "url": "https://www.somersetcountygazette.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:09.762429"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e297a",
+    "url": "https://www.hampshirechronicle.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:09.981756"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e297b",
+    "url": "https://www.ipswichstar.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:10.202985"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e297c",
+    "url": "https://www.guardian-series.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:10.419809"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e297d",
+    "url": "https://www.surreycomet.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:10.637006"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e297e",
+    "url": "https://www.bucksfreepress.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:10.852057"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e297f",
+    "url": "https://www.countypress.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:11.072494"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2980",
+    "url": "https://www.wandsworthguardian.co.uk/news/national/25901384.us-embassy-attacked-riyadh-trump-prepared-longer-conflict/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:11.303674"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2981",
+    "url": "https://www.ctvnews.ca/london/article/theyre-willing-to-risk-their-lives-to-get-to-this-freedom-london-couple-supports-military-efforts-to-force-regime-change-in-iran/",
+    "title": "‘They’re willing to risk their lives to get to this freedom’: London couple supports military efforts to force regime change in Iran",
+    "entities": [
+      {
+        "name": "London",
+        "type": "LOC",
+        "score": 0.9996675252914429
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998468160629272
+      },
+      {
+        "name": "Iranian",
+        "type": "MISC",
+        "score": 0.9993976354598999
+      },
+      {
+        "name": "Canadians",
+        "type": "MISC",
+        "score": 0.964359700679779
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:11.585523"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2991",
+    "url": "https://dailytrust.com/umrah-suffers-setback-as-airlines-suspend-flights-to-s-arabia/",
+    "title": "Umrah suffers setback as airlines suspend flights to S/Arabia",
+    "entities": [
+      {
+        "name": "S  Arabia",
+        "type": "LOC",
+        "score": 0.9970619082450867
+      },
+      {
+        "name": "Far",
+        "type": "PER",
+        "score": 0.9990718364715576
+      },
+      {
+        "name": "uk Shuaibu",
+        "type": "PER",
+        "score": 0.9738103747367859
+      },
+      {
+        "name": "Abuja",
+        "type": "LOC",
+        "score": 0.9993985891342163
+      },
+      {
+        "name": "o A. Musa",
+        "type": "PER",
+        "score": 0.8580436110496521
+      },
+      {
+        "name": "Jos",
+        "type": "ORG",
+        "score": 0.9814485311508179
+      },
+      {
+        "name": "Sal",
+        "type": "PER",
+        "score": 0.9997503161430359
+      },
+      {
+        "name": "im U. Ibrahim",
+        "type": "PER",
+        "score": 0.9686930179595947
+      },
+      {
+        "name": "Kano",
+        "type": "ORG",
+        "score": 0.8614227771759033
+      },
+      {
+        "name": "Ham",
+        "type": "PER",
+        "score": 0.9997217059135437
+      },
+      {
+        "name": "u K. Matazu",
+        "type": "PER",
+        "score": 0.8881686925888062
+      },
+      {
+        "name": "Maiduguri",
+        "type": "ORG",
+        "score": 0.9663295745849609
+      },
+      {
+        "name": "Mum",
+        "type": "PER",
+        "score": 0.9996904134750366
+      },
+      {
+        "name": "ini Abdulkareem",
+        "type": "PER",
+        "score": 0.9555916786193848
+      },
+      {
+        "name": "Ilorin",
+        "type": "ORG",
+        "score": 0.9701530933380127
+      },
+      {
+        "name": "Nigerian",
+        "type": "MISC",
+        "score": 0.9996267557144165
+      },
+      {
+        "name": "Umrah",
+        "type": "LOC",
+        "score": 0.9261573553085327
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOC",
+        "score": 0.9995998740196228
+      },
+      {
+        "name": "Iran",
+        "type": "MISC",
+        "score": 0.9392949342727661
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:12.291118"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e2992",
+    "url": "https://siliconcanals.com/sc-d-i-mapped-who-profits-when-a-countrys-internet-gets-shut-down-its-never-who-you-think/",
+    "title": "I mapped who profits when a country’s internet gets shut down — it’s never who you think",
+    "entities": [
+      {
+        "name": "Internet",
+        "type": "MISC",
+        "score": 0.9541093707084656
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:12.870929"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29a4",
+    "url": "https://news.abplive.com/education/school-assembly-news-headlines-today-march-3-top-national-international-sports-business-news-1829542",
+    "title": "School Assembly News Headlines Today March 3, Top National, International, Sports, Business News",
+    "entities": [
+      {
+        "name": "News",
+        "type": "ORG",
+        "score": 0.8749803304672241
+      },
+      {
+        "name": "Assembly News",
+        "type": "ORG",
+        "score": 0.9284977912902832
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9996566772460938
+      },
+      {
+        "name": "National News Abu Dhabi",
+        "type": "ORG",
+        "score": 0.9904240965843201
+      },
+      {
+        "name": "Delhi",
+        "type": "LOC",
+        "score": 0.9984608888626099
+      },
+      {
+        "name": "Dubai",
+        "type": "LOC",
+        "score": 0.9989224672317505
+      },
+      {
+        "name": "Far",
+        "type": "PER",
+        "score": 0.9482293725013733
+      },
+      {
+        "name": "Ali Khamenei",
+        "type": "PER",
+        "score": 0.9060623049736023
+      },
+      {
+        "name": "Ranchi",
+        "type": "LOC",
+        "score": 0.9982925653457642
+      },
+      {
+        "name": "Sarvodaya Vidyalaya",
+        "type": "ORG",
+        "score": 0.8969904184341431
+      },
+      {
+        "name": "Rajya Sabha",
+        "type": "ORG",
+        "score": 0.8935902714729309
+      },
+      {
+        "name": "Bihar",
+        "type": "LOC",
+        "score": 0.9977147579193115
+      },
+      {
+        "name": "Kumar",
+        "type": "PER",
+        "score": 0.9938727617263794
+      },
+      {
+        "name": "Punjab",
+        "type": "LOC",
+        "score": 0.9481859803199768
+      },
+      {
+        "name": "llah Ali Khamene",
+        "type": "PER",
+        "score": 0.8602794408798218
+      },
+      {
+        "name": "Killing Air India",
+        "type": "ORG",
+        "score": 0.9404327869415283
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9986296892166138
+      },
+      {
+        "name": "Oman",
+        "type": "LOC",
+        "score": 0.9911162853240967
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:15.300760"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29b5",
+    "url": "https://www.haaretz.com/opinion/2026-03-03/ty-article-opinion/.premium/netanyahu-hopes-the-iran-war-can-secure-him-the-elections-casualties-be-damned/0000019c-afe5-df64-a59c-eff70e4f0000",
+    "title": "Netanyahu hopes to ride the Iran war all the way to the ballot box. Never mind the casualties",
+    "entities": [
+      {
+        "name": "Netanyahu",
+        "type": "PER",
+        "score": 0.9617331027984619
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997283816337585
+      },
+      {
+        "name": "yn Rand",
+        "type": "PER",
+        "score": 0.9971349239349365
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:15.702111"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29b6",
+    "url": "https://trinidadexpress.com/opinion/columnists/wily-netanyahu-simple-trump/article_d181ea7f-318f-4c8d-b774-0069a1114754.html",
+    "title": "Wily Netanyahu, simple Trump",
+    "entities": [
+      {
+        "name": "ily Netanyahu",
+        "type": "PER",
+        "score": 0.9594882130622864
+      },
+      {
+        "name": "Trump Donald Trump",
+        "type": "PER",
+        "score": 0.9853200912475586
+      },
+      {
+        "name": "Benjamin Netanyahu",
+        "type": "PER",
+        "score": 0.9991040229797363
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997556805610657
+      },
+      {
+        "name": "American",
+        "type": "MISC",
+        "score": 0.9997655749320984
+      },
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9991220831871033
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998477697372437
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:16.050323"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29b7",
+    "url": "https://www.rutlandherald.com/ap/national/the-latest-trump-says-iran-war-could-last-weeks-us-citizens-in-dozens-of-countries/article_b240443a-504a-5c5d-999f-78d5026fe010.html",
+    "title": "The Latest: Trump says Iran war could last weeks, US citizens in dozens of countries urged to leave",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9992807507514954
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.999762237071991
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.998856782913208
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.999813973903656
+      },
+      {
+        "name": "U. S",
+        "type": "LOC",
+        "score": 0.9973533153533936
+      },
+      {
+        "name": "Tehran",
+        "type": "LOC",
+        "score": 0.9997515082359314
+      },
+      {
+        "name": "Gulf Arab",
+        "type": "LOC",
+        "score": 0.9793602824211121
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:16.461179"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29b8",
+    "url": "https://www.messenger-inquirer.com/news/local/barr-visits-with-county-farmers-during-campaign-stop/article_12e93650-1ad4-585d-b2e7-e630ba015a6e.html",
+    "title": "Barr visits with county farmers during campaign stop",
+    "entities": [
+      {
+        "name": "Barr",
+        "type": "PER",
+        "score": 0.9979571104049683
+      },
+      {
+        "name": "Andy Barr",
+        "type": "PER",
+        "score": 0.9997038841247559
+      },
+      {
+        "name": "Cecil Farms",
+        "type": "LOC",
+        "score": 0.9822835922241211
+      },
+      {
+        "name": "Daviess County",
+        "type": "LOC",
+        "score": 0.9986317753791809
+      },
+      {
+        "name": "Republican",
+        "type": "MISC",
+        "score": 0.9996539354324341
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.992154598236084
+      },
+      {
+        "name": "Senate",
+        "type": "ORG",
+        "score": 0.9313032627105713
+      },
+      {
+        "name": "Mitch",
+        "type": "PER",
+        "score": 0.9983396530151367
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:16.827563"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29b9",
+    "url": "https://www.koreaherald.com/article/10685642",
+    "title": "France to boost nuclear arsenal",
+    "entities": [
+      {
+        "name": "France",
+        "type": "LOC",
+        "score": 0.9998388290405273
+      },
+      {
+        "name": "Emmanuel Macron",
+        "type": "PER",
+        "score": 0.9996785521507263
+      },
+      {
+        "name": "Ile Longue",
+        "type": "LOC",
+        "score": 0.9808719158172607
+      },
+      {
+        "name": "Macron",
+        "type": "PER",
+        "score": 0.9929227232933044
+      },
+      {
+        "name": "European",
+        "type": "MISC",
+        "score": 0.9996629953384399
+      },
+      {
+        "name": "Germany",
+        "type": "LOC",
+        "score": 0.9997860789299011
+      },
+      {
+        "name": "Poland",
+        "type": "LOC",
+        "score": 0.999809205532074
+      },
+      {
+        "name": "Sweden",
+        "type": "LOC",
+        "score": 0.9997884631156921
+      },
+      {
+        "name": "Britain",
+        "type": "LOC",
+        "score": 0.9997883439064026
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:17.451721"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29ba",
+    "url": "https://www.deseret.com/politics/2026/03/02/mike-lee-oppose-bills-heres-why/",
+    "title": "Sen. Mike Lee says he’ll oppose housing package until election bill is passed",
+    "entities": [
+      {
+        "name": "Mike Lee",
+        "type": "PER",
+        "score": 0.9996963739395142
+      },
+      {
+        "name": "Lee",
+        "type": "PER",
+        "score": 0.9993951320648193
+      },
+      {
+        "name": "Housing for the 21st Century Act",
+        "type": "MISC",
+        "score": 0.9981460571289062
+      },
+      {
+        "name": "Senate",
+        "type": "ORG",
+        "score": 0.996484637260437
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:17.816359"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29bb",
+    "url": "https://us.headtopics.com/news/the-latest-trump-says-iran-war-could-last-weeks-us-80474617",
+    "title": "The Latest: Trump says Iran war could last weeks, US citizens in dozens of countries urged to leave",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993671774864197
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9996763467788696
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9992504119873047
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9960761666297913
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9994263648986816
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:18.224930"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29bc",
+    "url": "https://dailytrust.com/onanuga-is-right-president-tinubu-is-a-democrat-but/",
+    "title": "Onanuga is right: President Tinubu is a democrat, but...",
+    "entities": [
+      {
+        "name": "Tinub",
+        "type": "PER",
+        "score": 0.9056823253631592
+      },
+      {
+        "name": "Bayo Onanuga",
+        "type": "PER",
+        "score": 0.95770663022995
+      },
+      {
+        "name": "Information and Strategy",
+        "type": "ORG",
+        "score": 0.9708843231201172
+      },
+      {
+        "name": "ADC",
+        "type": "ORG",
+        "score": 0.999330997467041
+      },
+      {
+        "name": "NNPP",
+        "type": "ORG",
+        "score": 0.9986595511436462
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:18.857025"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29bd",
+    "url": "https://www.express.co.uk/news/world/2177434/expert-reveals-6-word-phrase-nukes-launched",
+    "title": "Expert reveals the 6-word phrase world leaders use to signal nukes are in play",
+    "entities": [
+      {
+        "name": "Annie Jacobs",
+        "type": "PER",
+        "score": 0.9997299909591675
+      },
+      {
+        "name": "Hasan Minhaj",
+        "type": "PER",
+        "score": 0.9996843338012695
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:19.186214"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29be",
+    "url": "https://www.manilatimes.net/2026/03/03/world/americas-emea/chinas-economic-ambitions-hit-limits-to-growth-as-its-national-congress-meets/2291779",
+    "title": "China's economic ambitions hit limits to growth as its national congress meets",
+    "entities": [
+      {
+        "name": "China",
+        "type": "LOC",
+        "score": 0.9997488856315613
+      },
+      {
+        "name": "Chinese",
+        "type": "MISC",
+        "score": 0.9990283250808716
+      },
+      {
+        "name": "Xi Jinping",
+        "type": "PER",
+        "score": 0.9963719248771667
+      },
+      {
+        "name": "National People  s Congress",
+        "type": "ORG",
+        "score": 0.9992033839225769
+      },
+      {
+        "name": "Beijing",
+        "type": "LOC",
+        "score": 0.9997109770774841
+      },
+      {
+        "name": "Alexander Davey",
+        "type": "PER",
+        "score": 0.9997480511665344
+      },
+      {
+        "name": "Mercator Institute for China Studies",
+        "type": "ORG",
+        "score": 0.971298336982727
+      },
+      {
+        "name": "Guangdong",
+        "type": "LOC",
+        "score": 0.9993983507156372
+      },
+      {
+        "name": "Lunar New Year",
+        "type": "MISC",
+        "score": 0.926166296005249
+      },
+      {
+        "name": ". S.",
+        "type": "LOC",
+        "score": 0.9855501055717468
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9994164705276489
+      },
+      {
+        "name": "Prasad",
+        "type": "PER",
+        "score": 0.9352647066116333
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:21.200977"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29bf",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/regimes-come-and-go-chinas-interests-in-iran-will-endure/articleshow/128958263.cms",
+    "title": "Regimes come and go. China’s interests in Iran will endure",
+    "entities": [
+      {
+        "name": "China",
+        "type": "LOC",
+        "score": 0.9998466968536377
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998577833175659
+      },
+      {
+        "name": "Beijing",
+        "type": "LOC",
+        "score": 0.9997815489768982
+      },
+      {
+        "name": "Tehran",
+        "type": "LOC",
+        "score": 0.9995905756950378
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:21.566400"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29c0",
+    "url": "https://nationalpost.com/news/world/iran-china-weapons",
+    "title": "China criticizes U.S. attack but shows few signs it will directly supply arms to Iran",
+    "entities": [
+      {
+        "name": "China",
+        "type": "LOC",
+        "score": 0.9997913241386414
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9809224605560303
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997040629386902
+      },
+      {
+        "name": "Russia",
+        "type": "LOC",
+        "score": 0.9997007846832275
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:21.852340"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29c1",
+    "url": "http://www.ecns.cn/china/national/2026-03-03/detail-ihfaizcc2494875.shtml",
+    "title": "Opening-up remains key to nation's growth",
+    "entities": [
+      {
+        "name": "Lujiazui",
+        "type": "LOC",
+        "score": 0.9699891209602356
+      },
+      {
+        "name": "China",
+        "type": "LOC",
+        "score": 0.998790442943573
+      },
+      {
+        "name": "Shanghai",
+        "type": "LOC",
+        "score": 0.9990647435188293
+      },
+      {
+        "name": "East China",
+        "type": "LOC",
+        "score": 0.9973047971725464
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:22.337167"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29c2",
+    "url": "https://tribune.com.pk/story/2595570/trump-hosts-germanys-merz-against-backdrop-of-iran-strikes-tariff-threats",
+    "title": "Trump hosts Germany's Merz against backdrop of Iran strikes, tariff threats",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9987632036209106
+      },
+      {
+        "name": "Germany",
+        "type": "LOC",
+        "score": 0.9998337030410767
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998455047607422
+      },
+      {
+        "name": "European",
+        "type": "MISC",
+        "score": 0.9995474219322205
+      },
+      {
+        "name": "Washington",
+        "type": "LOC",
+        "score": 0.9997355341911316
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:22.555229"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29c6",
+    "url": "https://www.latestly.com/agency-news/india-news-govts-silence-on-khamenei-assassination-not-neutral-but-abdication-sonia-gandhi-7338360.html",
+    "title": "India News | Govt's Silence on Khamenei Assassination Not Neutral but Abdication: Sonia Gandhi",
+    "entities": [
+      {
+        "name": "India News",
+        "type": "ORG",
+        "score": 0.9982848167419434
+      },
+      {
+        "name": "Sonia Gandhi",
+        "type": "PER",
+        "score": 0.9995123744010925
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9994940757751465
+      },
+      {
+        "name": "LatestLY",
+        "type": "ORG",
+        "score": 0.932690441608429
+      },
+      {
+        "name": "Congress Parliamentary Party",
+        "type": "ORG",
+        "score": 0.9986672401428223
+      },
+      {
+        "name": "Narendra Modi",
+        "type": "PER",
+        "score": 0.9281435012817383
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9989445805549622
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9434437155723572
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:23.156000"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29c7",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSHgyVFp0a3p3Zk9yUDA2SjktMnh2d3AwYUxJZXVReVFETDBUcEs0ZGFFYWNRWDFNX0FjQWhuR3RsVTJ4TXA3LVh0d3RBd0pLMGxyOXJTYkVUR2hSLURkMWpybm1pVGlBZkEtamVtUHpKcWJvRWRwNHFadFhLUUh5bE02ZXFOZk9ZWG9oQjUtb25Ia1diRGd1Z0FHTDViQ1ZfX0RYZkRxS2g0RWRIX0VIeUY2RXRZWGsxSlJuQVpDSzN6Y2YzWTk1RmNDSmZ6d9IB0wFBVV95cUxPdzRUakZZV2V4X2s2eXJOdlJQSlpIdlJnNXNZRGthamdxUmZBd2xCUXptcWxVTlh2cUZFekE5VGFzbjVzWEtFeEpWOEVlWWpXSFJEdDJjeWIwdEt2ZU9DdE0xLVU1dE84SE5OTE5KTjh4MDkxWnhCcGJ0elJ0QnowQU4ybzlrSmNZaTlzdWhTSENuOThMYjk4RVNWc1BzTVNISTMzcmhMd0tDY2NDWWJVUTlYV3oxZGticmFxSjZHU1E5bnlVWDVWX0hvUFQxRy0wMURF?oc=5",
+    "title": "Central govt officials pause work to recite 1-hour ‘Seva Sankalp’ pledge | India News - Hindustan Times",
+    "entities": [
+      {
+        "name": "Seva Sankalp",
+        "type": "ORG",
+        "score": 0.9448152780532837
+      },
+      {
+        "name": "India News",
+        "type": "ORG",
+        "score": 0.9852626323699951
+      },
+      {
+        "name": "Hindustan Times Central",
+        "type": "ORG",
+        "score": 0.9985455870628357
+      },
+      {
+        "name": "India News Hindustan TimesS",
+        "type": "ORG",
+        "score": 0.9130513072013855
+      },
+      {
+        "name": "Ministry of Heavy Industries",
+        "type": "ORG",
+        "score": 0.9989877939224243
+      },
+      {
+        "name": "The Times of India",
+        "type": "ORG",
+        "score": 0.9778473377227783
+      },
+      {
+        "name": "ANI News",
+        "type": "ORG",
+        "score": 0.9913132786750793
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:23.857922"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29c8",
+    "url": "https://news.abplive.com/news/india/israel-iran-war-live-updates-akasa-air-air-india-to-resume-flights-to-jeddah-muscat-from-mumbai-delhi-1829546",
+    "title": "Akasa Air, Air India Express Resume Select Gulf Flights As Israel-Iran War Tensions Disrupt Travel",
+    "entities": [
+      {
+        "name": "Akasa Air",
+        "type": "ORG",
+        "score": 0.9950008392333984
+      },
+      {
+        "name": "Air India Express",
+        "type": "ORG",
+        "score": 0.9989998936653137
+      },
+      {
+        "name": "Israel",
+        "type": "MISC",
+        "score": 0.9888820052146912
+      },
+      {
+        "name": "Iran",
+        "type": "MISC",
+        "score": 0.9668840765953064
+      },
+      {
+        "name": "Indian",
+        "type": "MISC",
+        "score": 0.9371986389160156
+      },
+      {
+        "name": "Gulf",
+        "type": "LOC",
+        "score": 0.9985882639884949
+      },
+      {
+        "name": "West Asia",
+        "type": "LOC",
+        "score": 0.9987132549285889
+      },
+      {
+        "name": "kasa Air",
+        "type": "ORG",
+        "score": 0.9959373474121094
+      },
+      {
+        "name": "Jeddah",
+        "type": "LOC",
+        "score": 0.9991917610168457
+      },
+      {
+        "name": "Jeddah Operations",
+        "type": "ORG",
+        "score": 0.9782581329345703
+      },
+      {
+        "name": "Mumbai",
+        "type": "LOC",
+        "score": 0.9993751645088196
+      },
+      {
+        "name": "Ahmedabad",
+        "type": "LOC",
+        "score": 0.9993153810501099
+      },
+      {
+        "name": "Abu Dhabi",
+        "type": "LOC",
+        "score": 0.9994989037513733
+      },
+      {
+        "name": "Kuwait",
+        "type": "LOC",
+        "score": 0.999702513217926
+      },
+      {
+        "name": "Riyadh",
+        "type": "LOC",
+        "score": 0.9239512085914612
+      },
+      {
+        "name": "Delhi",
+        "type": "LOC",
+        "score": 0.9742087721824646
+      },
+      {
+        "name": "Delhi International Airport Limited",
+        "type": "ORG",
+        "score": 0.9943759441375732
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9988724589347839
+      },
+      {
+        "name": "t FlightsAir India Express",
+        "type": "ORG",
+        "score": 0.8534513115882874
+      },
+      {
+        "name": "Bahrain",
+        "type": "LOC",
+        "score": 0.9996010661125183
+      },
+      {
+        "name": "Qatar",
+        "type": "LOC",
+        "score": 0.9992294311523438
+      },
+      {
+        "name": "Arabia",
+        "type": "LOC",
+        "score": 0.9905996918678284
+      },
+      {
+        "name": "Arab Emirates",
+        "type": "LOC",
+        "score": 0.8704503178596497
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:25.892490"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29c9",
+    "url": "https://thenewsmill.com/2026/03/karnataka-works-to-assist-kannadigas-stranded-in-dubai-amid-middle-east-conflict/",
+    "title": "Karnataka works to assist Kannadigas stranded in Dubai amid Middle East conflict",
+    "entities": [
+      {
+        "name": "Karnataka",
+        "type": "LOC",
+        "score": 0.9994655251502991
+      },
+      {
+        "name": "Dubai",
+        "type": "LOC",
+        "score": 0.9997404217720032
+      },
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9941149950027466
+      },
+      {
+        "name": "The News Mill",
+        "type": "ORG",
+        "score": 0.8959689140319824
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:26.073036"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29ca",
+    "url": "https://theprint.in/india/sonia-slams-modi-govts-silence-on-khamenei-killing-demands-debate-in-parliament/2868496/",
+    "title": "Sonia slams Modi govt’s silence on Khamenei killing, demands debate in Parliament",
+    "entities": [
+      {
+        "name": "Sonia",
+        "type": "PER",
+        "score": 0.9972155094146729
+      },
+      {
+        "name": "New Delhi",
+        "type": "LOC",
+        "score": 0.956331729888916
+      },
+      {
+        "name": "PTI",
+        "type": "ORG",
+        "score": 0.9923561811447144
+      },
+      {
+        "name": "Congress Parliamentary Party",
+        "type": "ORG",
+        "score": 0.9992168545722961
+      },
+      {
+        "name": "Sonia Gandhi",
+        "type": "PER",
+        "score": 0.9996711015701294
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998267292976379
+      },
+      {
+        "name": "llah Ali Khamenei",
+        "type": "PER",
+        "score": 0.9593728184700012
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998248219490051
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:26.649990"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29cb",
+    "url": "https://www.thedailyjagran.com/india/silence-over-iran-isnt-neutral-sonia-gandhi-questions-modi-govt-for-not-condemning-khameneis-assassination-10301483",
+    "title": "'Silence Over Iran Isn't Neutral': Sonia Gandhi Questions Modi Govt For Not Condemning Khamenei's Assassination",
+    "entities": [
+      {
+        "name": "Sonia Gandhi",
+        "type": "PER",
+        "score": 0.9991676807403564
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997912049293518
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:26.961741"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29cc",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1308019",
+    "title": "Modi speaks to Bahrain King, MBS as West Asia crisis deepens; calls for immediate de-escalation",
+    "entities": [
+      {
+        "name": "Bahrain",
+        "type": "LOC",
+        "score": 0.9268909692764282
+      },
+      {
+        "name": "West Asia",
+        "type": "LOC",
+        "score": 0.9942141175270081
+      },
+      {
+        "name": "Daijiworld Media Network",
+        "type": "ORG",
+        "score": 0.9988371729850769
+      },
+      {
+        "name": "New Delhi",
+        "type": "LOC",
+        "score": 0.991438627243042
+      },
+      {
+        "name": "Delhi",
+        "type": "LOC",
+        "score": 0.9657407999038696
+      },
+      {
+        "name": "West Asian",
+        "type": "MISC",
+        "score": 0.9967292547225952
+      },
+      {
+        "name": "Isa Al Khalifa",
+        "type": "PER",
+        "score": 0.9655836820602417
+      },
+      {
+        "name": "Mohammed bin Salman",
+        "type": "PER",
+        "score": 0.9552476406097412
+      },
+      {
+        "name": "Benjamin Netanyahu",
+        "type": "PER",
+        "score": 0.9990820288658142
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:27.548839"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29cd",
+    "url": "https://www.newsbytesapp.com/news/india/flights-from-middle-east-resume-as-india-readies-evacuation-plan/story",
+    "title": "Limited flight operations resume from Middle East to India",
+    "entities": [
+      {
+        "name": "Middle East",
+        "type": "LOC",
+        "score": 0.9994703531265259
+      },
+      {
+        "name": "India Limited",
+        "type": "ORG",
+        "score": 0.9947984218597412
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9997474551200867
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:27.783363"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29ce",
+    "url": "https://www.theweek.in/wire-updates/national/2026/03/03/sonia-slams-modi-govts-silence-on-khamenei-killing-demands-debate-in-parliament.html",
+    "title": "Sonia slams Modi govt's silence on Khamenei killing demands debate in Parliament",
+    "entities": [
+      {
+        "name": "Sonia",
+        "type": "PER",
+        "score": 0.9975531697273254
+      },
+      {
+        "name": "New Delhi",
+        "type": "LOC",
+        "score": 0.9324308633804321
+      },
+      {
+        "name": "PTI",
+        "type": "ORG",
+        "score": 0.9856890439987183
+      },
+      {
+        "name": "Congress Parliamentary Party",
+        "type": "ORG",
+        "score": 0.998874843120575
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:28.125954"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29d0",
+    "url": "https://www.upi.com/Top_News/World-News/2026/03/02/france-nuclear-arsenal/7881772501206/",
+    "title": "France to grow nuclear arsenal in push to protect Europe",
+    "entities": [
+      {
+        "name": "France",
+        "type": "LOC",
+        "score": 0.9998169541358948
+      },
+      {
+        "name": "Europe",
+        "type": "LOC",
+        "score": 0.999715268611908
+      },
+      {
+        "name": "French",
+        "type": "MISC",
+        "score": 0.999315619468689
+      },
+      {
+        "name": "Emmanuel Macron",
+        "type": "PER",
+        "score": 0.9996902942657471
+      },
+      {
+        "name": "European",
+        "type": "MISC",
+        "score": 0.9996954202651978
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:28.726553"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29d1",
+    "url": "https://ca.news.yahoo.com/france-grow-nuclear-arsenal-push-030841028.html",
+    "title": "France to grow nuclear arsenal in push to protect Europe",
+    "entities": [
+      {
+        "name": "France",
+        "type": "LOC",
+        "score": 0.9998169541358948
+      },
+      {
+        "name": "Europe",
+        "type": "LOC",
+        "score": 0.999715268611908
+      },
+      {
+        "name": "French",
+        "type": "MISC",
+        "score": 0.999315619468689
+      },
+      {
+        "name": "Emmanuel Macron",
+        "type": "PER",
+        "score": 0.9996902942657471
+      },
+      {
+        "name": "European",
+        "type": "MISC",
+        "score": 0.9996954202651978
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:28.988973"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29d2",
+    "url": "https://www.japantimes.co.jp/news/2026/03/03/world/politics/france-nuclear-weapons-european-allies/",
+    "title": "France to expand nuclear arsenal and let European allies host atomic weapons",
+    "entities": [
+      {
+        "name": "France",
+        "type": "LOC",
+        "score": 0.999804675579071
+      },
+      {
+        "name": "European",
+        "type": "MISC",
+        "score": 0.9997560381889343
+      },
+      {
+        "name": "French",
+        "type": "MISC",
+        "score": 0.9996920824050903
+      },
+      {
+        "name": "Emmanuel Macron",
+        "type": "PER",
+        "score": 0.9997164607048035
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:29.263929"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29d3",
+    "url": "https://www.koreatimes.co.kr/world/20260303/macron-says-france-will-allow-temporary-deployment-of-nuclear-armed-jets-to-european-allies",
+    "title": "Macron says France will allow temporary deployment of nuclear-armed jets to European allies",
+    "entities": [
+      {
+        "name": "ron",
+        "type": "ORG",
+        "score": 0.963597297668457
+      },
+      {
+        "name": "France",
+        "type": "LOC",
+        "score": 0.9996970891952515
+      },
+      {
+        "name": "European",
+        "type": "MISC",
+        "score": 0.9994609951972961
+      },
+      {
+        "name": "L  ILE LONGUE",
+        "type": "ORG",
+        "score": 0.9452953338623047
+      },
+      {
+        "name": "French",
+        "type": "MISC",
+        "score": 0.9995217323303223
+      },
+      {
+        "name": "Emmanuel Macron",
+        "type": "PER",
+        "score": 0.9939984679222107
+      },
+      {
+        "name": "Europe",
+        "type": "LOC",
+        "score": 0.9996556043624878
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9997448325157166
+      },
+      {
+        "name": "Macron",
+        "type": "PER",
+        "score": 0.9365106821060181
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9696100950241089
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9980161190032959
+      },
+      {
+        "name": "Russia",
+        "type": "LOC",
+        "score": 0.9995824694633484
+      },
+      {
+        "name": "Ukraine",
+        "type": "LOC",
+        "score": 0.999622106552124
+      },
+      {
+        "name": "European Union",
+        "type": "ORG",
+        "score": 0.999305248260498
+      },
+      {
+        "name": "Britain",
+        "type": "LOC",
+        "score": 0.9995918869972229
+      },
+      {
+        "name": "Atlantic",
+        "type": "LOC",
+        "score": 0.997880220413208
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:30.491126"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29d4",
+    "url": "https://timesofoman.com//article/168992-europeans-to-regain-control-of-their-own-destiny-macron-unveils-new-phase-in-france-nuclear-doctrine",
+    "title": "\"Europeans to regain control of their own destiny\": Macron unveils new phase in France nuclear doctrine",
+    "entities": [
+      {
+        "name": "Europeans",
+        "type": "MISC",
+        "score": 0.999160647392273
+      },
+      {
+        "name": "Macron",
+        "type": "PER",
+        "score": 0.9763707518577576
+      },
+      {
+        "name": "France",
+        "type": "LOC",
+        "score": 0.9997807145118713
+      },
+      {
+        "name": "Paris",
+        "type": "LOC",
+        "score": 0.9995030164718628
+      },
+      {
+        "name": "French",
+        "type": "MISC",
+        "score": 0.9996219873428345
+      },
+      {
+        "name": "Emmanuel Macron",
+        "type": "PER",
+        "score": 0.9995124936103821
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:30.845270"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29d5",
+    "url": "https://www.crescent-news.com/on_the_wire/editors_pick/world-hurries-to-respond-to-rapidly-changing-war-around-iran/article_6286505d-828b-4a06-99d1-e576a9e79b40.html",
+    "title": "World hurries to respond to rapidly changing war around Iran",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9965671300888062
+      },
+      {
+        "name": "TOKYO",
+        "type": "ORG",
+        "score": 0.9972036480903625
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9818940758705139
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:31.233292"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29da",
+    "url": "https://www.odt.co.nz/news/world/us-embassy-hit-drones-iran-conflict-widens",
+    "title": "US embassy hit by drones as Iran conflict widens",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998377561569214
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:31.408026"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29dd",
+    "url": "https://newsable.asianetnews.com/india/govts-silence-on-khamenei-killing-an-abdication-sonia-gandhi-articleshow-8odsuvi",
+    "title": "Govt's silence on Khamenei killing an 'abdication': Sonia Gandhi",
+    "entities": [
+      {
+        "name": "Sonia Gandhi Sonia Gandhi",
+        "type": "PER",
+        "score": 0.9993538856506348
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998358488082886
+      },
+      {
+        "name": "llah Khamenei",
+        "type": "PER",
+        "score": 0.9619981050491333
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9998279809951782
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:31.841426"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29de",
+    "url": "https://www.irishnews.com/news/world/us-embassy-attacked-in-riyadh-as-trump-prepared-for-longer-conflict-XAOQEVPGQZI5HNMVFEL7EGZ24U/",
+    "title": "US Embassy attacked in Riyadh as Trump prepared for longer conflict",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9993404746055603
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998360872268677
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:32.063941"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29df",
+    "url": "https://newsable.asianetnews.com/world/netanyahu-backs-usisrael-action-on-iran-slams-theological-thuggery-articleshow-kprrzsm",
+    "title": "Netanyahu backs US-Israel action on Iran, slams 'theological thuggery'",
+    "entities": [
+      {
+        "name": "Netanyahu",
+        "type": "PER",
+        "score": 0.9612957835197449
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998190999031067
+      },
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997186064720154
+      },
+      {
+        "name": "Benjamin Netanyahu",
+        "type": "PER",
+        "score": 0.9986599087715149
+      },
+      {
+        "name": "Americans",
+        "type": "MISC",
+        "score": 0.9996498823165894
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:32.488390"
+  },
+  {
+    "article_id": "69a6ffb2c614d68a022e29e0",
+    "url": "https://www.thedailybeast.com/how-trumps-war-has-triggered-new-axis-of-evil/",
+    "title": "How Trump’s War Has Triggered New Axis of Evil",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9972426891326904
+      },
+      {
+        "name": "New Axis of Evil",
+        "type": "MISC",
+        "score": 0.8760167360305786
+      },
+      {
+        "name": "Thomas Levinson",
+        "type": "PER",
+        "score": 0.9969685673713684
+      },
+      {
+        "name": "The Daily Beast",
+        "type": "ORG",
+        "score": 0.883101761341095
+      },
+      {
+        "name": "Getty",
+        "type": "ORG",
+        "score": 0.8544766902923584
+      },
+      {
+        "name": "U. S.",
+        "type": "LOC",
+        "score": 0.9980776309967041
+      },
+      {
+        "name": "Israel",
+        "type": "LOC",
+        "score": 0.9997664093971252
+      },
+      {
+        "name": "Iran",
+        "type": "LOC",
+        "score": 0.9998039603233337
+      },
+      {
+        "name": "Daily Beast",
+        "type": "ORG",
+        "score": 0.9983378648757935
+      },
+      {
+        "name": "David Rothkopf",
+        "type": "PER",
+        "score": 0.9596622586250305
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PER",
+        "score": 0.9996390342712402
+      },
+      {
+        "name": "Benjamin Netanyahu",
+        "type": "PER",
+        "score": 0.9991238713264465
+      },
+      {
+        "name": "Vladimir Putin",
+        "type": "PER",
+        "score": 0.9995156526565552
+      },
+      {
+        "name": "George W. Bush",
+        "type": "PER",
+        "score": 0.9931290149688721
+      },
+      {
+        "name": "United States",
+        "type": "LOC",
+        "score": 0.9995097517967224
+      },
+      {
+        "name": "Rothkopf",
+        "type": "PER",
+        "score": 0.9578189849853516
+      },
+      {
+        "name": "The Daily Beast Po",
+        "type": "ORG",
+        "score": 0.8721975684165955
+      },
+      {
+        "name": "Joanna Cole",
+        "type": "PER",
+        "score": 0.999618649482727
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:33.581955"
+  },
+  {
+    "article_id": "69a6ffb3c614d68a022e2ac7",
+    "url": "https://www.theguardian.com/football/2025/oct/23/afghanistan-women-refugee-players-refused-visas-uae",
+    "title": "Afghanistan women’s refugee players refused visas for first tournament in UAE ",
+    "entities": [
+      {
+        "name": "Afghanistan",
+        "type": "LOC",
+        "score": 0.9998617172241211
+      },
+      {
+        "name": "UAE",
+        "type": "LOC",
+        "score": 0.9997990727424622
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:33.813129"
+  },
+  {
+    "article_id": "69a6ffb3c614d68a022e2c8a",
+    "url": "https://www.theguardian.com/sport/2026/mar/03/sam-curran-england-cricket-india-t20-world-cup-semi-final",
+    "title": "Sam Curran insists India T20 World Cup semi-final holds ‘no fear’ for England",
+    "entities": [
+      {
+        "name": "Sam Curran",
+        "type": "PER",
+        "score": 0.9997684359550476
+      },
+      {
+        "name": "India",
+        "type": "LOC",
+        "score": 0.9997683167457581
+      },
+      {
+        "name": "T20 World Cup",
+        "type": "MISC",
+        "score": 0.9857320189476013
+      },
+      {
+        "name": "England",
+        "type": "LOC",
+        "score": 0.9998031258583069
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:34.092089"
+  },
+  {
+    "article_id": "69a6ffb4c614d68a022e2d3d",
+    "url": "https://www.theguardian.com/world/2026/feb/13/israeli-journalists-fear-press-freedom-uk-billionaire-sells-tv-channel-stake",
+    "title": "Israeli journalists fear for press freedom if UK billionaire sells TV channel stake",
+    "entities": [
+      {
+        "name": "Israeli",
+        "type": "MISC",
+        "score": 0.9997003078460693
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:34.327486"
+  },
+  {
+    "article_id": "69a6ffb4c614d68a022e2d56",
+    "url": "https://www.theguardian.com/world/2026/feb/09/ukraine-war-briefing-zelenskyy-says-russian-energy-sites-are-legitimate-targets",
+    "title": "Ukraine war briefing: Zelenskyy says Russian energy sites are legitimate targets",
+    "entities": [
+      {
+        "name": "Ukraine",
+        "type": "LOC",
+        "score": 0.999736487865448
+      },
+      {
+        "name": "Russian",
+        "type": "MISC",
+        "score": 0.9998087286949158
+      },
+      {
+        "name": "Zele",
+        "type": "PER",
+        "score": 0.8609327673912048
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:34.649589"
+  },
+  {
+    "article_id": "69a6ffb4c614d68a022e2e5d",
+    "url": "https://www.theguardian.com/world/2025/dec/26/zelenskyy-to-meet-trump-in-coming-days-as-us-steps-up-push-for-ukraine-peace-deal",
+    "title": "Zelenskyy to travel to US for Trump meeting amid push for Ukraine  deal",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PER",
+        "score": 0.9986649751663208
+      },
+      {
+        "name": "Ukraine",
+        "type": "LOC",
+        "score": 0.9996640682220459
+      },
+      {
+        "name": "Zele",
+        "type": "PER",
+        "score": 0.9623850584030151
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:34.883665"
+  },
+  {
+    "article_id": "69a6ffb5c614d68a022e3215",
+    "url": "https://www.theguardian.com/commentisfree/2025/aug/06/meet-the-ai-vegans",
+    "title": "Meet the AI vegans | Arwa Mahdawi",
+    "entities": [
+      {
+        "name": "wa Mahda",
+        "type": "PER",
+        "score": 0.9303185939788818
+      }
+    ],
+    "extracted_at": "2026-03-03T15:37:35.274687"
+  }
+]
